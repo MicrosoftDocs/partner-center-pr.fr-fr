@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2663122ca95e8d610c8be792a26682ae1718bf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd226122f8e69e0667006f274d2ef080bbe47b9b
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276312"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565421"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport sur les abonnements au produit disponible dans le tableau de bord Insights de l’espace partenaires
 
@@ -32,7 +32,7 @@ Vous pouvez consulter les sections suivantes dans le rapport abonnements aux pro
 - Tendance des produits
 
  > [!NOTE]
- > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre société. les types spécifiques de données de ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
+ > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez disposer d’un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
 ## <a name="summary"></a>Résumé
 
@@ -48,7 +48,7 @@ Pour plus d’informations sur chaque section du résumé, voir ci-dessous :
   - Le micro-graphique présente une tendance mensuelle du nombre d’abonnements pendant la plage de dates sélectionnée.
 
 - Abonnements actifs :
-  - Nombre actuel d’abonnements à un produit Cloud avec utilisation active mesurée en fonction de la télémétrie du produit. Cela exclut tous les abonnements d’essai dans le cas d’abonnements Azure.
+  - Nombre actuel d’abonnements à un produit Cloud avec utilisation active mesurée en fonction de la télémétrie du produit. Cela exclut tous les abonnements d’évaluation pour les abonnements Azure.
   - Croissance en pourcentage ou baisse des abonnements actifs sur la période sélectionnée.
   - Le micro-graphique présente une tendance de mois sur mois des abonnements actifs pendant la plage de dates sélectionnée.
 
@@ -84,7 +84,7 @@ L’histogramme empilé présente une répartition des abonnements nouveaux, exi
 
 ## <a name="subscription-distribution"></a>Distribution des abonnements
 
-Cet affichage présente la répartition de vos abonnements actuels par vos emplacements MPN, les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution (par exemple, DPOR, DAP, etc.). Sélectionnez les onglets respectifs pour afficher la répartition selon ces catégories. Pour créer le graphique à secteurs avec une répartition de catégories d’éléments spécifiques, sélectionnez ces catégories d’éléments dans la légende.
+Cet affichage présente la répartition de vos abonnements actuels par vos emplacements Microsoft Partner Network (MPN), les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution. Sélectionnez les onglets respectifs pour afficher la répartition selon ces catégories. Pour créer le graphique à secteurs avec une répartition de catégories d’éléments spécifiques, sélectionnez ces catégories d’éléments dans la légende.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribution des abonnements.":::
 
@@ -96,7 +96,7 @@ Cet affichage montre la répartition de vos abonnements clients actuels par Éta
 
 ## <a name="products-trend"></a>Tendance des produits
 
-Cet affichage montre un graphique à barres et deux graphiques à secteurs. Le graphique à barres présente une tendance mensuelle des abonnements répartis par produits commerciaux, tels qu’Azure, Office, Dynamics, etc.
+Cet affichage montre un graphique à barres et deux graphiques à secteurs. Le graphique à barres présente une tendance mensuelle des abonnements répartis par produits commerciaux, tels qu’Azure, Office et Dynamics.
 
 Les deux graphiques en secteurs affichent une répartition de vos abonnements client actuels. Le premier graphique à secteurs décompose les abonnements par produits. Le second graphique divise les abonnements par références SKU ou plans. Lorsque vous sélectionnez un produit dans le graphique à secteurs décomposition **par produits** , le graphique à secteurs adjacents affiche une répartition des abonnements de ce produit par SKU.
 

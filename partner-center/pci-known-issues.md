@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5b3976d34cbe70b3d26577fbda86751ebda29fbd
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855214"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565064"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Insights partenaires – Forum aux questions
 
@@ -24,7 +24,7 @@ Cet article traite des problèmes connus liés à l’affichage ou au rendu de r
 
 Q) **je ne vois pas le Hub Insights dans mon compte espace partenaires. Que dois-je faire ?**
 
-A) Assurez-vous que vous êtes connecté au compte MPN pour votre organisation. Vous ne pouvez pas accéder au tableau de bord Insights à partir de votre compte CSP. Assurez-vous également que vous avez bien fourni la visionneuse de rapports ou l’accès au rôle visionneuse de rapports exécutif par votre administrateur général.  Pour plus d’informations sur les rôles, consultez [cet article](./pci-roles.md).
+A) Assurez-vous que vous êtes connecté au compte Microsoft Partner Network (MPN) pour votre organisation. Vous ne pouvez pas accéder au tableau de bord Insights à partir de votre compte fournisseur de solutions Cloud (CSP). Assurez-vous également que vous avez bien fourni la visionneuse de rapports ou l’accès au rôle visionneuse de rapports exécutif par votre administrateur général.  Pour plus d’informations sur les rôles, consultez [cet article](./pci-roles.md).
 
 Q) **je ne vois pas les données du revenu facturé ou du chiffre d’affaires consommé (ACR) Azure dans mes rapports. Pourquoi ?**
 
@@ -40,11 +40,11 @@ A) le pays du client est dérivé du pays de l’organisation parente globale de
 
 Q) **je vois quelques noms de clients masqués dans les rapports. Est-il attendu ?**
 
-A) les noms des clients sont obscurcis pour certains abonnements pour des raisons de conformité. Toutefois, le client TPID est disponible et vous pouvez l’utiliser pour rechercher les noms des clients.
+A) les noms des clients sont obscurcis pour certains abonnements pour des raisons de conformité. Toutefois, l’ID parent supérieur du client (TPID) est disponible et vous pouvez l’utiliser pour rechercher les noms des clients.
 
 Q) **quelle est la latence classique des rapports ?**
 
-A) les données des abonnements et des clients sont actualisées quotidiennement et les données sont signalées avec une latence d’une semaine. Les données d’utilisation Azure sont signalées avec une latence d’une semaine. Les données d’utilisation d’Office 365, teams, Dynamic365, EMS et Power BI sont signalées avec une latence d’un mois.
+A) les données des abonnements et des clients sont actualisées quotidiennement et les données sont signalées avec une latence d’une semaine. Les données d’utilisation Azure sont signalées avec une latence d’une semaine. Office 365, teams, Dynamics 365, Enterprise Mobility and Security (EMS) et Power BI données d’utilisation sont signalés avec une latence d’un mois.
 
 Q) **les rapports ne sont pas rendus dans Internet Explorer, est-ce attendu ?**
 

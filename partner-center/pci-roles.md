@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 803c299311f129c4842a92a27abd9b9addb49f17
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: fb06a863218446b0e88b38af242b4dac044560c0
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854432"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565302"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Contrôle d’accès en fonction du rôle au tableau de bord Insights de l’espace partenaires
 
@@ -22,12 +22,12 @@ ms.locfileid: "109854432"
 
 Le tableau de bord Insights utilise deux nouveaux rôles dans l’espace partenaires pour gérer l’accès des employés aux rapports-visionneuse de rapports et visionneuse de rapports Executive.  Les utilisateurs du rôle de la visionneuse de rapports exécutifs ont accès à tous les jeux de données de rapports, tandis que les utilisateurs du rôle visionneuse de rapports n’ont pas accès aux jeux de données sensibles tels que les données personnelles des clients et des employés.  
 
-Comme pour les autres rôles de l’espace partenaires, l’administrateur général ou l’administrateur de compte est en mesure d’affecter des utilisateurs à ces rôles dans la page gestion des utilisateurs. Les rôles peuvent être applicables à toute l’entreprise ou à des emplacements MPN spécifiques. Les rôles attribués à des emplacements MPN spécifiques limitent l’utilisateur à afficher les données de rapports associées uniquement aux emplacements MPN sélectionnés. Le partenaire peut sélectionner un ou plusieurs emplacements dans la vue ci-dessous.
+Comme pour les autres rôles de l’espace partenaires, l’administrateur général ou l’administrateur de compte est en mesure d’affecter des utilisateurs à ces rôles dans la page gestion des utilisateurs. Les rôles peuvent être applicables à l’ensemble de l’entreprise ou à des emplacements Microsoft Partner Network (MPN) spécifiques. Les rôles attribués à des emplacements MPN spécifiques limitent l’utilisateur à afficher les données de rapports associées uniquement aux emplacements MPN sélectionnés. Le partenaire peut sélectionner un ou plusieurs emplacements dans la vue ci-dessous.
 
 :::image type="content" source="images/pci/roles.png" alt-text="Affiche les paramètres de rôles de l’espace partenaires des informations de l’emplacement pour la visionneuse de rapports et la visionneuse de rapports Executive.":::
 
 >[!Note]
-> Les utilisateurs qui sont des administrateurs MPN à partir du 20 janvier, 2020 sont automatiquement ajoutés au rôle **visionneuse de rapports exécutifs** de l’entreprise pour tous les emplacements de ce locataire. Ces utilisateurs peuvent ainsi accéder aux rapports en tant que visionneuse de rapports exécutif sans aucune action explicite requise par l’administrateur général ou l’administrateur de compte. Les administrateurs généraux et les administrateurs de compte peuvent remplacer les rôles affectés automatiquement de ces utilisateurs pour augmenter ou limiter davantage leurs fonctionnalités.
+> Les utilisateurs qui sont des administrateurs d’un partenaire MPN à partir du 20 janvier 2020 sont automatiquement ajoutés au rôle **visionneuse de rapports exécutifs** de l’entreprise pour tous les emplacements de ce locataire. Ces utilisateurs peuvent ainsi accéder aux rapports en tant que visionneuse de rapports exécutif sans aucune action explicite requise par l’administrateur général ou l’administrateur de compte. Les administrateurs généraux et les administrateurs de compte peuvent remplacer les rôles affectés automatiquement de ces utilisateurs pour augmenter ou limiter davantage leurs fonctionnalités.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

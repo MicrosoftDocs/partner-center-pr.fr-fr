@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: bf9d158ce2d1e25923d94e5f9c80e408fef29aa4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276232"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565472"
 ---
 # <a name="download-reports"></a>Rapports de téléchargement
 
@@ -43,19 +43,19 @@ Les rapports suivants sont disponibles au téléchargement :
 
 Le **profil de partenaire** fournit les détails relatifs au partenaire. Les détails tels que l’ID de partenaire, le nom du partenaire, la ville du partenaire et le pays du partenaire sont disponibles dans le rapport. Aucune agrégation ou lookback ne s’applique à ce rapport.
 
-Les **Détails du client** fournissent les détails des clients associés à un partenaire. Il fournit également des métriques clés telles que les licences vendues, les ACR agrégées, etc. Le rapport est agrégé sur une base mensuelle.
+Les **Détails du client** fournissent les détails des clients associés à un partenaire. Il fournit également des métriques clés telles que les licences vendues, le chiffre d’affaires consommé Azure agrégé (ACR), etc. Le rapport est agrégé sur une base mensuelle.
 
 **Détails des abonnements** fournit les détails des abonnements vendus ou gérés par le partenaire, ainsi que les informations sur le client. Le rapport est agrégé sur une base mensuelle.
 
 **Utilisation d’Azure** fournit les détails sur l’utilisation d’Azure. Ces détails concernent les abonnements Azure vendus ou gérés par le partenaire. Les détails d’utilisation sont répartis par catégorie de compteurs et d’autres dimensions clés. Le rapport est agrégé sur une base mensuelle.
 
-**Office 365-utilisation** de la licence fournit les détails d’utilisation des licences O365 vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les utilisateurs actifs mensuels (MAU), les droits qualifiés, etc. Le rapport sera agrégé sur une base mensuelle.
+**Office 365-l’utilisation** de la licence fournit les détails d’utilisation des licences Office 365 vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les utilisateurs actifs mensuels (MAU), les droits qualifiés, etc. Le rapport sera agrégé sur une base mensuelle.
 
-**Enterprise Mobility : l’utilisation**  de la licence fournit les détails d’utilisation des licences Enterprise Mobility vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les utilisateurs actifs mensuels (MAU), les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
+**Enterprise Mobility : l’utilisation**  de la licence fournit les détails d’utilisation des licences Enterprise Mobility vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que MAU, les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
 
-**Dynamics 365 – utilisation** de la licence fournit les détails d’utilisation des licences D365 vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les utilisateurs actifs mensuels (MAU), les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
+**Dynamics 365 – utilisation** de la licence fournit les détails d’utilisation des licences D365 vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que MAU, les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
 
-**Power bi-utilisation des licences** fournit les détails d’utilisation des licences Power bi vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les utilisateurs actifs mensuels (MAU), les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
+**Power bi-utilisation des licences** fournit les détails d’utilisation des licences Power bi vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que MAU, les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
 
 Les **formations** fournissent des détails tels que des examens, des certifications, des évaluations, des formations, des cours terminés ou mis en place par les employés du partenaire.
 
@@ -63,5 +63,5 @@ Les **formations** fournissent des détails tels que des examens, des certificat
 
 **Compétences-Résumé et historique** fournit des détails sur toutes les compétences qui sont actives, en cours ou à risque pour ce partenaire. Comprend également l’historique de toutes les compétences obtenues par le partenaire.
 
-**Compétences : les détails des performances** fournissent des détails sur la façon dont le partenaire fait les choses en ce qui concerne les indicateurs de performance clés pour obtenir un certain ensemble de compétences.
+**Compétences : les détails des performances** fournissent des détails sur la façon dont le partenaire fait les choses en ce qui concerne les indicateurs de performance clés (KPI) pour obtenir un certain ensemble de compétences.
 

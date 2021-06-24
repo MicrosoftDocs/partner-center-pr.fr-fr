@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: e5500e975f5fa8baea91a0db55896426983d19a8
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277468"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565353"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport licences du produit dans le tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
-Le rapport licences du produit présente l’analytique des licences pour les produits Cloud basés sur des licences, comme Office 365, Dynamics, Microsoft 365, Power BI et d’autres. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
+Le rapport licences du produit présente l’analyse des licences pour les produits Cloud basés sur des licences, tels que Office 365, Dynamics, Microsoft 365, Microsoft Power BI et d’autres. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
 
 - Résumé
 - Répartition géographique des licences
@@ -28,7 +28,7 @@ Le rapport licences du produit présente l’analytique des licences pour les pr
 - Distribution de licences par emplacement de partenaire, canal de vente, SKU, type de rattachement de partenaire, segment
 
  > [!NOTE]
- > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre société. les types spécifiques de données de ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
+ > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges iewer de rapports exécutifs.
 
 ## <a name="summary"></a>Résumé
 
@@ -39,7 +39,7 @@ La section Résumé fournit une vue instantanée des indicateurs de performance 
 Pour plus d’informations sur chaque section du résumé, voir ci-dessous :
 
 - Licenses : 
-  - Nombre actuel de licences vendues ou gérées par vous pour les produits Cloud basés sur des licences, comme Office 365, Dynamics, Microsoft 365, Power BI et d’autres.
+  - Nombre actuel de toutes les licences vendues ou gérées par vous pour les produits Cloud basés sur des licences, tels que Office 365, Dynamics, Microsoft 365, Microsoft Power BI et bien d’autres.
   - Augmentation du pourcentage ou diminution de ces licences sur la plage de dates sélectionnée.
   - Trend Trend Micro Chart : le micro graphique présente la tendance du nombre de licences mois sur mois pendant la plage de dates sélectionnée.
 
@@ -67,7 +67,7 @@ Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un 
 
 Cet affichage indique la tendance des licences ajoutées au cours de la plage de dates sélectionnée. 
 
-Pour présenter la tendance par produit et service/charge de travail, sélectionnez un produit en haut de l’écran et un service/charge de travail dans la liste déroulante références SKU.
+Pour présenter la tendance par produit et service/charge de travail, sélectionnez un produit en haut de l’écran et un service/charge de travail dans la liste déroulante **références SKU** .
 
 L’axe des X représente les mois de la plage de dates sélectionnée. L’axe des Y représente le nombre de licences ajoutées. Pour effectuer un zoom avant sur une période spécifique, utilisez le curseur en haut du graphique.
 

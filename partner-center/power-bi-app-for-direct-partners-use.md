@@ -4,28 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment afficher vos données d’entreprise à l’aide de l’application Partner Center Analytics pour Power BI (pour les partenaires directs dans CSP).
+description: Découvrez comment afficher vos données d’entreprise à l’aide de l’application Partner Center Analytics pour Power BI (pour les partenaires directs dans le programme du fournisseur de solutions Cloud (CSP)).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855027"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112564979"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Afficher vos données d’entreprise avec l’application Partner Center Analytics pour Microsoft Power BI
 
 
 
-**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent commercial | Agent d’administration
+**Rôles appropriés** : Administrateur général | Administrateur de la gestion des utilisateurs | Commercial | Agent d’administration
 
 ## <a name="view-your-business-data"></a>Afficher vos données d’entreprise
 
-Obtenir une représentation visuelle de vos données d’entreprise avec l’application Partner Center Analytics pour Power BI, notamment :
+Obtenir une représentation visuelle de vos données d’entreprise avec l’application Partner Center Analytics pour Microsoft Power BI, notamment :
 
 - Croissance de votre base de clients, abonnements et licences
 
@@ -39,7 +39,7 @@ Obtenir une représentation visuelle de vos données d’entreprise avec l’app
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>À propos de la version préliminaire de l’application Partner Center Analytics
 
-- Cette application est destinée aux partenaires directs dans le programme du fournisseur de solutions Cloud uniquement. Les autres partenaires du fournisseur CSP (revendeurs indirects, par exemple) ne pourront pas se connecter.
+- Cette application est destinée aux partenaires directs dans le programme du fournisseur de solutions Cloud (CSP) uniquement. Les autres partenaires du fournisseur CSP (revendeurs indirects, par exemple) ne pourront pas se connecter.
 
 - Les coûts estimés sont des données de facturation/facture antérieures, et ne sont pas légalement contraignantes. Les coûts estimés sont destinés à être utilisés uniquement pour les analyses de données.
 
@@ -51,7 +51,7 @@ Obtenir une représentation visuelle de vos données d’entreprise avec l’app
 
 ### <a name="business-insights-report"></a>Rapport Business Insights
 
-- **Locataires client**: nombre de locataires de Azure ad distincts des clients qui ont acheté des abonnements
+- **Locataires client**: nombre de locataires de Azure Active Directory distincts (Azure AD) des clients qui ont acheté des abonnements
 
 - **Nouveau (30 derniers jours)**: nouveaux clients achetant au moins un abonnement au cours des 30 derniers jours
 

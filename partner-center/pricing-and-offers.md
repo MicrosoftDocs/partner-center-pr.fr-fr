@@ -9,27 +9,27 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1cf69258b507258e1186514c54fa11ebf8a57d36
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d9eac83c2b2ef2d83b7b9aaec0c6dce7e24ee8b7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854517"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565035"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
 
 **Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent d’administration | Administrateur du partenaire MPN | Agent commercial | Administrateur de facturation
 
-Pour voir les derniers programmes et offres de fournisseurs de solutions Cloud, accédez à la page **Vendre > Tarifs et offres** dans le tableau de bord de l’Espace partenaires. Vous trouverez des listes de prix distinctes pour les différents types de produits disponibles. Les listes de prix suivantes sont disponibles dans la page **Tarifs et offres** :
+Pour voir les dernières offres et programmes du fournisseur de solutions Cloud (CSP), à partir du tableau de bord du portail du partenaire, accédez à la page **vendre > tarification et offres**. Vous trouverez des listes de prix distinctes pour les différents types de produits disponibles. Les listes de prix suivantes sont disponibles dans la page **Tarifs et offres** :
 
-- Les **services basés sur une licence** incluent des informations de tarification pour Office 365, Enterprise Mobility et Security E3, ainsi que et Dynamics 365. La section relative à la tarification basée sur les licences comprend les tarifs actuels et préliminaires, ainsi que la matrice liste des offres. Les tarifs incluent le tarif et les tarifs estimés au détail (ERP) pour les offres dans toutes les devises prises en charge. La matrice liste des offres inclut la disponibilité du marché et d’autres informations importantes sur les offres. Ces fichiers sont mis à jour le premier jour de chaque mois.
-- Les **services basés sur l’utilisation** incluent des informations de tarification pour Microsoft Azure et Visual Studio. Vous pouvez également utiliser les [services Azure dans la calculatrice de prix du Fournisseur de solutions Cloud](https://azure.microsoft.com/pricing/calculator/). Le téléchargement basé sur l’utilisation comprend les listes de prix CSP pour toutes les devises prises en charge, ainsi que les fichiers de tarification des services partagés dans ERP. Ces fichiers sont mis à jour le premier jour de chaque mois.
+- Les **services basés sur une licence** incluent des informations de tarification pour Office 365, Enterprise Mobility et Security E3, et Dynamics 365. La section relative à la tarification basée sur les licences comprend les tarifs actuels et préliminaires et la matrice liste des offres. Les tarifs incluent le tarif et les tarifs estimés au détail (ERP) pour les offres dans toutes les devises prises en charge. La matrice liste des offres inclut la disponibilité du marché et d’autres informations importantes sur les offres. Ces fichiers sont mis à jour le premier jour de chaque mois.
+- Les **services basés sur l’utilisation** incluent des informations de tarification pour Microsoft Azure et Visual Studio. Vous pouvez également utiliser les [services Azure dans la calculatrice de prix du Fournisseur de solutions Cloud](https://azure.microsoft.com/pricing/calculator/). Le téléchargement basé sur l’utilisation comprend les listes de prix CSP pour toutes les devises prises en charge et les fichiers de tarification des services partagés dans ERP. Ces fichiers sont mis à jour le premier jour de chaque mois.
 - **Microsoft Azure instances réservées** incluent des informations de tarification pour toutes les devises prises en charge pour les instances réservées Azure. Le téléchargement de la tarification comprend également la tarification des services partagés dans ERP. Ces fichiers sont mis à jour le premier jour de chaque mois.
-- Les **abonnements logiciels** incluent la tarification des abonnements logiciels basés sur des termes pour toutes les devises prises en charge. Le fichier de prix comprend toutes les devises prises en charge avec le tarif et le tarif MSRP. Ces fichiers sont mis à jour le premier jour de chaque mois.
+- Les **abonnements logiciels** incluent la tarification des abonnements logiciels basés sur des termes pour toutes les devises prises en charge. Le fichier de prix comprend toutes les devises prises en charge avec le tarif de la liste et le prix de vente suggéré par le fabricant. Ces fichiers sont mis à jour le premier jour de chaque mois.
 - La **tarification du plan Azure** comprend des informations de tarification pour les services de consommation de plan Azure et la tarification de réservation de plan Azure. Les prix sont des prix directs ou ERP et peuvent être récupérés pour tout marché pris en charge. Les données de ces fichiers sont actualisées tous les jours.
 - Les **taux de change étrangers** sont utilisés pour calculer la facturation facturée entre USD et la devise locale des partenaires. Les tarifs sont mis à jour le premier de chaque mois et sont valables pour le mois donné. les tarifs sont rendus disponibles. Ces fichiers sont mis à jour le premier jour de chaque mois.
-- Place de **marché** comprend la tarification des solutions ISV du Marketplace commercial de Microsoft. Les prix sont récupérés par marché. Les données de ces fichiers sont actualisées tous les jours.
+- La place de **marché** comprend la tarification des solutions ISV du marché commercial de Microsoft. Les prix sont récupérés par marché. Les données de ces fichiers sont actualisées tous les jours.
 
 > [!Note] 
 > Seuls les partenaires CSP ayant la possibilité d’effectuer des transactions peuvent afficher et télécharger des tarifs. Les revendeurs indirects doivent [contacter leur fournisseur CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) pour demander des détails sur la tarification
@@ -79,8 +79,8 @@ Le fournisseur CSP offre des services à des segments de marché spéciaux, par 
 
 |**Segment**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
-|À but non lucratif|Customer|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
+|Education|Client|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
+|À but non lucratif|Client|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
 |Government Community Cloud (GCC)|Partenaire et client|Une fois que GCC est activé, le partenaire peut créer des clients GCC| Basée sur une licence uniquement|
 |Azure Government|Partenaire|Une fois qualifié, le partenaire travaille dans un locataire CSP spécifique à Azure Government|Ressources Azure|
 
@@ -92,7 +92,7 @@ Les services basés sur une licence peuvent être acquis comme des offres de bas
 
 1. Consultez la matrice liste des offres pour afficher la liste des ID d’offre qui doivent être achetés avant de pouvoir acheter un module complémentaire.
 2. Acheter l’offre de base à partir du catalogue
-3. Accédez à votre client à partir de la liste des clients. Cliquez sur l’abonnement de l’offre de base que vous venez d’acheter. Sur la page gérer l’abonnement, vous verrez des modules complémentaires disponibles qui peuvent être appliqués à l’offre de base.
+3. Accédez à votre client à partir de la liste des clients. Sélectionnez l’abonnement de l’offre de base que vous venez d’acheter. Sur la page gérer l’abonnement, vous verrez des modules complémentaires disponibles qui peuvent être appliqués à l’offre de base.
 
 > [!Note] 
 > Certaines offres de base ont des valeurs de **type d’unité** **pour les licences de module complémentaire**. Pour une offre de base, cela signifie simplement que vous n’affectez pas de licences utilisateur après l’achat. Si l’offre peut être achetée dans le catalogue, il s’agit d’une **offre de base** , quel que soit le type d’unité de l’interface utilisateur.
@@ -172,7 +172,7 @@ La plupart des tarifs incluent un tarif, le prix du partenaire facturé et le pr
 |Services basés sur la licence  |Répertorié comme ERP dans les listes de prix basées sur les licences  |
 |Services basés sur l’utilisation d’Azure  |Se trouve dans les listes de tarifs équivalentes des services partagés  |
 |Réservations Azure  |Se trouve dans les listes de tarifs équivalentes des services partagés  |
-|Utilisation basée sur le plan Azure  |Les prix ne sont pas vendus au détail dans les tables de tarification  |
+|Utilisation basée sur le plan Azure  |Les prix sont commerciaux et non réduits dans les tables de tarification  |
 |Réservations de plan Azure  |Référence des tarifs des services partagés des réservations Azure  |
 |Abonnements à des logiciels  |Répertorié en tant que MSRP dans les listes de prix des abonnements logiciels  |
 |Place de marché  |Répertorié en tant que tarif MSRP dans les tarifs Marketplace  |

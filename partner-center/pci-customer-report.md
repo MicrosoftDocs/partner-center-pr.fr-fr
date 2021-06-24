@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f1ec30db0d568c7477b6fba9639e6481ffecaaf5
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152900"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565523"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Rapports tableau de bord clients à partir de l’espace partenaires Insights
 
 **Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
-Le tableau de bord clients présente des données de vos clients qui ont acquis des produits Cloud tels qu’Office, Azure, Dynamics, etc., ou vous ont utilisé pour déployer et gérer ces produits dans leurs locataires. 
+Le tableau de bord clients présente des données de vos clients qui ont acquis des produits Cloud tels qu’Office, Azure et Dynamics. par le biais de vous ou vous avez utilisé pour déployer et gérer ces produits dans leurs locataires. 
  
 Le tableau de bord clients contient les sections suivantes : 
 
@@ -34,13 +34,13 @@ Le tableau de bord clients contient les sections suivantes :
 
 ## <a name="summary"></a>Résumé
 
-La section Résumé présente un aperçu des différents indicateurs de performance clés liés à vos clients, tels que les clients, les clients actifs, les abonnements, les clients ajoutés, les clients en cours d’évolution et les clients de chaque produit. Les filtres au niveau de la page s’appliquent à chaque section.
+La section Résumé présente un aperçu des différents indicateurs de performance clés (KPI) associés à vos clients, tels que les clients, les clients actifs, les abonnements, les clients ajoutés, les clients en cours d’évolution et les clients de chaque produit. Les filtres au niveau de la page s’appliquent à chaque section.
 
 :::image type="content" source="images/pci/customerproduct.png" alt-text="Capture d’écran du tableau de bord Résumé des clients affiche les graphiques à barres et le nombre de clients actifs, récemment ajoutés, perdus/réactifs, ou un produit spécifique.":::
 
 ### <a name="customers"></a>Clients
 
-- Nombre actuel de tous les clients dont votre organisation est associée par le biais de différents types d’attributions dans tous les produits Cloud tels qu’Office, Azure, Dynamics, etc. Un client est compté s’il a au moins un abonnement avec l’état actif.  
+- Nombre actuel de tous les clients dont votre organisation est associée par le biais de différents types d’attributions dans tous les produits Cloud tels qu’Office, Azure et Dynamics. Un client est compté s’il a au moins un abonnement avec l’état actif.  
 - Refuser le pourcentage de clients au cours de la plage de dates sélectionnée 
 - Le micro-graphique présente la tendance du mois sur le mois du nombre de clients sur la plage de dates sélectionnée
 
@@ -63,7 +63,7 @@ La section Résumé présente un aperçu des différents indicateurs de performa
  
 ### <a name="customers-by-products"></a>Clients par produits
 
-- Nombre actuel de clients répartis entre les différents produits Cloud tels que O365, Azure, Dynamics, etc.  
+- Nombre actuel de clients répartis entre les différents produits Cloud tels qu’Office 365, Azure et Dynamics.  
 
 ## <a name="geographical-spread-of-your-customers"></a>Répartition géographique de vos clients
 
@@ -79,7 +79,7 @@ Tendance des clients avec une répartition en nouvelles, existantes et en évolu
 
 ## <a name="customer-distribution"></a>Distribution client
 
-La répartition de vos clients actuels par vos emplacements MPN, les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution (par exemple, DPOR, DAP). Sélectionnez les onglets respectifs au-dessus du graphique pour afficher la répartition selon ces catégories. Vous pouvez régénérer le graphique en sélectionnant/désélectionnant des dimensions spécifiques en sélectionnant les éléments de légende. 
+Répartition de vos clients actuels par vos emplacements d’Microsoft Partner Network (MPN), les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution. Sélectionnez les onglets respectifs au-dessus du graphique pour afficher la répartition selon ces catégories. Vous pouvez régénérer le graphique en sélectionnant/désélectionnant des dimensions spécifiques en sélectionnant les éléments de légende. 
 
 ## <a name="customers-by-products"></a>Clients par produits
 

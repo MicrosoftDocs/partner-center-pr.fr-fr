@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Le tableau de bord des performances du revendeur dans Partner Center Insights fournit une vue d’ensemble des performances des différents revendeurs indirects d’un fournisseur CSP indirect.
+description: Le tableau de bord des performances du revendeur dans Partner Center Insights fournit une vue d’ensemble des performances des différents revendeurs indirects d’un fournisseur de solutions Cloud (CSP) indirect.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 65fddcc47105cf329bb8f5d3e1aa342deee556b4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277366"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565166"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Tableau de bord des performances du revendeur dans Partner Center Insights
 
 **Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
-Le tableau de bord des performances du revendeur dans Partner Center Insights fournit une vue d’ensemble des performances des différents revendeurs indirects d’un fournisseur CSP indirect. Le tableau de bord fournit des données sur les revendeurs qui sont actifs, sur le chiffre d’affaires qu’ils génèrent et sur les produits qui génèrent du revenu. Les fournisseurs indirects pourront rechercher un revendeur spécifique par nom et rechercher les détails du revendeur dans le tableau de bord des performances du revendeur.
+Le tableau de bord des performances du revendeur dans Partner Center Insights fournit une vue d’ensemble des performances des différents revendeurs indirects d’un fournisseur de solutions Cloud (CSP) indirect. Le tableau de bord fournit des données sur les revendeurs qui sont actifs, sur le chiffre d’affaires qu’ils génèrent et sur les produits qui génèrent du revenu. Les fournisseurs indirects pourront rechercher un revendeur spécifique par nom et rechercher les détails du revendeur dans le tableau de bord des performances du revendeur.
 
 Vous pouvez consulter les sections suivantes à partir du tableau de bord des performances du revendeur.
 
@@ -32,10 +32,10 @@ Vous pouvez consulter les sections suivantes à partir du tableau de bord des pe
 - Revendeurs actifs par emplacement de partenaire
 - Tendance de distribution géographique du revenu
 - Performances des revendeurs par segment de clientèle
-- État de signature MPA du revendeur
+- État de signature de l’accord de partenariat Microsoft (MPA) du revendeur
 
  > [!NOTE]
- > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre société. les types spécifiques de données de ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
+ > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez disposer d’un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
 ## <a name="summary"></a>Résumé
 
@@ -81,7 +81,7 @@ Cette vue fournit un mois sur la Division mensuelle du nombre de **nouveaux reve
 
 ## <a name="resellers-revenue-trend"></a>Tendance du chiffre d’affaires des revendeurs 
 
-Cette vue fournit une tendance mensuelle de la répartition du chiffre d’affaires facturé (USD) par produit, notamment O365, D365, EMS, Power BI et Azure. Les métriques globales sont agrégées sur les différents produits pour chaque mois. Le partenaire peut rechercher un revendeur spécifique par son nom et Rechercher des données pour ce revendeur spécifique. Le champ revenu facturé (USD) de la grille peut être trié.
+Cette vue fournit une tendance mensuelle de la répartition du chiffre d’affaires facturé (USD) par produit, à savoir Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI et Azure. Les métriques globales sont agrégées sur les différents produits pour chaque mois. Le partenaire peut rechercher un revendeur spécifique par son nom et Rechercher des données pour ce revendeur spécifique. Le champ revenu facturé (USD) de la grille peut être trié.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Tendance du chiffre d’affaires des revendeurs.":::
 
@@ -111,7 +111,7 @@ Cette vue permet à un partenaire de comprendre la tendance mensuelle du chiffre
 
 ## <a name="reseller-mpa-signing-status"></a>État de signature MPA du revendeur
 
-Cette vue fournit l’état de signature MPA pour les revendeurs, ainsi que des métadonnées supplémentaires, telles que l’état d’instruction MPN, le PMC à l’état de migration du PC, etc.
+Cette vue fournit l’état de signature MPA des revendeurs, ainsi que des métadonnées supplémentaires, telles que l’état d’inscription de l’Microsoft Partner Network (MPN) et l’état de la migration de l’espace partenaires (PMC).
 
 :::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="État de signature MPA du revendeur.":::
 

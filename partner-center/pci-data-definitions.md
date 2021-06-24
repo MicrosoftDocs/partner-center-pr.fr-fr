@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 721caed2d8b0e24940e7adedeb90cc689a82d2e7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 23ca20fbb2febfd4b1ea92f72fbfda5ac83d7eb6
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152832"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565506"
 ---
 # <a name="export--data-definitions"></a>Export : définitions de données 
 
@@ -30,12 +30,12 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 
 | Nom de la colonne | Description des données | 
 | :--------- | :--------- | 
-| MPNId | Identificateur de Microsoft Partner Network (MPN) | 
+| MPNId | ID Microsoft Partner Network (MPN)| 
 | PartnerName | Nom du partenaire | 
 | PGA_MPNId | Identificateur du compte global de partenaire MPN | 
 | PGA_PartnerName | Nom du compte global du partenaire | 
 | City | Emplacement de la ville du partenaire | 
-| Pays ou région | Emplacement du pays du partenaire | 
+| Country | Emplacement du pays du partenaire | 
 | HierarchyLevel | Indique s’il s’agit d’un ID MPN global ou d’un ID MPN d’emplacement | 
 
 ### <a name="customer-details-report"></a>**Rapport Détails du client**
@@ -48,7 +48,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | CustomerSegment | Segment du client | 
 | CustomerMarket | Marché géographique du client | 
 | CustomerStatus | État du client (actif ou inactif) | 
-| Produit | Le produit a été vendu au client par MPN : O365, DYNAMICS 365, Enterprise Mobility + Security, Power BI ou Microsoft Azure | 
+| Produit | Le produit est vendu au client par MPN : Office 365, Dynamics 365, Enterprise Mobility and Security, Power BI ou Microsoft Azure | 
 | SKU | Référence SKU de produit | 
 | Month | Mois pour lequel l’utilisation et le chiffre d’affaires sont signalés | 
 | MPNId | Identificateur de Microsoft Partner Network | 
@@ -62,7 +62,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 ### <a name="reseller-performance-report"></a>**Rapport des performances du revendeur**
 
 > [!Note]
-> Les données de chiffre d’affaires et ACR sont uniquement disponibles pour les utilisateurs qui sont des visionneuses de rapports.
+> Les données du chiffre d’affaires et du chiffre d’affaires consommé Azure (ACR) sont uniquement disponibles pour les utilisateurs qui sont des visionneuses de rapports.
 
 | Nom de la colonne | Description des données | 
 | :--------- | :--------- | 
@@ -95,7 +95,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | SubscriptionEndDate | Date de fin de l’abonnement | 
 | SubscriptionState | État de l’abonnement (actif ou en cours d’exécution) | 
 | Month | Mois pour lequel l’utilisation et le chiffre d’affaires sont signalés | 
-| IsAutoRenew | Indique si l’abonnement est un renouvellement autorenouvelé (oui ou non) | 
+| IsAutoRenew | Indique si l’abonnement est autorenouvelé (oui ou non) | 
 | CustomerName | Nom du client | 
 | CustomerTenantId | GUID du client | 
 | CustomerTpid | Identificateur parent supérieur du client | 
@@ -107,7 +107,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | PartnerName | Nom du partenaire | 
 | PartnerLocation | Emplacement géographique du partenaire | 
 | PartnerAttributionType | Type d’attribution de l’abonnement | 
-| SalesChannel | Canal de ventes-direct, CSP (fournisseur de solutions Cloud), etc. | 
+| SalesChannel | Canal du fournisseur de solutions Cloud (CSP) direct, et ainsi de suite | 
 | AvailableSeats | Siège actuellement disponible | 
 | RevenueUSD | Revenu en dollars américains | 
 | ID d’inscription | ID d’inscription de l’abonnement | 
@@ -277,7 +277,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | TrainingType | Type de formation (certification ou examen) | 
 | IndividualFirstName | Prénom du client | 
 | IndividualLastName | Nom du client | 
-| Courrier | ID de messagerie personnelle du client | 
+| E-mail | ID de messagerie personnelle du client | 
 | CorpEmail | ID de messagerie Office du client | 
 | TrainingCompletionDate | Date d’achèvement de la formation | 
 | Month | Mois pour lequel les données sont signalées | 
@@ -292,16 +292,16 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 
 | Nom de la colonne | Description des données | 
 | :--------- | :--------- | 
-| Nom d’utilisateur | Nom de l’utilisateur | 
+| UserName | Nom de l’utilisateur | 
 | UserId | GUID de l’utilisateur | 
 | TrainingName | Nom de l’apprentissage | 
 | TrainingType | Type de formation (module ou parcours d’apprentissage) | 
-| Produits | Produit pour lequel le module d’apprentissage est applicable | 
+| Products | Produit pour lequel le module d’apprentissage est applicable | 
 | Rôles | Rôles applicables de l’apprentissage | 
 | CompletionDate | Date d’achèvement de la formation | 
 | MPNId | Identificateur de Microsoft Partner Network | 
 | PartnerName | Nom du partenaire | 
-| Pays ou région | Emplacement géographique du partenaire | 
+| Country | Emplacement géographique du partenaire | 
 
 ### <a name="competency-summary-and-history-report"></a>**Résumé de la compétence et rapport historique**
 
@@ -344,9 +344,9 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Filiale | La filiale du client dont le score est évalué pour la distribution | 
 | Secteur de vente | Le secteur de vente du client dont le score est évalué pour la distribution | 
 | City | Emplacement géographique de la ville de l’Organisation | 
-| State | Emplacement de l’état géographique de l’Organisation | 
+| État | Emplacement de l’état géographique de l’Organisation | 
 | Code postal | Code postal de l’Organisation | 
-| Pays ou région | Emplacement du pays géographique de l’Organisation | 
+| Country | Emplacement du pays géographique de l’Organisation | 
 | Segment | Segment de marché | 
 | Sous-segment | Sous-segment de marché | 
 | Résumé du type SMC | Type SMC | 
@@ -387,7 +387,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 
 | Nom de la colonne | Description des données | 
 | :--------- | :--------- | 
-| ID MPN | ID de Microsoft Partner Network | 
+| ID MPN | ID Microsoft Partner Network (MPN) | 
 | Nom du partenaire | Nom du partenaire | 
 | ID de client | Numéro d’identificateur du client | 
 | Numéro DUNS | Le numéro dun & Bradstreet du client dont le score est évalué pour la propension | 
@@ -400,9 +400,9 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Filiale | La filiale du client dont le score est évalué pour la distribution | 
 | Secteur de vente | Le secteur de vente du client dont le score est évalué pour la distribution | 
 | City | Emplacement géographique de la ville | 
-| State | Emplacement de l’état géographique | 
+| État | Emplacement de l’état géographique | 
 | Code postal | Code postal de l’Organisation | 
-| Pays ou région | Emplacement du pays géographique | 
+| Country | Emplacement du pays géographique | 
 | Segment | Segment de marché | 
 | Sous-segment | Sous-segment de marché | 
 | Résumé du type SMC | La catégorisation d’un client : les principales bases d’utilisateurs non gérées sont des clients avec plus de 300 employés, les principales bases de calcul non gérées étant des clients avec un potentiel de trois ans Azure, les entreprises de taille moyenne sont des clients avec 25 employés ou plus, et les petites entreprises sont des clients comptant moins de 25 employés. | 
@@ -444,7 +444,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 
 | Nom de la colonne | Description des données | 
 | :--------- | :--------- | 
-| ID MPN | ID de Microsoft Partner Network | 
+| ID MPN | ID Microsoft Partner Network (MPN) | 
 | Nom du partenaire | Nom du partenaire | 
 | ID de client | Numéro d’identificateur du client | 
 | Numéro DUNS | Le numéro dun & Bradstreet du client dont le score est évalué pour la propension | 
@@ -457,9 +457,9 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Filiale | La filiale du client dont le score est évalué pour la distribution | 
 | Secteur de vente | Le secteur de vente du client dont le score est évalué pour la distribution | 
 | City | Emplacement géographique de la ville | 
-| State | Emplacement de l’état géographique | 
+| État | Emplacement de l’état géographique | 
 | Code postal | Code postal de l’Organisation | 
-| Pays ou région | Emplacement du pays géographique | 
+| Country | Emplacement du pays géographique | 
 | Segment | Segment de marché | 
 | Sous-segment | Sous-segment de marché | 
 | Résumé du type SMC | Type SMC | 
@@ -523,9 +523,9 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Filiale | La filiale du client dont le score est évalué pour la distribution | 
 | Secteur de vente | Le secteur de vente du client dont le score est évalué pour la distribution | 
 | City | Emplacement géographique de la ville | 
-| State | Emplacement de l’état géographique | 
+| État | Emplacement de l’état géographique | 
 | Code postal | Code postal de l’Organisation | 
-| Pays ou région | Emplacement du pays géographique | 
+| Country | Emplacement du pays géographique | 
 | Segment | Segment de marché | 
 | Sous-segment | Sous-segment de marché | 
 | Résumé du type SMC | Type SMC | 

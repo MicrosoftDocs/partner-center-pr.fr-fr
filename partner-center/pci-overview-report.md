@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cca136670fa2891eea32e4561b97692ca98a77a9
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277485"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565404"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Vue d’ensemble des rapports de tableau de bord disponibles dans les insights de l’Espace partenaires
  
 **Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
-Le tableau de bord vue d’ensemble Insights fournit une vue instantanée des indicateurs de performance clés tels que les clients, les abonnements, le chiffre d’affaires à la consommation Azure et les licences. Vous pouvez visualiser les graphiques suivants dans le rapport vue d’ensemble.
+Le tableau de bord vue d’ensemble Insights fournit une vue instantanée des indicateurs de performance clés (KPI) tels que les clients, les abonnements, le chiffre d’affaires à la consommation Azure et les licences. Vous pouvez visualiser les graphiques suivants dans le rapport vue d’ensemble.
 
 - Résumé  
 - Répartition géographique de vos clients, abonnements et licences  
@@ -49,12 +49,12 @@ La zone **clients** comprend les éléments suivants :
 
 La zone **chiffre d’affaires consommé (ACR) Azure** du résumé comprend les éléments suivants :
 
-- Le chiffre d’affaires total consommé Azure (au dollar des États-Unis) qui vous est attribué au cours de la plage de dates sélectionnée.
-- La croissance du pourcentage ou le déclin des ACR avec attributs (en US $) au cours de la plage de dates sélectionnée.
-- Le micro-graphique présente une tendance mensuelle de ACR US $ qui vous est attribuée sur la plage de dates sélectionnée 
+- Nombre total de ACR (en dollars américains) qui vous sont attribués au cours de la plage de dates sélectionnée.
+- La croissance du pourcentage ou le déclin des ACR avec attributs (en dollars américains) au cours de la plage de dates sélectionnée.
+- Le micro-graphique présente une tendance mensuelle de ACR en dollars américains qui vous est attribuée sur la plage de dates sélectionnée. 
 
 > [!NOTE]
-> Les données du chiffre d’affaires consommé Azure (ACR) sont disponibles pour les utilisateurs auxquels le rôle de visionneuse de rapports exécutifs a été attribué 
+> Les données ACR sont disponibles pour les utilisateurs auxquels le rôle de visionneuse de rapports exécutifs a été attribué.
  
 ### <a name="subscriptions-sold"></a>Abonnements vendus
 
@@ -68,7 +68,7 @@ La zone **abonnements vendus** du résumé comprend les éléments suivants :
 
 La zone **abonnements actifs** du Résumé contient les éléments suivants :
 
-- Nombre actuel d’abonnements au produit Cloud avec utilisation active, mesuré en fonction de la télémétrie du produit. Cela exclut tous les abonnements d’essai dans le cas d’abonnements Azure.  
+- Nombre actuel d’abonnements au produit Cloud avec utilisation active, mesuré en fonction de la télémétrie du produit. Cela exclut tous les abonnements Azure d’évaluation.  
 - Pourcentage de croissance des abonnements actifs sur la plage de dates sélectionnée.
 - Le micro-graphique présente la tendance du mois au mois des abonnements actifs sur la plage de dates sélectionnée.
  
@@ -100,10 +100,10 @@ Cela indique la tendance du nombre d’abonnements client pour la plage de dates
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Tendance à la croissance du chiffre d’affaires Azure
 
-La tendance mensuelle d’Azure a consommé le chiffre d’affaires US $ qui vous est attribué au cours de la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée et celui de l’axe des Y représente le total des revenus Azure consommés dont nous sommes affectés au cours du mois.
+La tendance mensuelle du chiffre d’affaires Azure consommé en dollars américains est attribuée à vous sur la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée et l’axe des Y représente le chiffre d’affaires Azure total consommé en dollars américains attribués au cours du mois.
 
 > [!NOTE]
-> Le chiffre d’affaires utilisé par Azure (ACR) ne sera visible que pour les utilisateurs qui se sont vu attribuer le rôle visionneuse de rapports exécutifs. 
+> ACR est visible uniquement pour les utilisateurs auxquels le rôle de visionneuse de rapports exécutifs a été attribué. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Consommation Azure.":::
 

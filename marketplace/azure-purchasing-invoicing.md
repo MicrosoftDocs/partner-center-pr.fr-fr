@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/22/2021
+ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431543"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565183"
 ---
 # <a name="azure-marketplace-purchasing"></a>Achat sur la place de marché Azure
 
@@ -77,6 +77,8 @@ L’achat d’une offre via la place de marché Azure peut échouer pour différ
 1. L’abonnement appartient à un fournisseur de solutions Cloud (CSP) et l’ISV a refusé de vendre via un CSP.
 1. La place de marché privée est activée pour l’abonnement et l’offre ne figure pas dans la liste des offres autorisées.
 1. L’offre est privée/préliminaire pour des clients spécifiques et l’abonnement ne figure pas dans la liste des clients autorisés.
+
+L’achat d’offres de la place de marché peut échouer si elle est en conflit avec Azure Policy définie par l’administrateur Azure de votre organisation. Par exemple, vous ne pouvez pas acheter Microsoft. SaaS s’il ne figure pas dans la liste **autorisée** de votre organisation. Pour plus d’informations, consultez [la documentation Azure Policy](/azure/governance/policy/).
 
 ## <a name="next-steps"></a>Étapes suivantes
 
