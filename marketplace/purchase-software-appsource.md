@@ -1,25 +1,25 @@
 ---
-title: Comment acheter des offres SaaS sur Microsoft AppSource
-description: Découvrez comment acheter des applications de software as a service (SaaS) auprès de partenaires Microsoft sur Microsoft AppSource.
+title: Acheter des applications SaaS sur Microsoft AppSource
+description: Achetez des applications de software as a service (SaaS) auprès des partenaires Microsoft sur Microsoft AppSource.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412690"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896796"
 ---
-# <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Comment acheter des applications SaaS sur Microsoft AppSource
+# <a name="purchase-saas-apps-on-microsoft-appsource"></a>Acheter des applications SaaS sur Microsoft AppSource
 
 [Microsoft AppSource](https://appsource.microsoft.com/) contient des milliers d’applications métier, notamment des applications de Software as a service (SaaS) et des modules complémentaires pour Dynamics 365, Microsoft 365, Power bi et Power Apps. AppSource comprend des applications gratuites, des versions d’évaluation et des abonnements payants, et vous pouvez gérer les frais, les mises à niveau, les rétrogradations et les annulations à un seul emplacement à l’aide du [Centre d’administration Microsoft 365](/microsoft-365/admin/admin-overview/about-the-admin-center). Cet article explique comment acheter des abonnements SaaS payants dans AppSource.
 
 ## <a name="requirements"></a>Spécifications
 
-Pour acheter une application SaaS, vous avez besoin des éléments suivants :
+L’achat d’une application SaaS requiert les éléments suivants :
 
 - Un compte professionnel ou scolaire. Si vous ne disposez pas d’un compte professionnel ou scolaire, suivez le lien « Inscrivez-vous pour bénéficier d’un compte gratuit » pendant le processus d’achat.
 
@@ -37,9 +37,9 @@ Pour acheter une application SaaS, vous avez besoin des éléments suivants :
 
     1. Indiquez le nombre de postes
     1. Définissez les conditions de facturation.
-    
+
 1. Entrez votre adresse de facturation.
-1. Entrez votre mode de paiement (informations de carte de crédit).    
+1. Entrez votre mode de paiement (informations de carte de crédit).
 1. Sélectionnez **Passer une commande**.
 
 ## <a name="configure-the-application"></a>Configurer l’application
