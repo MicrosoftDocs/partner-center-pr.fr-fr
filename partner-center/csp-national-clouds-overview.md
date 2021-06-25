@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d890a4dff5fef28fd0b698000635643f5f801998
-ms.sourcegitcommit: 7c7e2705873df2b500b8114235c8f67a22112c62
+ms.openlocfilehash: 1ccd03a3155e9942dcd5e5b4d8381a62e03e90dd
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "110398166"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915539"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Appliquer à la vente dans les clouds nationaux Microsoft dans le cadre du programme CSP
 
@@ -62,4 +62,4 @@ Pour plus d’informations sur l’inscription et la vente à des clients dans A
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Forum aux questions (FAQ) pour l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](faq-for-us-govt-cloud.md)
+- [Forum aux questions (FAQ) pour l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](faq-for-us-govt-cloud.yml)
