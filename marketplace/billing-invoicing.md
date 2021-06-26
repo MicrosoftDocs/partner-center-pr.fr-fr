@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.date: 05/04/2021
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373454"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112970189"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Facturation et facturation de la place de marché Azure
 
@@ -49,7 +49,7 @@ Vous serez facturé pour vos achats périodiques au cours de la période pendant
 > La période de service est la période pour laquelle vous avez payé pour utiliser le service. Il effectue un renouvellement automatique au niveau de la et de la période de service, sauf si vous annulez au préalable.
 
 > [!NOTE]
-> Nous ajustons le dernier jour du mois de facturation si la date du mois de renouvellement ne peut pas être égale à la date d’achat du mois. Si vous souhaitez vous abonner sur 1/31, la date de fin de facturation pour février serait 2/27, avec le nouveau terme de facturation à partir du 2/28 (2/28 et 2/29 si vous démarrez dans une année bissextile).
+> Nous ajustons le terme de facturation (ou le dernier jour du mois de facturation) si la date du mois de renouvellement ne peut pas être égale à la date d’achat du mois. Cela signifie que, s’il s’agit d’un abonnement sur 1/31, la date de fin de facturation est ajustée à 2/27, avec la date de renouvellement 2/28 (2/28 et 2/29, respectivement, si le démarrage se fait dans une année bissextile).
 
 ## <a name="invoices"></a>Factures
 

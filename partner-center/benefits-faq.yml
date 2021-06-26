@@ -1,0 +1,100 @@
+### YamlMime:FAQ
+metadata:
+  title: Avantages Microsoft Partner Network-Forum aux questions
+  ms.topic: article
+  ms.date: 12/15/2020
+  description: Réponses aux questions sur l’expiration, le renouvellement et l’activation de licences pour Azure, Cloud, Visual Studio et les avantages techniques et de support
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: arpithakanuganti
+  ms.author: v-arkanu
+  ms.localizationpriority: medium
+  ms.custom: SEOJUNE20
+  ms.openlocfilehash: 72db9073e071581e1f8b7eb685da1d1d7db56294
+  ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "112916697"
+title: Avantages Microsoft Partner Network-Forum aux questions (FAQ)
+summary: >
+  **Rôles appropriés** : Administrateur partenaire MPN
+
+
+  De nombreuses questions courantes sur les avantages des Microsoft Partner Network (MPN) sont abordées dans cet article.
+sections:
+- name: Questions générales
+  questions:
+  - question: >
+      Signification de « date d’expiration des avantages »
+    answer: "La date d’expiration des avantages correspond à la dernière date d’activation de vos avantages.\n\nVous avez jusqu’à la date de renouvellement pour profiter des avantages disponibles au cours de la période d’inscription d’un an. Vous pouvez trouver la date de début de renouvellement dans la page [offres d’abonnement](https://partner.microsoft.com/dashboard/mpn/offers) du tableau de bord MPN.\n\nToutefois, vous pouvez utiliser des clés de produit pendant un an à partir de la journée à laquelle vous échangez les clés sur leurs portails Cloud respectifs.\n\nPar exemple, si la date d’expiration de votre avantage est le 31 janvier 2021, vous devez échanger les clés dans le portail Cloud approprié avant le 31 janvier 2021. Et si vous échangez votre clé de produit le 1er décembre 2020, vous pouvez utiliser cette clé jusqu’au 1er décembre 2021, même si la date d’expiration de votre avantage est le 31 janvier.\n\n> [!NOTE]  \n> Si vous avez des avantages qui nécessitent une attribution d’utilisateur (par exemple, des abonnements Visual Studio), vous pouvez activer et utiliser ces avantages pendant 30 jours supplémentaires après la date de renouvellement de l’inscription.\n"
+  - question: >
+      Comment faire renouveler mes avantages
+    answer: >
+      Utilisez la procédure suivante pour renouveler vos avantages :
+
+
+      1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
+
+
+      2. Dans le volet de navigation de gauche, sélectionnez **MPN**.
+
+
+      3. Sous l’onglet **MPN** , sélectionnez l’option **avantages** .
+
+
+      4. Activez l’avantage que vous souhaitez.
+
+
+      Si l’avantage que vous souhaitez n’est pas disponible, vous devez renouveler votre abonnement au centre partenaires et répéter le processus ci-dessus.
+  - question: >
+      J’ai reçu une notification m’informant que mon abonnement expire bientôt, que dois-je faire
+    answer: >
+      Connectez-vous au portail Cloud qui a généré la notification, passez en revue la date d’expiration de vos abonnements existants, puis ajoutez des licences à l’abonnement arrivant à expiration ou étendez l’abonnement existant pour l’année suivante de l’inscription.
+  - question: >
+      Quand puis-je renouveler mon abonnement ?
+    answer: >
+      L’adhésion existante peut être renouvelée n’importe quel jour après la date de début du renouvellement.
+- name: Avantages d’Azure et de l’activation dans le Cloud
+  questions:
+  - question: >
+      Fonctionnement de l’ajout, de l’extension/du renouvellement des licences sur Azure
+    answer: "Lorsque vous ajoutez des licences, vous augmentez le nombre total de licences pour votre abonnement existant.\n\nLorsque vous renouvelez ou étendez des abonnements, le nombre de licences reste le même, mais vous étendez la durée de ces abonnements.\n\n> [!IMPORTANT]  \n> Si vous choisissez d’ajouter des licences sur un abonnement existant, l’abonnement expire dans moins de 12 mois, en fonction du nombre de licences existantes et ajoutées. Une fois que vous avez échangé une clé, vous ne pouvez plus l’utiliser. Avant d’échanger votre clé, assurez-vous de bien comprendre si vous devez ajouter des licences ou renouveler/étendre l’abonnement.\n"
+  - question: >
+      Puis-je activer la licence sur le compte de mon client ?
+    answer: >
+      Non. Les licences de produit sont émises à des fins de démonstration. Vos employés de vente et de marketing peuvent utiliser ce logiciel pour présenter des produits à vos clients, mais les produits de démonstration ne peuvent pas être installés sur le matériel ou l’infrastructure du client et doivent être utilisés avec la surveillance des partenaires.
+  - question: >
+      Je rencontre des problèmes lors de l’affectation d’utilisateurs dans un crédit en bloc Azure. Que dois-je faire
+    answer: >
+      Vous ne pouvez pas combiner les offres de crédit en bloc Azure avec d’autres offres. Si l’affectation d’un utilisateur ne fonctionne pas, cela signifie probablement que l’utilisateur que vous souhaitez affecter utilise déjà d’autres licences, des offres prépayées ou des offres de crédit telles que Microsoft Contrat Entreprise, partenaire de solution Cloud, Azure dans Open, Pass Azure, Action Pack, etc. Si l’utilisateur n’est abonné à aucun de ces contrats ou plans et que vous ne pouvez toujours pas l’attribuer, contactez Support Microsoft.
+- name: Avantages de Visual Studio
+  questions:
+  - question: >
+      Fonctionnement de l’activation de Visual Studio dans l’espace partenaires
+    answer: "Vous pouvez affecter des abonnements à n’importe qui dans votre liste de gestion des utilisateurs dans l’espace partenaires ou dans votre locataire Azure Active Directory (AAD), en procédant comme suit :\n\n1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).\n\n2. Dans le menu de l’espace partenaires, sélectionnez **MPN**.\n\n3. Sélectionnez **avantages**, puis **Visual Studio**.\n\n4. Affectez les utilisateurs souhaités à vos abonnements Visual Studio existants.\n\nUne fois que vous avez attribué l’abonnement, l’utilisateur doit se connecter à Visual Studio pour le gérer.\n\n> [!Note]  \n> Les abonnements Visual Studio peuvent être réattribués d’un abonné à un autre si 90 jours se sont écoulés depuis l’attribution d’origine.\n"
+- name: Avantages techniques et support
+  questions:
+  - question: >
+      Je ne parviens pas à installer le logiciel que j’ai téléchargé à partir de l’espace partenaires. Comment faire obtenir de l’aide
+    answer: >
+      L’installation, l’activation et d’autres informations relatives au produit sont fournies via Support Microsoft. Pour obtenir de l’aide, procédez comme suit :
+
+
+      1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
+
+
+      2. Dans le menu de l’espace partenaires, sélectionnez **MPN**.
+
+
+      3. Sélectionnez **avantages**, puis **avantages techniques**.
+
+
+      4. Utilisez la section avantages techniques pour activer et recevoir un ID d’accès/contrat.
+
+
+      5. Connectez-vous à [support Microsoft](https://support.microsoft.com/supportforbusiness/productselection).
+
+
+      6. Sélectionnez le produit que vous essayez d’installer, puis créez un ticket de support technique.
+additionalContent: "\n## <a name=\"next-steps\"></a>Étapes suivantes\n\n- [Obtenez une spécialisation avancée pour démontrer votre expertise](advanced-specializations.md)"
