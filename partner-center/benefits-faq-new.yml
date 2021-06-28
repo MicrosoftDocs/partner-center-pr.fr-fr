@@ -1,0 +1,162 @@
+### YamlMime:FAQ
+metadata:
+  title: FAQ sur les avantages Microsoft Partner Network
+  ms.topic: article
+  ms.date: 02/04/2021
+  description: Questions sur les stratégies relatives aux avantages Microsoft Partner Network.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: keramp88
+  ms.author: keramp
+  ms.localizationpriority: medium
+  ms.custom: 
+  ms.openlocfilehash: 11cafe111d35a4540a018dcaa2534cf1ed33874f
+  ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 06/28/2021
+  ms.locfileid: "112989821"
+title: FAQ sur les avantages Microsoft Partner Network
+summary: >
+  **Rôles appropriés** : Administrateur partenaire MPN
+
+
+  L’article suivant répond à certains des principaux problèmes posés par les partenaires de Microsoft Partner Network (MPN) sur les avantages, les compétences et les licences des produits MPN.
+sections:
+- name: Réponse à COVID-19
+  questions:
+  - question: >
+      Nous arrivons à la date anniversaire de notre compétence, et nous ne pouvons pas répondre aux exigences de compétence en raison des impacts liés à COVID-19. Que dois-je faire ?
+    answer: >
+      Si la date anniversaire de votre compétence est comprise entre le 1er janvier et le 30 juin 2021, nous étendons vos compétences ou compétences existantes (à l’exception du Cloud Business Applications compétence) jusqu’à la prochaine date anniversaire du 2022. Vous n’aurez pas besoin de respecter les exigences en matière d’examen ou de performances, mais vous payez toujours les frais relatifs aux compétences. Pour plus d’informations, consultez notre [billet de blog](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+- name: Adhésion
+  questions:
+  - question: >
+      Quel est le processus et le temps de renouvellement des compétences ?
+    answer: >
+      Votre entreprise peut renouveler une compétence dans l’espace partenaires.Vous devez respecter les exigences en matière de performances des compétences, valider les examens et les compétences nécessaires chaque année et payer les frais annuels dans la fenêtre de renouvellement pour conserver l’état des compétences et l’accès aux avantages associés.
+
+
+      Avant de renouveler votre compétence, l’administrateur général ou l’administrateur de compte de votre entreprise doit passer en revue et mettre à jour les informations de l’entreprise. Ils peuvent accéder au profil de l’entreprise dans l’espace partenaires pour voir l’État et passer en revue les informations qui doivent être mises à jour.Une documentation supplémentaire peut être nécessaire pour vérifier vos informations.  
+
+
+      La fenêtre de renouvellement commence à la date anniversaire de votre achat, plus un jour. Par exemple, si vous avez acheté le Action Pack Microsoft le 1er septembre 2020, votre période de renouvellement de 30 jours commence le 2 septembre 2021. Les rôles administrateur général et administrateur MPN de votre société reçoivent la communication de renouvellement menant à votre date anniversaire et à 30 jours après. Vous allez continuer à avoir accès aux avantages associés pendant la fenêtre de renouvellement.
+
+
+      Pour plus d’informations, consultez [renouvellement de l’offre MPN](renew-mpn-offers.md).
+  - question: >
+      Quand pouvons-nous renouveler mon Action Pack Microsoft ?
+    answer: >
+      Votre entreprise peut renouveler votre Action Pack Microsoft dans l’espace partenaires pendant votre fenêtre de renouvellement.
+
+
+      Avant de renouveler votre Action Pack, l’administrateur général ou l’administrateur de compte de votre entreprise doit consulter et mettre à jour les informations professionnelles de votre entreprise. Ils peuvent accéder au profil de votre entreprise dans l’espace partenaires pour voir votre état et comprendre quelles informations doivent être mises à jour.Une documentation supplémentaire peut être nécessaire pour vérifier vos informations.  
+
+
+      La fenêtre de renouvellement commence à la date anniversaire de votre achat, plus un jour. Par exemple, si vous avez acheté le Action Pack Microsoft le 1er septembre 2020, votre période de renouvellement de 30 jours commence le 2 septembre 2021. vous pourrez continuer à accéder aux avantages associés pendant la fenêtre de renouvellement.
+
+
+      Pour plus d’informations, consultez [renouvellement de l’offre MPN](renew-mpn-offers.md)
+  - question: >
+      Quelle est la différence entre le Action Pack Microsoft et le Action Pack d’apprentissage ?
+    answer: >
+      Le Action Pack Microsoft est un portefeuille de ressources qui aideront les partenaires à vous familiariser avec les technologies Microsoft et à créer votre solution/service. Vous pouvez acheter un Action Pack Microsoft, que vous ayez ou non une compétence.
+
+
+      Le Action Pack d’apprentissage est le niveau d’entrée du programme de partenaire de formation. Le programme d’apprentissage fournit des ressources aux entreprises qui proposent des formations technologiques et/ou qui ont une pratique d’apprentissage. L' [Action Pack d’apprentissage](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) offre des remises sur les cours, la place de marché et les avantages pour aider les partenaires à devenir des experts sur différentes gammes de produits Microsoft. Reportez-vous au [tableau des licences](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) pour le Action Pack Microsoft et le Action Pack d’apprentissage.
+  - question: >
+      Qu’advient-il de notre compétence ou de Action Pack avantages durant la période de renouvellement de 30 jours ?
+    answer: >
+      Dans le cadre de l’accord MPN, vous pouvez continuer à avoir accès aux avantages du programme tant que votre abonnement est actif. Une fois qu’un abonnement expire, l’accès aux avantages sera perdu.
+
+
+      Pour plus d’informations, consultez [renouvellement de l’offre MPN](renew-mpn-offers.md)
+- name: Licences de produits
+  questions:
+  - question: >
+      Quelles sont les offres actuelles pour les partenaires dans le Microsoft Partner Network sur les licences de produit ?
+    answer: >
+      Les licences de produit (également appelées « licences d’utilisation internes » ou « droits d’utilisation internes ») sont incluses dans les avantages pour les partenaires qui atteignent une compétence ou achètent un Action Pack Microsoft. Pour obtenir la liste des offres actuelles de licences du produit, consultez le [Guide des programmes Microsoft Partner Network](https://aka.ms/partner-benefits-use-guide).
+  - question: >
+      Un jeton unique peut-il être utilisé pour déverrouiller plusieurs abonnements ?
+    answer: >
+      Non, vous ne pouvez pas fractionner les jetons pour déverrouiller plusieurs abonnements. Les jetons doivent être utilisés dans le format fourni. Par exemple, un jeton de 25 sièges ne peut pas être divisé en 5 jetons de 5 sièges différents.
+
+
+      Pour plus d’informations, consultez le guide des programmes partenaires Microsoft  [aka.ms/Partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Si nous avons activé notre jeton pour les services Cloud sur un locataire incorrect, ou ajouté des sièges au lieu de s’étendre, pouvons-nous obtenir un jeton de remplacement ?
+    answer: >
+      Les jetons de remplacement pour les activations de service Cloud sur un locataire incorrect et pour les sièges ajoutés par erreur sur les abonnements existants peuvent être émis une seule fois, dans un délai de 30 jours après l’activation du jeton d’origine.
+
+
+      Pour plus d’informations, consultez le guide des programmes partenaires Microsoft [aka.ms/Partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Pour les licences de produits logiciels locaux, est-ce que nous avons besoin d’une clé de produit pour l’installation ?
+    answer: >
+      Vous n’avez pas besoin d’une clé de produit pour tous les produits. L’activation de produit est requise pour les systèmes d’exploitation clients et Windows Server, ainsi que pour toutes les applications clientes Microsoft Office.
+
+
+      Pour plus d’informations, consultez le guide des programmes partenaires Microsoft  [aka.ms/Partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Pouvons-nous acquérir plus de clés de produit si nous avons consommé toutes les installations et activations ?
+    answer: >
+      Certaines clés de produit émises sont des clés d’activation multiple (MAK). Ces produits ont un nombre fini d’installations, d’activations ou de sièges. Une clé de produit cessera de fonctionner lorsque toutes les installations et toutes les activations ont été consommées. Des activations supplémentaires pour ces clés de produit ne seront pas accordées.
+
+
+      Pour plus d’informations, consultez le guide des programmes partenaires Microsoft  [aka.ms/Partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Que se passe-t-il si nous décidons de ne pas renouveler notre compétence ou Microsoft Action Pack, pouvons-nous toujours utiliser les licences de produits logiciels locaux ?
+    answer: >
+      Non. Les licences de produits logiciels locaux qui sont incluses dans la réalisation des compétences et les Action Pack Microsoft ne sont pas perpétuelles. Vous êtes autorisé et vous avez le droit d’utiliser ces licences uniquement pendant votre adhésion. Vous devrez obtenir des droits de licence par le biais d’une licence commerciale ou désinstaller tout logiciel local obtenu via le Microsoft Partner Network si vous choisissez de ne pas renouveler votre compétence ou Action Pack.
+
+
+      Pour plus d’informations, consultez le guide des programmes partenaires Microsoft [aka.ms/Partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Microsoft Action Pack inclut-il l’abonnement Visual Studio Enterprise ?
+    answer: >
+      Non, le Action Pack Microsoft comprend uniquement des abonnements Visual Studio Professional.
+
+
+      Pour plus d’informations, consultez le guide des programmes partenaires Microsoft [aka.ms/Partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Pouvons-nous partager les abonnements Visual Studio inclus avec la réalisation des compétences ou les Action Pack Microsoft ?
+    answer: >
+      Non, les abonnements Visual Studio sont concédés sous licence par utilisateur et doivent être attribués et activés pour être valides. Le partage des informations d’identification de connexion est interdit.
+
+
+      Pour plus d’informations, consultez le guide des programmes partenaires Microsoft [aka.ms/Partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Comment connaître le nombre de licences de produits de notre entreprise ?
+    answer: >
+      Vous pouvez afficher et gérer des licences de produits et d’autres avantages inclus dans le Action Pack de vos compétences ou dans l’espace partenaires. Pour plus d’informations, consultez [gérer les avantages de votre réseau partenaire](manage-your-partner-network-benefits.md).
+  - question: >
+      Comment la société peut-elle utiliser les licences de produit disponibles pour nous par le biais de la réalisation des compétences ou de la Action Pack ?
+    answer: >
+      Nous incluons des licences de produits pour les partenaires de la Microsoft Partner Network qui atteignent une ou plusieurs compétences ou achètent un Action Pack Microsoft pour les aider à créer des solutions innovantes et à se familiariser avec les produits et technologies Microsoft. Les conditions d’utilisation des licences de produits incluses dans le cadre de la réalisation de la compétence et Action Pack sont expliquées dans le [Guide des programmes Microsoft Partner Network](https://aka.ms/partner-benefits-use-guide).
+  - question: >
+      Existe-t-il des limitations quant à la façon dont notre entreprise peut utiliser les licences de produits disponibles par le biais de la réalisation des compétences ou de la Action Pack ?
+    answer: >
+      Oui, il existe des limitations. Les conditions d’utilisation de la licence de produit sont différentes des licences commerciales acquises via les programmes de licence Microsoft. Pour plus d’informations, consultez [conditions d’utilisation du contrat de licence produit](https://www.microsoft.com/licensing). Les licences de produit n’incluent pas Software Assurance et il existe des restrictions sur les licences de produit. Vous pouvez consulter les conditions d’utilisation des licences du produit dans le [Guide des programmes Microsoft Partner Network](https://aka.ms/partner-benefits-use-guide).
+  - question: >
+      Comment ajouter d’autres licences de produit à ce qui est indiqué dans l’espace partenaires pour que notre entreprise soit couverte ?
+    answer: >
+      Les licences de produit comprises dans le cadre de la réalisation des compétences et les Action Pack ont des conditions d’utilisation différentes des licences commerciales acquises par le biais de programmes de licence Microsoft. Nous vous recommandons de passer en revue les options de votre entreprise en matière de licences [Microsoft](https://www.microsoft.com/licensing).
+  - question: >
+      Nous avons récemment fusionné avec/acquis une autre société dans le Microsoft Partner Network qui possède une compétence. Sommes-nous en mesure de conserver toutes nos licences de produit actuelles lorsque nous utilisons la fonctionnalité de fusion de compte dans l’espace partenaires ?
+    answer: >
+      La réalisation des compétences et l’achat de Action Pack sont effectués dans l’espace partenaires via le compte global partenaire. Lorsque vous utilisez la fonctionnalité de fusion de compte dans l’espace partenaires, les avantages existants de chaque compte sont conservés jusqu’au renouvellement suivant. Lors du renouvellement, les avantages inclus dans la mise en œuvre des compétences et les Action Pack sont mis en œuvre pour le compte global partenaire de l’entreprise partenaire.
+
+
+      -   Microsoft Action Pack : la société partenaire peut acheter un Action Pack par compte global partenaire.
+
+
+      -   Compétence : la société partenaire recevra un package d’avantages centraux, associé à sa plus grande réalisation, ainsi que les avantages spécifiques aux compétences auxquels le partenaire est éligible au niveau du compte global partenaire.
+
+
+      Passez en revue les informations relatives à la [fusion des comptes](merge-accounts.md) pour en savoir plus sur le fonctionnement de la fonctionnalité et sur la manière de déterminer si elle est adaptée aux besoins de votre entreprise.
+  - question: >
+      Nous avons des questions sur les licences de nos produits de l’entreprise dans l’espace partenaires. Où obtenir de l’aide ?
+    answer: >
+      Vous pouvez accéder à la [section prise en charge de l’espace partenaires](https://partner.microsoft.com/support) pour obtenir des liens vers des ressources qui peuvent être utiles, ou pour ouvrir un ticket avec l’équipe de support technique de notre partenaire, le cas échéant.
+additionalContent: "\n## <a name=\"next-steps\"></a>Étapes suivantes\n   - [Trouver vos avantages Microsoft Partner Network](mpn-find-benefits.md)\n   - [Renouveler l’offre MPN](renew-mpn-offers.md)"
