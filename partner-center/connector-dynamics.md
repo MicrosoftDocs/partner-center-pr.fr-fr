@@ -8,12 +8,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: e656f728789bf5b13dd09732b0b2f5ef30de760a
-ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
+ms.openlocfilehash: 87083c8124762f0952b0c98cbc209164151dcb0c
+ms.sourcegitcommit: 6a6e8f9af0a58b32770c7fce9f567dd4795b9797
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/21/2021
-ms.locfileid: "112425089"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113029190"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Vue d’ensemble de la co-vente du connecteur pour Dynamics 365 CRM
 
@@ -46,7 +46,7 @@ Avant d’installer la solution, assurez-vous de respecter les conditions préal
 
 1. Sélectionnez le lien **ouvrir AppSource** dans le menu supérieur.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Capture d’écran montrant les AppSource ouverts.":::
+   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Capture d’écran montrant les AppSource ouverts.":::
 
 1. Recherchez Dynamics 365 dans l’écran contextuel pour rechercher les **connecteurs de référence de l’espace partenaires** .  
 
@@ -189,7 +189,7 @@ Pour mettre à jour une valeur de variable d’environnement :
 
 1. Mettez à jour la **valeur actuelle** (ne mettez pas à jour la **valeur par défaut**) en utilisant l’option **nouvelle valeur** et en fournissant la valeur. La valeur doit correspondre au type de données de la variable. Par exemple, le type de données Yes ou no accepte la valeur Yes ou no.
 
-   :::image type="content" source="images/environment-variables-video.gif" alt-text="Capture d’écran montrant les variables d’environnement de mise à jour.":::
+   :::image type="content" source="images/cosellconnectors/environment-variables-video.gif" alt-text="Capture d’écran montrant les variables d’environnement de mise à jour.":::
 
 ## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>Synchronisation bidirectionnelle bidirectionnelle de la référence de la co-vente
 
