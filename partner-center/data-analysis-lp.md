@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276856"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013316"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Utilisez Analytics pour en savoir plus sur les revenus des abonnements
 
@@ -33,7 +33,7 @@ Les méthodes de planification pour développer votre activité CSP incluent le 
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Chiffre d’affaires du CSP Twelve-Month (atténuation)
 
-Le chiffre d’affaires du fournisseur de solutions Cloud de 12 mois à la fin représente le chiffre d’affaires final du programme fournisseur de solutions Cloud en USD au niveau du compte global du partenaire. Les données sont actualisées le huitième de chaque mois, afin d’afficher le chiffre d’affaires de douze mois à la fin jusqu’au mois précédent. Par exemple, le 9 septembre 2020, vous devez être en mesure de voir le atténuation pour la période fixe du 2019 septembre à 2020 août.
+Le chiffre d’affaires du fournisseur de solutions Cloud de 12 mois à la fin représente le chiffre d’affaires final du programme fournisseur de solutions Cloud en USD au niveau du compte global du partenaire. Les données sont actualisées le huitième de chaque mois, afin d’afficher le chiffre d’affaires de douze mois à la fin jusqu’au mois précédent. Par exemple, le 9 septembre 2020, vous devez être en mesure de voir le atténuation pour la période fixe du 2019 septembre à 2020 août. Les abonnements logiciels sont exclus. Le chiffre d’affaires de atténuation reflète uniquement le chiffre d’affaires éligible pour lequel les factures ont déjà été payées. 
 
 Le chiffre d’affaires affiché sur l’espace partenaires est calculé pour un intervalle de temps fixe de 12 mois et ne peut pas être remplacé par un délai plus bref.
 
