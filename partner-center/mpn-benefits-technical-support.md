@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373303"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105037"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Support technique pour les produits locaux ou Cloud
 
@@ -52,7 +52,7 @@ Comment afficher ou activer vos avantages techniques dans l’espace partenaires
    > [!NOTE]
    > Si votre compte est associé uniquement au CSP et non associé à MPN, vous verrez un message d’erreur « vous n’êtes pas autorisé à effectuer cette action ». Vous devez disposer d’un compte MPN associé.
 
-2. Développez **Avantages** dans le menu de navigation gauche, puis sélectionnez **Avantages techniques**. La page des avantages techniques affiche les offres actives Gold, Silver ou Microsoft Action Pack adhésion aux organisations.
+2. Développez **avantages** dans le menu de navigation gauche, sélectionnez [**avantages techniques**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical). La page des avantages techniques affiche les offres actives Gold, Silver ou Microsoft Action Pack adhésion aux organisations.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Avantages techniques, puis avantages" :::
 
