@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551654"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080637"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Comment et quand demander un crédit de contrat de niveau de service (SLA) de Microsoft
 
@@ -33,8 +33,8 @@ Les crédits SLA de Microsoft sont déterminés en fonction du ou des services q
 
 *Le partenaire CSP doit soumettre la réclamation et toutes les informations requises à la fin du mois civil suivant le mois au cours duquel l’incident s’est produit.* Par exemple, si l’incident s’est produit le 15 février, Microsoft doit recevoir la revendication et toutes les informations requises avant le 31 mars. Les clients finaux et les revendeurs indirects ne peuvent pas soumettre des demandes de crédit du contrat SLA. le fournisseur indirect ou le partenaire direct Bill doit soumettre des revendications en son nom.
 
->[!NOTE]
->Les incidents de Conseil ([procédure de vérification de l’intégrité du service Microsoft 365](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) ne sont pas éligibles pour les crédits SLA.
+> [!NOTE]
+> Les incidents de Conseil ne sont pas éligibles pour les crédits SLA. Un incident publié dans le tableau de bord Service Health indique qu’un locataire peut être affecté et représente les meilleures informations *que* Microsoft a au moment de la publication. Les données de la page d’intégrité représentent la disponibilité générale d’un service. L’impact, l’atténuation et la résolution des services individuels peuvent varier. Pour plus d’informations, consultez le billet final de l’incident et la révision après incident. Pour plus d’informations, consultez [Comment vérifier Microsoft 365 service Health](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) .
 
 ### <a name="required-information"></a>Informations requises
 
@@ -65,7 +65,7 @@ Vous pouvez trouver l’identificateur de l’incident de panne sur la page **se
 | EX | Exchange Online |
 | FO | Protection Exchange Online |
 | SB | Skype entreprise Online (anciennement Lync Online) |
-| Système d''exploitation | Abonnement Office |
+| Système d’exploitation | Abonnement Office |
 | Po | Power BI pour Office 365 |
 | SP | SharePoint Online |
 | Ye | Yammer Enterprise |
