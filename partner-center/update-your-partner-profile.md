@@ -9,29 +9,32 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9f9a055ce3bfbff568287267b74b04e8f9d03ad1
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110153053"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080620"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Vérifier ou mettre à jour les informations du profil de votre entreprise 
 
 **Rôles appropriés** : Administrateur général | Administrateur de compte MPN
 
-La première fois que vous vous connectez à l’Espace partenaires en tant qu’administrateur général, vous devez vérifier que tous les détails de votre entreprise sont corrects. Cela inclut le contact principal, le nom et l’adresse de l’entreprise légale ainsi que les informations sur les programmes. Si votre entreprise possède plusieurs emplacements, vérifiez l’exactitude de vos données de localisation. En tant qu’administrateur général, administrateur de facturation ou agent d’administration, vous pouvez également voir et mettre à jour vos informations de facturation et de fiscalité.
+La première fois que vous vous connectez à l’Espace partenaires en tant qu’Administrateur général, vous devez vérifier que tous les détails de votre entreprise sont corrects. Cela inclut le contact principal, le nom et l’adresse de l’entreprise légale ainsi que les informations sur les programmes. Si votre entreprise possède plusieurs emplacements, vérifiez l’exactitude de vos données de localisation. En tant qu’Administrateur général, Administrateur de facturation ou Agent d’administration, vous pouvez également voir et mettre à jour vos informations de facturation et de fiscalité.
 
-Votre profil de partenaire est constitué des informations de votre entreprise légale, du nom et de l’adresse e-mail du contact principal, des programmes auxquels votre entreprise participe et, le cas échéant, de vos autres sociétés qui sont à présent fusionnées dans votre entreprise légale. Vérifiez que le nom et l’adresse de la société dans votre profil d’entreprise juridique sont exempts de fautes d’orthographe et d’abréviations, et qu’ils correspondent exactement à ceux figurant au registre officiel des entreprises. Si vous êtes propriétaire d’une entreprise individuelle, vous devez utiliser le nom de votre société comme nom légal.
+> [!NOTE]
+> Vous devez être l’Administrateur général pour mettre à jour votre adresse de facturation.
+
+Votre profil de partenaire est constitué des informations de votre entreprise légale, du nom et de l’adresse e-mail du contact principal, des programmes auxquels votre entreprise participe et, le cas échéant, de vos autres sociétés qui sont à présent fusionnées dans votre entreprise légale. Vérifiez que le nom et l’adresse de la société dans votre profil d’entreprise légale sont exempts de fautes d’orthographe et d’abréviations, et qu’ils correspondent exactement à ceux figurant au registre officiel des entreprises. Si vous êtes propriétaire d’une entreprise individuelle, vous devez utiliser le nom de votre société comme nom légal.
 
 
 ## <a name="locate-the-legal-business-profile"></a>Localiser le profil de l’entreprise légale
 
-1. Accédez à l’icône **Paramètres**, puis sélectionnez **Paramètres du compte**.
+1. Dans l’Espace partenaires, sélectionnez l’icône **Paramètres**, puis **Paramètres du compte**.
  
 1. Sélectionnez **Profil de l’organisation**. 
 
-2. Passez en revue votre **profil d’entreprise légale**, les **informations de contact principales** et les **informations de programme**.
+2. Vérifiez les valeurs pour **Profil d’entreprise légale**, **Informations de contact principales** et **Informations de programme**.
 
 Si vous avez fusionné vos autres sociétés dans le cadre légal de vos activités, vous pouvez également consulter ces informations. 
 
@@ -40,24 +43,24 @@ Si vous avez fusionné vos autres sociétés dans le cadre légal de vos activit
 Mettez à jour le nom légal ou l’adresse légale de votre entreprise dans l’Espace partenaires.
 
 >[!Important]
->- Pour les comptes MPN, l’administrateur général et l’administrateur de compte peuvent tous deux mettre à jour la dénomination sociale de l’entreprise.
->- Pour les comptes CSP Indirect Reseller, seul l’administrateur général peut mettre à jour la dénomination sociale de l’entreprise. 
->- Les partenaires Direct Bill et les fournisseurs indirects ne peuvent pas changer le nom légal de leur société si l’état de vérification du compte est **Autorisé**. Si vous devez changer le nom, vous devez créer un [ticket de support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>- Pour les comptes MPN (Microsoft Partner Network), l’Administrateur général et l’Administrateur de compte peuvent tous deux mettre à jour le nom légal de l’entreprise.
+>- Pour les comptes CSP (Cloud Solution Provider) Indirect Reseller, seul l’Administrateur général peut mettre à jour le nom légal de l’entreprise. 
+>- Les partenaires à facturation directe et les fournisseurs indirects ne peuvent pas changer le nom légal de leur société si l’état de vérification du compte est **Autorisé**. Si vous devez changer le nom, vous devez créer un [ticket de support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 
 
-1. Accédez à **Paramètres**, **Paramètres de compte**, puis sélectionnez **Profil de l’organisation**.
+1. Dans l’Espace partenaires, sélectionnez **Paramètres**, **Paramètres du compte**, puis **Profil de l’organisation**.
 
 2. Sélectionnez **Informations légales**, puis le profil légal (Partenaire ou Revendeur) de l’entreprise que vous voulez mettre à jour.
 
-1. Cliquez sur **Mettre à jour** à côté du nom/de l’adresse de l’entreprise et changez les détails.
+1. Sélectionnez **Mettre à jour** à côté du nom/de l’adresse de l’entreprise et changez les détails.
  
 1. Lorsque vous sélectionnez **Envoyer**, votre identité légale est réévaluée. Nous réévaluons uniquement ce que vous avez modifié.
 
 1. Si la vérification échoue, découvrez comment [résoudre le problème](verification-responses.md).
 
 >[!Important]
->Si vous êtes partenaire CSP (Cloud Solution Provider), vous ne pouvez pas changer le pays associé à votre adresse légale. Le pays de votre adresse légale est lié à votre locataire et à vos services, ainsi qu’à la devise dans laquelle vous facturez vos activités. Pour en savoir plus sur les mises à jour des pays MPN, consultez [Mises à jour des pays MPN](manage-locations.md#change-country-of-partner-global-account).
+>Si vous êtes partenaire CSP, vous ne pouvez pas changer le pays associé à votre adresse légale. Le pays de votre adresse légale est lié à votre locataire et à vos services, ainsi qu’à la devise dans laquelle vous facturez vos activités. Pour en savoir plus sur les mises à jour des pays MPN, consultez [Mises à jour des pays MPN](manage-locations.md#change-country-of-partner-global-account).
 
 
 ### <a name="who-can-update-legal-business-name-and-when"></a>Qui peut mettre à jour le nom légal de l’entreprise et quand
@@ -70,7 +73,7 @@ MPN|Administrateur général ; administrateur de compte|Autorisé ; en attente
 
 ## <a name="update-your-mpn-global-business-account"></a>Mettre à jour votre compte professionnel global MPN
 
-Si, durant la migration du Partner Membership Center vers l’Espace partenaires, le mauvais compte d’entreprise est identifié comme étant l’entreprise légale, vous pouvez le remplacer par le compte d’entreprise approprié.
+Pendant la migration du Partner Membership Center vers l’Espace partenaires, si le mauvais compte d’entreprise est identifié comme étant l’entreprise légale, vous pouvez le remplacer par le compte d’entreprise approprié.
 
 Pour actualiser ces informations, vous devez être administrateur général ou administrateur de compte. Découvrir comment [gérer vos comptes de localisation mondiaux MPN](manage-locations.md)
 
@@ -88,18 +91,18 @@ Pour mettre à jour votre ID MPN associé à votre compte CSP :
 
 ## <a name="update-your-csp-legal-billing-address"></a>Mettre à jour votre adresse de facturation légale CSP
 
-Si vous êtes administrateur général, administrateur de facturation ou agent administratif, vous pouvez changer l’adresse qui apparaît sur la facture dans votre **profil de revenu et taxe**. Toutefois, vous ne pouvez pas modifier le nom de la société sur votre facture en raison d’une limitation du système de facture.
+Si vous êtes l’Administrateur général, vous pouvez changer l’adresse qui apparaît sur la facture dans votre **profil de revenu et taxe**. Actuellement, vous ne pouvez pas changer le nom de la société sur votre facture en raison d’une limitation du système de facture.
 
-:::image type="content" source="images/billing-profile.png" alt-text="Capture d’écran de la zone dans laquelle les informations de facturation sont ajoutées":::
+:::image type="content" source="images/billing-profile.png" alt-text="Capture d’écran de la zone dans laquelle les informations de facturation sont ajoutées.":::
 
 |**Champ**  |**Description**|  
 |---------------------|:------------------|
-|Nom de la société à facturer|Nom de société qui apparaît dans Informations de facturation sur votre facture CSP.  Il n’est pas modifiable dans l’Espace partenaires.  Pour le mettre à jour, créez un ticket de support.|
-|Adresse de facturation|Adresse de facturation indiquée sur la facture CSP. Peut être mise à jour à partir de [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|Contact de facturation|Détails du contact de facturation (prénom, nom, numéro principal) du compte CSP.  Peut être mis à jour à partir de [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|Numéro de BDC|Numéro de bon de commande indiqué sur la facture du partenaire.  Peut être mis à jour à partir de [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Nom de la société à facturer|Nom de société qui apparaît dans Informations de facturation sur votre facture CSP.  Cette information ne peut pas être modifiée dans l’Espace partenaires.  Pour le mettre à jour, créez un ticket de support.|
+|Adresse de facturation|Adresse de facturation indiquée sur la facture CSP. Peut être mise à jour dans [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Contact de facturation|Détails du contact de facturation (prénom, nom, numéro principal) du compte CSP.  Peut être mise à jour dans [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Numéro de BDC|Numéro de bon de commande indiqué sur la facture du partenaire. Peut être mise à jour dans [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |ID taxe entreprise|Dans certains pays, les entreprises peuvent fournir leur [numéro de TVA (taxe à valeur ajoutée) ou équivalent local](./organization-tax-info.md). Pour mettre à jour votre numéro fiscal/T.V.A., vous devez être administrateur général, administrateur de facturation ou agent d’administration.|
-|Devise de facturation|La devise de facturation de votre compte CSP est déterminée par le pays légal du compte CSP.  Elle ne peut pas être modifiée une fois le compte CSP créé.|
+|Devise de facturation|La devise de facturation de votre compte CSP est déterminée par le pays légal du compte CSP.  Cette information ne peut pas être changée une fois le compte CSP créé.|
 
 ## <a name="next-steps"></a>Étapes suivantes
 

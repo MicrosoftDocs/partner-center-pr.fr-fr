@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bd68d6f446666022647f20e78e1aa6472364c426
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855826"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551161"
 ---
 # <a name="registration-id-number-information"></a>Informations sur les numéros d’identification des inscriptions
 
@@ -26,7 +26,7 @@ Si vous êtes fournisseur indirect, partenaire à facturation directe ou revende
 
 | **Pays ou région** | **Détails** |
 |:--|:--|
-| **Arménie** | INN – Numéro d’identification fiscale<br>Numéro de TVA – Également appelé « numéro d’immatriculation à la TVA ». Cette valeur est le numéro unique qui identifie une personne imposable (entreprise) ou une personne morale non imposable qui est immatriculée à la TVA.<br>Numéro de service public |
+| **Arménie** | INN – Numéro d’identification fiscale<br>Numéro de TVA (taxe sur la valeur ajoutée) – Également appelé « numéro d’immatriculation à la TVA ». Cette valeur est le numéro unique qui identifie une personne imposable (entreprise) ou une personne morale non imposable qui est immatriculée à la TVA.<br>Numéro de service public |
 | **Azerbaïdjan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Numéro d’identification fiscale<br>INN – Numéro d’identification fiscale |
 | **Bélarus**  | UNP – Cette valeur est un numéro à neuf chiffres (numérique pour les organisations, alphanumérique pour les personnes) qui contient un identificateur de région, un numéro de série régional et un chiffre de contrôle. |
 |**Brésil** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurídica ou registre national des personnes morales). Cette valeur est un numéro d’identification délivré aux sociétés brésiliennes par le Département fédéral des Impôts du Brésil  |

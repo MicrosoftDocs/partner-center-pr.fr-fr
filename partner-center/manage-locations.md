@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
-ms.translationtype: HT
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151778"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276822"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gérer les localisations dans votre compte MPN et ajouter (supprimer) une localisation
 
@@ -30,7 +30,7 @@ Contoso a son compte global de partenaire (PGA) au Royaume-Uni. Il s’agit de l
 >[!NOTE]
 >Il existe une relation 1-1 entre un locataire CSP et un ID MPN de localisation.
 
-:::image type="content" source="images/locations/locations1.png" alt-text="Structure des localisations MPN":::
+:::image type="content" source="images/locations/locations1.png" alt-text="Structure des localisations MPN.":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Prérequis pour l’ajout d’un nouveau compte pour une activité CSP
 
@@ -92,7 +92,7 @@ Mettez à jour les champs suivants :
  
 1. Sélectionnez **Ajouter un emplacement**. Un nouvel ID MPN est créé pour la nouvelle localisation que vous pouvez utiliser pour les transactions et incentives CSP.
 
-:::image type="content" source="images/legal-biz.png" alt-text="Ajouter une nouvelle activité légale":::
+:::image type="content" source="images/legal-biz.png" alt-text="Ajouter une nouvelle activité légale.":::
 
 > [!NOTE]
 > Une fois que vous ajoutez une localisation dans l’Espace partenaires, vous ne pouvez plus la supprimer. Vous verrez **MPN** dans le menu de gauche de l’Espace partenaires si vous avez utilisé le bon ID MPN pour vous connecter.
@@ -143,7 +143,7 @@ Pour supprimer une localisation de votre compte, vous devez contacter [le suppor
  
 1. Sélectionnez **Changer votre pays** à côté de la liste déroulante **Pays/région** et suivez les étapes. 
 
-:::image type="content" source="images/lbp.png" alt-text="Menu volant des données de profil de l’entreprise légale":::
+:::image type="content" source="images/lbp.png" alt-text="Menu volant des données de profil de l’entreprise légale.":::
 
 5. Sélectionnez **Enregistrer**.
 
