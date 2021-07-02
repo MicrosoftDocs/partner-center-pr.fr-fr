@@ -7,17 +7,32 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 06/04/2021
-ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/29/2021
+ms.openlocfilehash: a124e4c5bb31a1fbb744bf2c5e1ea65a356bdd54
+ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431449"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "113221438"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Acheter une offre SaaS dans Portail Azure
 
 Cet article explique les différentes options et exigences relatives à la recherche, à l’essai et à l’achat d’une offre SaaS (Software-as-a-service) à partir de la Portail Azure.
+
+## <a name="create-a-saas-subscription"></a>Créer un abonnement SaaS
+
+Pour acheter un abonnement SaaS, vous devez disposer d’un compte d’utilisateur Azure disposant d’un accès à un abonnement Azure approprié. Cet abonnement sera utilisé pour la facturation, ainsi que pour la compartimentage de vos ressources cloud achetées. Pour en savoir plus sur les abonnements Azure, consultez [créer un abonnement Azure supplémentaire](/azure/cost-management-billing/manage/create-subscription).
+
+Dans la Portail Azure, sélectionnez l’offre SaaS souhaitée dans la section **Marketplace** .
+
+Un abonnement logiciel en tant que service permet d’utiliser un service pendant une période donnée à l’aide d’un abonnement en ligne au lieu d’une installation locale sur des ordinateurs individuels. Un abonnement est un contrat d’utilisation d’une ou de plusieurs plateformes ou services Cloud, dont les frais s’accumulent sur la base d’un tarif de licence par utilisateur ou sur la consommation de ressources basée sur le Cloud. Une organisation peut avoir plusieurs abonnements SaaS.
+
+Les restrictions sur les abonnements SaaS sont les suivantes :
+
+- Aucun abonnement aux élèves.
+- aucun abonnement Visual Studio Enterprise.
+- Aucun abonnement gratuit.
+- Pour les offres payantes, un instrument de paiement est requis.
 
 ## <a name="saas-offers-discovery-in-azure-portal"></a>SaaS offre une découverte dans Portail Azure
 
@@ -36,7 +51,7 @@ La vue filtrée affiche chaque offre SaaS disponible représentée par un titre.
 
 - Vue d’ensemble : détails sur le service, le marketing et les supports de formation
 - Plans + tarification : chaque offre inclut au moins un plan avec des conditions de facturation et des prix différents
-- Informations d’utilisation + support : comprend l’ID de l’éditeur, l’ID de l’offre et l’ID du plan
+- informations d’utilisation + Support : comprend l’id de Publisher, l’id de l’offre et l’id du Plan
 - Évaluation et évaluations de l’offre SaaS spécifique
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Modèles de facturation disponibles (plans/références SKU) pour les offres SaaS
