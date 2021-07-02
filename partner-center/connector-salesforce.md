@@ -8,12 +8,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 06/28/2021
-ms.openlocfilehash: f8cb4cd2488e55ab64cf7b7cdce4a3e950b266de
-ms.sourcegitcommit: 6a6e8f9af0a58b32770c7fce9f567dd4795b9797
+ms.openlocfilehash: 726e9071347e1590885b4bf82676f7767311f945
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113029078"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173672"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
@@ -21,7 +21,7 @@ ms.locfileid: "113029078"
 
 Le connecteur de co-vente de l’espace partenaires permet à vos vendeurs de vendre leurs produits auprès de Microsoft à partir de vos systèmes CRM. Ils n’ont pas besoin d’être formés pour utiliser l’espace partenaires pour gérer les ventes de covente. À l’aide des connecteurs de covente, vous pouvez créer une référence de covente pour contacter un vendeur Microsoft, recevoir des références de la part du vendeur Microsoft, accepter/refuser des références, modifier les données de l’offre, telles que la valeur de la transaction, et la date de clôture.  Vous pouvez également recevoir toutes les mises à jour des vendeurs Microsoft sur ces offres de covente. Vous pouvez faire en sorte que toutes vos références fonctionnent lorsque vous travaillez dans le CRM de votre choix plutôt que dans l’espace partenaires.
 
-La solution est basée sur Microsoft Power Automated solution et utilise les API de l’espace partenaires.
+la solution est basée sur la solution Microsoft Power Automate et utilise des api de l’espace partenaires.
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
@@ -32,16 +32,16 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 |Compte Espace partenaires|L’ID MPN associé au locataire de l’espace partenaires doit être identique à l’ID MPN associé à votre solution de covente. Vérifiez que vous pouvez voir vos références de covente dans le portail espace partenaires avant de déployer les connecteurs.|[Gérer votre compte](create-user-accounts-and-set-permissions.md)|
 |Rôles d’utilisateur de l’Espace partenaires|L’employé qui va installer et utiliser les connecteurs doit être un administrateur de références|[Affecter des rôles et des autorisations aux utilisateurs](create-user-accounts-and-set-permissions.md)|
 |CRM Salesforce|Le rôle d’utilisateur CRM est administrateur système ou personnalisateur système|[Affecter des rôles dans Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Gestion de l’alimentation-automatiser le compte|Créez un nouvel environnement de production avec une base de données de test, intermédiaire et de production. Si vous disposez d’un environnement de production existant avec une base de données, vous pouvez le réutiliser. L’utilisateur qui va installer la solution connecteur doit disposer d’une licence Power automate et d’un accès à cet environnement. Vous pouvez surveiller la progression et obtenir des informations supplémentaires dans [Power automate](https://flow.microsoft.com/) en cas d’échec de l’installation. Sélectionnez **afficher l’historique** sous **solutions**.|[Créer ou gérer l’environnement](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|compte d’Flow Power Automate|Créez un nouvel environnement de production avec une base de données de test, intermédiaire et de production. Si vous disposez d’un environnement de production existant avec une base de données, vous pouvez le réutiliser. l’utilisateur qui va installer la solution connecteur doit disposer d’une licence Power Automate et d’un accès à cet environnement. vous pouvez surveiller la progression et obtenir plus d’informations dans [Power Automate](https://flow.microsoft.com/) en cas d’échec de l’installation. Sélectionnez **afficher l’historique** sous **solutions**.|[Créer ou gérer l’environnement](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installation du package Salesforce pour les champs personnalisés Microsoft
 
-Pour synchroniser les références entre l’espace partenaires et le CRM Salesforce, la solution Power automate doit identifier clairement les champs de référence spécifiques à Microsoft. Cette délimitation fournit aux équipes de vendeur partenaires la possibilité de choisir les références qu’elles souhaitent partager avec Microsoft pour la covente.
+pour synchroniser les références entre l’espace partenaires et le CRM Salesforce, la solution Power Automate doit identifier clairement les champs de référence spécifiques à Microsoft. Cette délimitation fournit aux équipes de vendeur partenaires la possibilité de choisir les références qu’elles souhaitent partager avec Microsoft pour la covente.
 
 1. Dans Salesforce, activez les **Notes** et ajoutez-les à la liste des opportunités associées. [Informations de référence](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 1. Pour activer les **équipes d’opportunités** , procédez comme suit :
-    - Dans le programme d’installation, utilisez la zone de **recherche rapide** pour localiser les paramètres de l’équipe des opportunités.
+    - dans le programme d’installation, utilisez la zone de **recherche rapide** pour localiser l’équipe des opportunités Paramètres.
     - Définissez les paramètres selon vos besoins. [Informations de référence](https://help.salesforce.com/articleView?id=sf.opp_team_manage.htm&type=5)
 
 1. Dans Salesforce, installez des champs et des objets personnalisés à l’aide du [programme d’installation de package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Utilisez ce programme d’installation pour installer le package dans n’importe quelle entreprise.
@@ -53,11 +53,11 @@ Pour synchroniser les références entre l’espace partenaires et le CRM Salesf
 
 ## <a name="best-practice-test-before-you-go-live"></a>Meilleure pratique : testez avant de passer en direct
 
-Avant d’installer, de configurer et de personnaliser la solution Power automate sur l’environnement de production, veillez à tester la solution sur une instance CRM intermédiaire.
+avant d’installer, de configurer et de personnaliser la solution Power Automate sur l’environnement de production, veillez à tester la solution sur une instance CRM intermédiaire.
 
-- Installez Microsoft Power Automated solution sur un environnement intermédiaire/une instance CRM.
+- installez Microsoft Power Automate solution sur un environnement intermédiaire/une instance CRM.
 
-- Effectuez une copie de la solution et exécutez votre configuration et l’alimentation automatiser les personnalisations de flow sur l’environnement intermédiaire.
+- effectuez une copie de la solution et exécutez votre configuration et Power Automate les personnalisations de workflow sur l’environnement intermédiaire.
 
 - Testez la solution sur une instance intermédiaire/CRM.
 
@@ -65,7 +65,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Installer la synchronisation des références de l’espace partenaires pour Salesforce CRM
 
-1. Accédez à [Power automate](https://flow.microsoft.com) et sélectionnez **environnements** dans le coin supérieur droit. Les instances CRM disponibles s’affichent.
+1. accédez à [Power Automate](https://flow.microsoft.com) et sélectionnez **environnements** dans le coin supérieur droit. Les instances CRM disponibles s’affichent.
 
 1. Sélectionnez l’instance CRM appropriée dans la liste déroulante dans le coin supérieur droit.
 
@@ -73,7 +73,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 1. Sélectionnez le lien **ouvrir AppSource** dans le menu supérieur.
 
-   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Ouvrir AppSource":::
+   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Ouvrez AppSource.":::
 
 1. Recherchez les **connecteurs de références de l’espace partenaires pour Salesforce** dans l’écran contextuel.  
 
@@ -85,23 +85,23 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 1. Vous êtes ensuite dirigé vers la page **gérer vos solutions** .  Accédez à « références de l’espace partenaires » à l’aide des flèches en bas de la page. **L’installation planifiée** doit s’afficher en regard de solution de références de l’espace partenaires. L’installation prendra 10-15 minutes.
 
-1. Une fois l’installation terminée, revenez à [Power automate](https://flow.microsoft.com) et sélectionnez **solutions** dans la zone de navigation de gauche. Notez que la **synchronisation des références de l’espace partenaires pour Salesforce** est désormais disponible dans la liste des solutions.
+1. une fois l’installation terminée, revenez à [Power Automate](https://flow.microsoft.com) et sélectionnez **Solutions** dans la zone de navigation de gauche. Notez que la **synchronisation des références de l’espace partenaires pour Salesforce** est désormais disponible dans la liste des solutions.
 
-1. Sélectionnez la **synchronisation des références de l’espace partenaires pour Salesforce**. Les flux et entités Power automate suivants sont disponibles :
+1. Sélectionnez la **synchronisation des références de l’espace partenaires pour Salesforce**. les flux et entités de Power Automate suivantes sont disponibles :
 
-   :::image type="content" source="images/cosellconnectors/partner-center-referrals-synchronization.png" alt-text="Flux Salesforce":::
+   :::image type="content" source="images/cosellconnectors/partner-center-referrals-synchronization.png" alt-text="Les flux Salesforce.":::
 
 ## <a name="configure-the-solution"></a>Configurer la solution
 
 1. Une fois que vous avez installé la solution dans votre instance CRM, revenez à [Power automate](https://flow.microsoft.com/).
 
-1. Dans la liste déroulante **environnements** dans l’angle supérieur droit, sélectionnez l’instance CRM dans laquelle vous avez installé la solution Power automate.
+1. dans la liste déroulante **environnements** dans l’angle supérieur droit, sélectionnez l’instance CRM dans laquelle vous avez installé la solution Power Automate.
 
 1. Vous devez créer des connexions qui associent les trois comptes d’utilisateur :
 
    - Utilisateur de l’espace partenaires avec les informations d’identification d’administrateur de références
    - Événements de l’Espace partenaires
-   - Administration CRM avec l’alimentation automatiser les flux de la solution
+   - administration de CRM avec l’Power Automate flux dans la solution
 
    1. Sélectionnez **connexions** dans la barre de navigation de gauche, puis sélectionnez la solution références de l' **espace partenaires** dans la liste.
 
@@ -155,7 +155,7 @@ Vous pouvez utiliser les API de webhook de l’espace partenaires pour vous insc
 
    :::image type="content" source="images/salesforce/copy-url.png" alt-text="Capture d’écran montrant comment copier l’URL.":::
 
-1. Sélectionnez l' **inscription du webhook de l’espace partenaires (version préliminaire)** Power automatiser Flow, puis sélectionnez **exécuter**.
+1. sélectionnez l' **inscription du webhook de l’espace partenaires (version préliminaire d’insider Power Automate)** , puis sélectionnez **exécuter**.
 
 1. Assurez-vous que la fenêtre **exécuter le déroulement** s’ouvre dans le volet droit, puis sélectionnez **Continuer**.
 
@@ -171,9 +171,9 @@ Le webhook peut désormais écouter, créer et mettre à jour des événements.
 
 ## <a name="customize-synchronization-steps"></a>Personnaliser les étapes de synchronisation
 
-Les systèmes CRM sont hautement personnalisés, et vous pouvez personnaliser la solution Power automate en fonction de votre configuration de CRM. Lorsque les références de covente sont synchronisées entre l’espace partenaires et votre système CRM, les champs qui sont synchronisés sur l’ordinateur de l’espace partenaires sont répertoriés dans le [Guide de mappage de champs personnalisé](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S).
+les systèmes crm sont hautement personnalisés, et vous pouvez personnaliser la solution Power Automate en fonction de votre configuration de CRM. Lorsque les références de covente sont synchronisées entre l’espace partenaires et votre système CRM, les champs qui sont synchronisés sur l’ordinateur de l’espace partenaires sont répertoriés dans le [Guide de mappage de champs personnalisé](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S).
 
-Suivez le Guide de mappage de champs et, si nécessaire, apportez les modifications appropriées dans **[personnaliser] créer ou récupérer des détails à partir de Salesforce ou de variables d'** environnement. Ne mettez pas à jour d’autres flux dans la solution Power automate, car cela peut affecter les futures mises à niveau de solutions.
+Suivez le Guide de mappage de champs et, si nécessaire, apportez les modifications appropriées dans **[personnaliser] créer ou récupérer des détails à partir de Salesforce ou de variables d'** environnement. ne mettez pas à jour les autres flux de la solution Power Automate, car cela peut affecter les futures mises à niveau de solutions.
 
 Les personnalisations suivantes sont disponibles :
 
@@ -227,11 +227,11 @@ Pour mettre à jour une valeur de variable d’environnement :
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Synchronisation bidirectionnelle de la direction de la co-vente de bout en bout
 
-Une fois que vous avez installé, configuré et personnalisé la solution Power automate, vous pouvez tester la synchronisation des références de covente entre Salesforce CRM et l’espace partenaires.
+une fois que vous avez installé, configuré et personnalisé la solution Power Automate, vous pouvez tester la synchronisation des références de covente entre Salesforce CRM et l’espace partenaires.
 
 ### <a name="pre-requisites"></a>Conditions préalables
 
-Pour synchroniser les références entre l’espace partenaires et le CRM Salesforce, la solution Power automate doit clairement délimiter les champs de référence propres à Microsoft. Cette identification offre à vos équipes de vendeur la possibilité de décider quelles références elles souhaitent partager avec Microsoft pour la covente.
+pour synchroniser les références entre l’espace partenaires et le CRM Salesforce, la solution Power Automate doit clairement délimiter les champs de référence propres à Microsoft. Cette identification offre à vos équipes de vendeur la possibilité de décider quelles références elles souhaitent partager avec Microsoft pour la covente.
 
 Un ensemble de champs personnalisés est disponible dans le cadre de la synchronisation des références de l’espace partenaires pour l’entité **opportunité** de solution CRM Salesforce. Un utilisateur administrateur CRM devra créer une section CRM distincte avec les champs personnalisés d' **opportunité** .
 
@@ -247,7 +247,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
 - Visibilité de la référence de l' **espace partenaires Microsoft**: sélectionnez visibilité pour la référence de l’espace partenaires. En le rendant visible pour les vendeurs Microsoft, une référence à la non-vente peut être convertie en covente. Lorsque l’aide Microsoft est requise, la référence est visible par défaut pour les vendeurs Microsoft. Une fois ce champ marqué comme visible, il ne peut pas être rétabli.
 
-- **Identificateur Microsoft CRM**: quand une référence de covente est créée et acceptée par Microsoft, ce champ est renseigné avec l’identificateur Microsoft CRM.
+- **identificateur de Microsoft CRM**: quand une référence de covente est créée et acceptée par microsoft, ce champ est renseigné avec l’identificateur microsoft CRM.
 
 - **Solutions de l’espace partenaires Microsoft**: objet personnalisé pour associer des solutions prêtes pour la co-vente ou des solutions Microsoft avec l’opportunité. Une ou plusieurs solutions peuvent être ajoutées ou supprimées de l’opportunité. Il est obligatoire d’ajouter au moins une solution de co-vente prête ou Microsoft à l’opportunité avant de la partager avec Microsoft. Pour associer cet objet à l’opportunité, mettez à jour le formulaire d' **opportunité** dans le CRM.
 

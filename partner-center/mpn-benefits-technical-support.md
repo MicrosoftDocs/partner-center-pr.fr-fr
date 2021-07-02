@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105037"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173664"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Support technique pour les produits locaux ou Cloud
 
@@ -54,20 +54,20 @@ Comment afficher ou activer vos avantages techniques dans l’espace partenaires
 
 2. Développez **avantages** dans le menu de navigation gauche, sélectionnez [**avantages techniques**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical). La page des avantages techniques affiche les offres actives Gold, Silver ou Microsoft Action Pack adhésion aux organisations.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Avantages techniques, puis avantages" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Les avantages techniques développent des avantages." :::
 
    > [!NOTE]
    > Si vous ne disposez d’aucune offre d’abonnement actif, vous verrez le message « vous n’avez pas encore d’avantages ». Si votre entreprise dispose d’une offre d’abonnement active, mais que vous ne pouvez pas les voir, vous vous êtes connecté à l’aide d’un compte incorrect. Pour vérifier votre compte, sélectionnez l’icône de **compte** en haut à droite de la page et sélectionnez **se connecter avec un autre compte** (si nécessaire).
 
 3. Pour utiliser le support technique Microsoft ou la signature, vous devez activer l’avantage. Pour activer l’avantage, sélectionnez le bouton **activer** . Le compte d’utilisateur utilisé pour l’activation requiert les rôles administrateur général ou administrateur du partenaire MPN.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Avantages techniques sélectionnez Activer" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Avantages techniques sélectionnez Activer." :::
 
 4. L’ID d’accès et l’ID de contrat seront affichés à tous les utilisateurs après l’activation réussie. Vous pouvez utiliser le support technique Microsoft et la signature Product Support (membres Gold et Silver) lorsque l’ID d’accès et l’ID de contrat s’affichent.
 
    Si le bouton Activer est grisé, votre compte ne dispose pas du rôle de sécurité administrateur général ou administrateur du partenaire MPN. Utilisez la  [gestion des utilisateurs](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) et filtrez l’administrateur général ou l’administrateur Partenaire MPN pour trouver un utilisateur qui active vos avantages.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Les avantages techniques activés indiquent l’ID d’accès et l’ID de contrat" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Les avantages techniques activés indiquent l’ID d’accès et l’ID de contrat." :::
 
    > [!NOTE]
    > Vous aurez besoin de l’ID d’accès et de l’ID de contrat la première fois que vous utilisez le support technique Microsoft ou le support produit de signature pour chaque compte. Une fois les avantages associés à votre compte, vous n’avez plus besoin d’utiliser l’ID d’accès et l’ID de contrat.  
@@ -86,7 +86,7 @@ Dans le cadre de l’appartenance au Microsoft Partner Network, les partenaires 
 | Support technique Microsoft<br>Pour les versions récentes sur site <br>produits uniquement | 10 incidents | 15 incidents | 20 incidents |
 | Prise en charge du Cloud de signature<br>Pour les produits Cloud uniquement | | Compétences du Cloud :<br>Illimité<br><br>Autres compétences :<br>5 incidents | Compétences du Cloud :<br>Illimité<br>          <br>Autres compétences :<br>10 incidents   | 
 
-Les compétences du Cloud sont les suivantes : compétence de sécurité, Cloud Business Applications, plateforme Cloud, productivité Cloud, gestion de la mobilité d’entreprise, solutions Cloud petites et moyennes.
+les compétences du cloud sont les suivantes : compétence de sécurité, cloud Business Applications, plateforme cloud, productivité du cloud, gestion de la mobilité Enterprise, Solutions cloud petites et moyennes.
 
 ## <a name="microsoft-product-support-on-premises"></a>Support technique Microsoft (local)
 
@@ -121,7 +121,7 @@ Vous aurez besoin de l’ID d’accès et de l’ID de contrat la première fois
 > [!NOTE]  
 > Lors de l’utilisation de l’Portail Azure. Si votre contrat de support est déjà associé au compte, un message d’erreur s’affiche : « l’ID d’accès est déjà associé... » Lorsque vous ajoutez l’ID d’accès et l’ID de contrat. Voir ci-dessous
 
-Les partenaires CSP qui créent des demandes Azure peuvent utiliser le plan de support « fournisseur de solutions Cloud » sans ajouter de contrat de support.
+les partenaires CSP qui créent des demandes Azure peuvent utiliser le plan de support « fournisseur de solutions Cloud » sans ajouter de contrat de support.
 
 Les utilisateurs ayant le rôle d' **agent d’administration** peuvent sélectionner [clients](https://partner.microsoft.com/commerce/customers/list) sous CSP dans le menu de navigation gauche, sélectionner **gestion des services**, puis sélectionner **nouvelle demande**.  Lorsque vous sélectionnez la charge de travail appropriée, le portail propre à la charge de travail s’ouvre et vous ajoutez un contrat de support et créez une demande.
 

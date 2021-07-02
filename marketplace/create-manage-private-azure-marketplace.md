@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 9da9eb4944508e815d1664fb44b13bce52f37150
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 8a3ffbe5b57c49004518341d27c785dcd1b9ce87
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431673"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173691"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Créer et gérer une place de marché Azure privée dans le Portail Azure
 
@@ -41,16 +41,19 @@ Ces conditions préalables sont requises pour que vous puissiez attribuer le rô
 ### <a name="assign-the-marketplace-admin-role-with-access-control-iam"></a>Attribuer le rôle d’administrateur de la place de marché avec le contrôle d’accès (IAM)
 
 1. Connectez-vous au [portail Azure](https://portal.azure.com/).
+
 1. Sélectionnez **tous les services** , puis **Marketplace**.
+
 1. Sélectionnez place de **marché privée** dans le menu de gauche.
 
-    [![Affiche l’option de menu place de marché privée sur le côté gauche de la place de marché.](media/private-azure/private-marketplace.png)](media/private-azure/private-marketplace-zoom.png#lightbox)
+   :::image type="content" source="media/private-azure/private-marketplace.png" lightbox="media/private-azure/private-marketplace-zoom.png" alt-text="Affiche l’option de menu place de marché privée sur le côté gauche de la place de marché.":::
 
 1. Sélectionnez **contrôle d’accès (IAM)** pour affecter le rôle d’administrateur de la place de marché.
 
-    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Affiche l’écran de contrôle d’accès I A M.":::
+   :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Affiche l’écran de contrôle d’accès I A M.":::
 
 1. Sélectionnez **+ Ajouter** > **Ajouter une attribution de rôle**.
+
 1. Sous **rôle**, choisissez **administrateur** de la place de marché.
 
     :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="Affiche le menu attribution de rôle.":::
@@ -67,7 +70,7 @@ Utilisez le script PowerShell suivant pour attribuer le rôle d’administrateur
 - **UsernameToAssignRoleFor :** Nom d’utilisateur auquel le rôle d’administrateur de la place de marché sera attribué.
 
 > [!NOTE]
-> Pour les utilisateurs invités invités au locataire, la mise à disposition du rôle d’administrateur de la place de marché peut prendre jusqu’à 48 heures. Pour plus d’informations, consultez [propriétés d’un utilisateur Azure Active Directory B2B collaboration](/azure/active-directory/b2b/user-properties).
+> Pour les utilisateurs invités invités au locataire, la mise à disposition du rôle d’administrateur de la place de marché peut prendre jusqu’à 48 heures. pour plus d’informations, consultez [propriétés d’un utilisateur Azure Active Directory B2B collaboration](/azure/active-directory/b2b/user-properties).
 
 ```PowerShell
 function Assign-MarketplaceAdminRole { 
@@ -149,7 +152,7 @@ New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $M
 Assign-MarketplaceAdminRole 
 ```
 
-Pour plus d’informations sur les applets de commande contenues dans le module PowerShell AZ. Portal, consultez [Microsoft Azure PowerShell : cmdlets du tableau de bord du portail](/powershell/module/az.portal/).
+pour plus d’informations sur les applets de commande contenues dans le module PowerShell Az. portal, consultez [Microsoft Azure PowerShell : cmdlets du tableau de bord du portail](/powershell/module/az.portal/).
 
 ## <a name="create-private-azure-marketplace"></a>Créer une place de marché Azure privée
 
@@ -160,9 +163,9 @@ Pour plus d’informations sur les applets de commande contenues dans le module 
 
 3. Sélectionnez place de **marché privée** dans le menu de gauche.
 
-4. Sélectionnez **prise en main** pour créer une place de marché Azure privée (vous ne devez effectuer cette opération qu’une seule fois).
+4. sélectionnez **Prise en main** pour créer une place de marché Azure privée (vous ne devez effectuer cette opération qu’une seule fois).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Montre comment sélectionner la fenêtre principale « prise en main de la Portail Azure ».":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="montre comment sélectionner la Prise en main dans la fenêtre principale de Portail Azure.":::
 
     Si la place de marché Azure privée existe déjà pour ce locataire, l’option gérer la place de **marché** est sélectionnée par défaut.
 
@@ -178,7 +181,7 @@ Un élément est une combinaison d’une offre et d’un plan. Vous pouvez reche
 
 2. Parcourez la **Galerie** ou utilisez le champ de recherche pour trouver l’élément de votre choix.
 
-    [![Montre comment parcourir la galerie ou utiliser le champ de recherche.](media/private-azure/marketplace-gallery.png)](media/private-azure/marketplace-gallery-zoom.png#lightbox)
+   :::image type="content" source="media/private-azure/marketplace-gallery.png" lightbox="media/private-azure/marketplace-gallery-zoom.png" alt-text="Montre comment parcourir la galerie ou utiliser le champ de recherche.":::
 
 3. Par défaut, lors de l’ajout d’une nouvelle offre, tous les plans actuels sont ajoutés à la liste approuvée. Pour modifier la sélection du plan avant d’ajouter les éléments sélectionnés, sélectionnez le menu déroulant dans la vignette de l’offre et mettez à jour les plans requis.
 
@@ -194,12 +197,13 @@ Un élément est une combinaison d’une offre et d’un plan. Vous pouvez reche
 Vous pouvez modifier les plans d’un élément sur la page gérer la place de marché.
 
 1. Dans la colonne **plans** , passez en revue les plans disponibles dans le menu déroulant de cet élément.
+
 2. Activez ou désactivez les cases à cocher pour choisir les plans à mettre à la disposition de vos utilisateurs.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Montre comment activer ou désactiver la case à cocher pour l’élément requis.":::
+   :::image type="content" source="media/private-azure/edit-items.png" alt-text="Montre comment activer ou désactiver la case à cocher pour l’élément requis.":::
 
-> [!NOTE]
-> Chaque offre doit avoir au moins un plan sélectionné pour que la mise à jour se produise. Pour supprimer tous les plans associés à une offre, supprimez l’intégralité de l’offre (voir la section suivante).
+   > [!NOTE]
+   > Chaque offre doit avoir au moins un plan sélectionné pour que la mise à jour se produise. Pour supprimer tous les plans associés à une offre, supprimez l’intégralité de l’offre (voir la section suivante).
 
 ## <a name="delete-offers"></a>Supprimer des offres
 
@@ -230,7 +234,7 @@ Pour accéder au centre de notifications :
 
 1. Sélectionnez **notifications** dans le menu de gauche.
 
-    [![Affiche le menu notifications.](media/private-azure/marketplace-notifications-small.png)](media/private-azure/marketplace-notifications.png#lightbox)
+   :::image type="content" source="media/private-azure/marketplace-notifications-small.png" lightbox="media/private-azure/marketplace-notifications.png" alt-text="Affiche le menu notifications.":::
 
 1. Sélectionnez le menu de points de suspension pour plus d’actions.
 
@@ -239,7 +243,7 @@ Pour accéder au centre de notifications :
 1. Pour les demandes de plan, **afficher les demandes** ouvre le formulaire de demande d’approbation dans lequel vous pouvez consulter toutes les demandes d’utilisateur pour l’offre spécifique.
 1. Sélectionnez **approuver** ou **rejeter**.
 
-    [![Affiche les options approuver et rejeter.](media/private-azure/notifications-approve-reject-small.png)](media/private-azure/notifications-approve-reject.png#lightbox)
+   :::image type="content" source="media/private-azure/notifications-approve-reject-small.png" lightbox="media/private-azure/notifications-approve-reject.png" alt-text="Affiche les options approuver et rejeter.":::
 
 1. Sélectionnez le plan à approuver dans le menu déroulant.
 1. Ajoutez un commentaire et sélectionnez **Envoyer**.
@@ -253,7 +257,7 @@ Lorsque la place de marché Azure privée est activée, les utilisateurs voient 
 
 Les utilisateurs peuvent filtrer les offres qui ne sont pas approuvées :
 
-[![Affiche l’option de filtrage.](media/private-azure/filter-option-small.png)](media/private-azure/filter-option.png#lightbox)
+   :::image type="content" source="media/private-azure/filter-option-small.png" lightbox="media/private-azure/filter-option.png" alt-text="Affiche l’option de filtrage.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Acheter ou déployer sur une place de marché Azure privée
 
@@ -261,11 +265,11 @@ Bien que l’expérience de la page Détails du produit soit similaire à la pla
 
 - Quand un utilisateur sélectionne un plan approuvé, le bouton **créer** est activé :
 
-    [![Affiche la bannière d’offre indiquant qu’un plan peut être créé.](media/private-azure/button-create-enabled-small.png)](media/private-azure/button-create-enabled.png#lightbox)
+   :::image type="content" source="media/private-azure/button-create-enabled-small.png" lightbox="media/private-azure/button-create-enabled.png" alt-text="Affiche la bannière d’offre indiquant qu’un plan peut être créé.":::
 
 - Si une sélection de plan de produit n’apparaît pas dans la page Détails du produit mais que l’administrateur a approuvé un ou plusieurs plans, une bannière indique les plans qui sont approuvés et le bouton **créer** est activé :
 
-    [![Affiche la bannière d’offre indiquant qu’un plan peut être créé et afficher les plans disponibles.](media/private-azure/button-create-enabled-and-plans-small.png)](media/private-azure/button-create-enabled-and-plans.png#lightbox)
+   :::image type="content" source="media/private-azure/button-create-enabled-and-plans-small.png" lightbox="media/private-azure/button-create-enabled-and-plans.png" alt-text="Affiche la bannière d’offre indiquant qu’un plan peut être créé et afficher les plans disponibles.":::
 
 - Lorsqu’un utilisateur sélectionne un plan non approuvé, une bannière note le plan comme non approuvé et le bouton **créer** est désactivé. L’utilisateur peut toujours demander à ajouter le plan à la liste approuvée (voir la section suivante).
 
@@ -275,19 +279,19 @@ Vous pouvez demander à ajouter une offre ou un plan public qui n’est pas actu
 
 1. Sélectionnez **demander à ajouter** dans la bannière pour ouvrir le **formulaire de demande d’accès**.
 
-    [![Affiche la bannière avec le lien « demander à ajouter ».](media/private-azure/request-banner-small.png)](media/private-azure/request-banner.png#lightbox)
+   :::image type="content" source="media/private-azure/request-banner-small.png" lightbox="media/private-azure/request-banner.png" alt-text="Affiche la bannière avec le lien « demander à ajouter ».":::
 
-    [![Affiche le formulaire de demande d’accès pour les offres ou les plans.](media/private-azure/access-request-form-small.png)](media/private-azure/access-request-form.png#lightbox)
+   :::image type="content" source="media/private-azure/access-request-form-small.png" lightbox="media/private-azure/access-request-form.png" alt-text="Affiche le formulaire de demande d’accès pour les offres ou les plans.":::
 
 1. Sélectionnez les plans à ajouter à la demande (**tout plan** indique à l’administrateur de la place de marché que vous n’avez pas de préférence pour un plan dans une offre).
 
 1. Ajoutez une **Justification** et sélectionnez **demander** pour envoyer votre demande.
-  
-    [![Affiche le formulaire de demande d’accès pour les offres ou les plans avec des exemples d’entrées.](media/private-azure/access-request-form-filled-small.png)](media/private-azure/access-request-form-filled.png#lightbox)
+
+   :::image type="content" source="media/private-azure/access-request-form-filled-small.png" lightbox="media/private-azure/access-request-form-filled.png" alt-text="Affiche le formulaire de demande d’accès pour les offres ou les plans avec des exemples d’entrées.":::
 
 1. Une indication pour une demande en attente apparaît dans le formulaire de demande d’accès avec une option de retrait de la **demande**.
 
-    [![Affiche la liste des plans approuvés ou en attente avec le lien de demande de retrait.](media/private-azure/approved-pending-plans-small.png)](media/private-azure/approved-pending-plans.png#lightbox)
+   :::image type="content" source="media/private-azure/approved-pending-plans-small.png" lightbox="media/private-azure/approved-pending-plans.png" alt-text="Affiche la liste des plans approuvés ou en attente avec le lien de demande de retrait.":::
 
 > [!NOTE]
 > Une fois soumis, le formulaire de demande d’approbation est envoyé au [Centre de notifications](#private-azure-marketplace-notification-center) pour que l’administrateur de la place de marché examine la demande et effectue une action.
@@ -307,7 +311,7 @@ Il existe actuellement deux façons de limiter les services tiers dans la place 
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Montre comment restreindre les services dans le portail E A.":::
 
-2. Créez une stratégie Azure pour autoriser uniquement des machines virtuelles spécifiques. Pour plus d’informations sur la façon d’appliquer une stratégie à des machines virtuelles Windows, consultez [appliquer des stratégies à des machines virtuelles Windows avec Azure Resource Manager](/azure/virtual-machines/windows/policy).
+2. Créez une stratégie Azure pour autoriser uniquement des machines virtuelles spécifiques. pour plus d’informations sur la façon d’appliquer une stratégie à Windows des machines virtuelles, consultez [appliquer des stratégies à des machines virtuelles Windows avec Azure Resource Manager](/azure/virtual-machines/windows/policy).
 
 La place de marché Azure privée offre davantage de souplesse pour limiter et autoriser des offres et des plans spécifiques. Il informe les utilisateurs finaux sur la disponibilité du déploiement dans la Galerie de la place de marché même avant d’essayer de déployer des services tiers. Pour autoriser le déploiement de services tiers, définissez la place de marché Azure sur activé/activé dans le portail EA et le Portail Azure.
 
@@ -325,7 +329,7 @@ La place de **marché Azure privée** dans le portail Azure permet aux administr
 
 Les offres privées basées sur un abonnement sont visibles uniquement pour les abonnements répertoriés dans les paramètres de l’offre privée. Pour afficher l’offre privée, assurez-vous que le filtre d’abonnement global affiche tous les abonnements.
 
-[![Affiche le filtre place de marché privé.](media/private-azure/private-marketplace-filter.png)](media/private-azure/private-marketplace-filter.png#lightbox)
+   :::image type="content" source="media/private-azure/private-marketplace-filter.png" lightbox="media/private-azure/private-marketplace-filter.png" alt-text="Affiche le filtre place de marché privé.":::
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Pouvez-vous inclure des images personnalisées dans la place de marché Azure privée ?
 
