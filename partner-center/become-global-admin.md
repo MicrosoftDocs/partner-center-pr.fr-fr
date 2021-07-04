@@ -9,20 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb6b167cafec3574906377281cf4699b0a15c32e
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 94425b0695ed0e3ec89e5953f648f5de7a199432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570720"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149296"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Vérifier la propriété de votre domaine pour devenir administrateur général 
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur des comptes
+**Rôles appropriés** : Administrateur général | Administrateur de compte
 
 Pour travailler dans l’Espace partenaires, vous devez d’abord vérifier la propriété de votre domaine et devenir administrateur général de votre entreprise. Par ailleurs, vos employés n’auront pas reçu les rôles nécessaires pour commencer à travailler.  Pour travailler dans l’Espace partenaires, toute personne doit se voir attribuer un rôle qui comprend des autorisations.  
 
