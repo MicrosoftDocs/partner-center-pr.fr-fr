@@ -2,19 +2,25 @@
   href: index.yml
 - name: Microsoft AppSource
   items:
-    - name: À propos de Microsoft AppSource
+    - name: À propos de
       href: appsource-overview.md
-    - name: Acheter des logiciels sur AppSource
+    - name: Acheter des logiciels
       href: purchase-software-appsource.md
+    - name: Plans privés
+      href: appsource-private-plans.md
 - name: Place de marché Azure
   items:
-    - name: À propos de la Place de marché Azure
+    - name: À propos de
       href: azure-marketplace-overview.md
     - name: Achat
       href: azure-purchasing-invoicing.md
+    - name: Achat d’une offre SaaS dans le portail Azure
+      href: purchase-saas-offer-in-azure-portal.md
     - name: Facturation
       href: billing-invoicing.md
-    - name: Offres privées
+    - name: Avantage d’Azure Consumption Commitment
+      href: azure-consumption-commitment-benefit.md
+    - name: Plans privés
       href: private-offers.md
     - name: Éligibilité au transfert d’abonnement
       href: transfer-eligibility.md
@@ -22,8 +28,8 @@
       href: create-manage-private-azure-marketplace.md
     - name: Gérer une place de marché Azure privée - PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Intégrations des partenaires à la Place de marché Azure
-      href: partner-integrations.md
+    - name: Étendre Azure à l’aide de solutions de partenaires
+      href: /azure/partner-solutions/overview
 - name: Ressources générales
   items:
     - name: Politique de remboursement
@@ -36,5 +42,3 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
-    - name: Solutions recommandées
-      href: preferred-solutions.md
