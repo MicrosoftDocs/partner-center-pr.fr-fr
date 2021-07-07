@@ -9,21 +9,21 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6fdc5687379d7bca08802f2301fdb8587f38da20
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 44a5d2a6b845168cf73dbabfea05c218e9357091
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277638"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297633"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utiliser les indicateurs de contribution des partenaires pour atteindre la compétence Solutions cloud pour petites et moyennes entreprises
 
 **Rôles appropriés**: administrateur général | Administrateur du partenaire MPN | Administrateur de compte
 
-Cet article décrit les six principaux indicateurs de contribution partenaires (PCI) utilisés pour évaluer la progression d’un partenaire dans le cadre de l’obtention ou de la conservation d’une petite compétence de solutions Cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option Cloud Business Applications SMB.
+cet article décrit les six principaux indicateurs de Contribution partenaires (PCI) utilisés pour évaluer la progression d’un partenaire dans le cadre de l’obtention ou de la conservation d’une petite compétence de Solutions cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option cloud Business Applications SMB.
 
 > [!NOTE]
-> Découvrez comment les partenaires utilisent un ensemble différent de métriques de l’indicateur de contribution partenaire pour atteindre la compétence de Business Applications Cloud Silver ou Gold. Pour plus d’informations, consultez [utiliser les indicateurs de contribution partenaire pour le Cloud Business applications compétence](partner-contribution-indicators.md). Vous pouvez également [en savoir plus](https://partner.microsoft.com/membership/competencies) sur les différentes compétences disponibles et leurs exigences.
+> découvrez comment les partenaires utilisent un ensemble différent de métriques de l’indicateur de Contribution partenaire pour atteindre la compétence de Business Applications Cloud Silver ou Gold. pour plus d’informations, consultez [utiliser les indicateurs de Contribution partenaire pour le Cloud Business Applications compétence](partner-contribution-indicators.md). Vous pouvez également [en savoir plus](https://partner.microsoft.com/membership/competencies) sur les différentes compétences disponibles et leurs exigences.
 
 Cet article contient des informations sur les éléments suivants :
 
@@ -37,18 +37,18 @@ Cet article contient des informations sur les éléments suivants :
 
 ## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Vue d’ensemble des indicateurs de contribution des partenaires pour cette compétence
 
-Les indicateurs de contribution des partenaires fournissent une mesure holistique de l’impact d’un partenaire sur la réussite des clients et, par conséquent, une plus grande différenciation du marché lorsqu’un partenaire atteint ou conserve les petites et moyennes compétences en matière de solutions Cloud via l’option Cloud Business Applications SMB.
+les indicateurs de Contribution des partenaires fournissent une mesure holistique de l’impact d’un partenaire sur la réussite des clients et, par conséquent, une plus grande différenciation du marché lorsqu’un partenaire atteint ou conserve les petites et moyennes compétences en matière de Solutions cloud via l’option cloud Business Applications SMB.
 
 Avec PCI, les partenaires bénéficient d’un crédit pour les mesures clés de la réussite des clients, tels que les déploiements réussis et l’utilisation accrue. Ils sont récompensés pour continuer à investir dans et faire évoluer leurs capacités techniques.
 
-Lorsqu’un partenaire atteint certains niveaux d’impact dans les indicateurs clés, par exemple, le partenaire peut atteindre (ou conserver) les petites et moyennes compétences en solutions Cloud via l’option Cloud Business Applications SMB.
+lorsqu’un partenaire atteint certains niveaux d’impact dans les indicateurs clés, par exemple, le partenaire peut atteindre (ou conserver) les petites et moyennes compétences en Solutions cloud via l’option cloud Business Applications SMB.
 
 > [!NOTE]
 > Pour en savoir plus sur les avantages de la réalisation des compétences, consultez [compétences des partenaires Microsoft](https://partner.microsoft.com/membership/competencies).
 
 ## <a name="pci-scoring-based-on-six-key-indicators"></a>Score PCI basé sur six indicateurs clés
 
-PCI offre une vue sophistiquée des capacités techniques d’un partenaire, de sa capacité à stimuler la réussite des clients et de leurs performances de vente. Pour aider les partenaires à atteindre les compétences en matière de solutions Cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option Cloud Business Applications SMB, PCI mesure les performances de votre entreprise au cours des six indicateurs clés :
+PCI offre une vue sophistiquée des capacités techniques d’un partenaire, de sa capacité à stimuler la réussite des clients et de leurs performances de vente. pour aider les partenaires à atteindre les compétences en matière de Solutions cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option cloud Business Applications SMB, PCI mesure les performances de votre entreprise au cours des six indicateurs clés :
 
 *Indicateurs de performance :*
 
@@ -84,7 +84,7 @@ L’image suivante offre une référence visuelle rapide.
 
 ### <a name="maximum-pci-indicator-scores-for-this-competency"></a>Nombre maximal d’indicateurs PCI pour cette compétence
 
-Chaque indicateur fait apparaître un score qui est ajouté au total. Voici les scores maximaux que vous pouvez obtenir pour chaque indicateur afin d’atteindre la compétence Silver ou Gold Small et Cloud solutions Cloud via l’option Cloud Business Applications SMB :
+Chaque indicateur fait apparaître un score qui est ajouté au total. voici les scores maximaux que vous pouvez obtenir pour chaque indicateur afin d’atteindre la compétence Silver ou Gold Small et cloud Solutions cloud via l’option cloud Business Applications SMB :
 
 |Pour cet indicateur | Votre score maximal pour cette compétence est  |
 |:------------|:--------------:|
@@ -97,7 +97,7 @@ Chaque indicateur fait apparaître un score qui est ajouté au total. Voici les 
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Seuils pour chaque métrique PCI pour cette compétence
 
-Chaque métrique PCI a des seuils définis par Microsoft qui peuvent donner à votre entreprise des points maximaux pour atteindre les compétences en matière de solutions Cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option Cloud Business Applications SMB.
+chaque métrique PCI a des seuils définis par Microsoft qui peuvent donner à votre entreprise des points maximaux pour atteindre les compétences en matière de Solutions cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option cloud Business Applications SMB.
 
 Les points sur chaque mesure sont comptés pour produire un score PCI distinct. Ce score sera mis à jour tous les mois.
 
@@ -105,7 +105,7 @@ Les partenaires peuvent gagner le maximum de points pour une métrique donnée s
 
 Par exemple, un partenaire commercial avec $15 000 dans net New revenu gagnera la moitié ($ 15000/$ 30000) des 10 points maximum.
 
-Le tableau suivant décrit les seuils spécifiques de l’indicateur de contribution partenaire que vous pouvez atteindre pour gagner des points maximaux pour atteindre les compétences en matière de solutions Cloud Silver ou Gold petites et moyennes dans le Cloud Business Applications option SMB.
+le tableau suivant décrit les seuils spécifiques de l’indicateur de Contribution partenaire que vous pouvez atteindre pour gagner des points maximaux pour atteindre les compétences en matière de Solutions cloud Silver ou Gold petites et moyennes dans le cloud Business Applications option SMB.
 
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts au client net | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
@@ -122,11 +122,11 @@ Certains indicateurs de contribution partenaire vous permettent uniquement de re
 - Croissance mensuelle des utilisateurs actifs
 
 Vous pouvez uniquement recevoir un crédit pour ces mesures PCI pour un client donné si vous avez l’une des associations partenaire-client suivantes :
-- Vous êtes un fournisseur de solutions Cloud (CSP) pour un abonnement payant appartenant au locataire de ce client
+- vous êtes un fournisseur de solutions Cloud (CSP) pour un abonnement payant appartenant au locataire de ce client
 - Vous êtes le partenaire de revendication d’enregistrement (CPOR) pour un abonnement payant appartenant au locataire de ce client
 - Vous êtes un partenaire numérique d’enregistrement (DPOR) pour un abonnement payant appartenant au locataire de ce client
 
-Un partenaire devient le CPOR s’il a établi une association avec un client au niveau de l’abonnement via l’incentive Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou Dynamics 365 [Online Services usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU) Incentive.
+Un partenaire devient le CPOR s’il a établi une association avec un client au niveau de l’abonnement via l’incentive Dynamics 365 Online Services Advisor (OSA) ou Dynamics 365 Online Services usage (OSU) Incentive.
 
 Un partenaire devient le DPOR s’il est associé à un client au niveau de l’abonnement au sein du produit.
 
@@ -135,7 +135,7 @@ Un partenaire devient le DPOR s’il est associé à un client au niveau de l’
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Définitions détaillées des métriques PCI pour cette compétence
 
-Les sections suivantes décrivent plus de détails sur chacune des six métriques PCI et sur la manière dont les points sont calculés. Ces métriques sont associées à la compétence des solutions Cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option Cloud Business Applications SMB.
+Les sections suivantes décrivent plus de détails sur chacune des six métriques PCI et sur la manière dont les points sont calculés. ces métriques sont associées à la compétence des Solutions cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option cloud Business Applications SMB.
 
 Utilisez la liste suivante pour accéder rapidement à une définition spécifique :
 
@@ -154,11 +154,11 @@ NET New revenue est un [indicateur de performance](partner-contribution-indicato
 - NET New revenu est totalisé sur une période de 12 mois à la fin avec un maximum de 10 points.
 - Les points pour les nouveaux revenus nets sont calculés comme des factures moins de crédits et agrégés sur 12 mois.
 - NET New revenu est calculé sur la base de n’importe quelle combinaison des éléments suivants :
-  - Dynamics 365 engagement client : les produits éligibles sont les suivants : ventes, marketing, service clientèle, service clientèle, Project Server, plan 1, automatisation, marketing, ventes Microsoft Relationship
-  - Les produits de finance et d’exploitation sont les suivants : Dynamics 365 Business central, Capacity and Storage, Finance and Operations (y compris la protection contre la fraude, les opérations, la vente au détail, les RH, le plan 2), la réalité mixte, le membre de l’équipe
+  - Dynamics 365 customer Engagement : les produits éligibles sont les suivants : ventes, Marketing, service clientèle, service clientèle, Project serveur, Plan 1, automatisation, Marketing, ventes Microsoft Relationship
+  - les produits de finance et d’exploitation sont les suivants : Dynamics 365 Business Central, capacity and Stockage, Finance and operations (y compris la protection contre la fraude, les opérations, la vente au détail, les rh, le plan 2), la réalité mixte, le membre de l’équipe
   
-- Les canaux de vente incluent Contrat Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
-- Pour Contrat Entreprise revenus uniquement : ce chiffre d’affaires comprend le chiffre d’affaires de la première année de l’accord. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.
+- les canaux de vente incluent Accord Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web Direct.
+- pour Accord Entreprise revenus uniquement : ce chiffre d’affaires comprend le chiffre d’affaires de la première année de l’accord. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Définitions pour la métrique PCI #2-le client net ajoute
 
@@ -178,7 +178,7 @@ L’ajout du client net est un [indicateur de performance](partner-contribution-
 
 - Les points maximaux et partiels peuvent être obtenus pour les ajouts du client net.
 
-- Les canaux de vente incluent Contrat Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
+- les canaux de vente incluent Accord Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web Direct.
 
 - Pour plusieurs partenaires ou clients ou clients travaillant directement avec Microsoft : il existe différents calculs d' **ajouts** **et de clients pour** les cas où plusieurs partenaires sont associés au même client par le biais de différents abonnements ou lorsque le client peut déjà travailler directement avec Microsoft. Ces calculs apparaissent ci-dessous.
 
@@ -261,8 +261,8 @@ Les nouveaux déploiements sont un [indicateur de réussite du client](partner-c
 - Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois.
 
 - Les partenaires sont associés à des locataires au niveau de l’abonnement. Les abonnements sont mappés à l’un des produits qualifiant suivants :
-  - Dynamics 365 engagement client : les produits éligibles sont les suivants : ventes, marketing, service clientèle, service clientèle, Project Server, plan 1, automatisation, marketing, ventes Microsoft Relationship
-  - Les produits de financement et d’exploitation sont les suivants : Business central, capacité et stockage, finance et opérations (y compris la protection contre la fraude, les opérations, la vente au détail, les RH, le plan 2), la réalité mixte, le membre de l’équipe
+  - Dynamics 365 customer Engagement : les produits éligibles sont les suivants : ventes, Marketing, service clientèle, service clientèle, Project serveur, Plan 1, automatisation, Marketing, ventes Microsoft Relationship
+  - les produits de financement et d’exploitation incluent : Business Central, capacity and Stockage, finance and operations (y compris la protection contre la fraude, les opérations, la vente au détail, les rh, le plan 2), la réalité mixte, le membre de l’équipe
 
 - Tous les partenaires associés à un abonnement payant sous un locataire sont crédités pour toutes les instances de production sous ce locataire. 
 
@@ -274,7 +274,7 @@ La croissance mensuelle des utilisateurs actifs est un [indicateur de réussite 
 
 - Les utilisateurs actifs mensuels sont comptabilisés au niveau du locataire et cumulés uniquement pour les abonnements payants sous le locataire.
 
-- L’indicateur de croissance mensuel actif de l’utilisateur compare le mois en cours à une ligne de base de 12 mois auparavant. 25 points au maximum peuvent être appliqués pour atteindre les compétences de solutions Cloud Gold ou Silver pour les petites et moyennes entreprises grâce à l’option Cloud Business Applications SMB.
+- L’indicateur de croissance mensuel actif de l’utilisateur compare le mois en cours à une ligne de base de 12 mois auparavant. 25 points au maximum peuvent être appliqués pour atteindre les compétences de Solutions cloud Gold ou Silver pour les petites et moyennes entreprises grâce à l’option cloud Business Applications SMB.
 
 - Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois.
 
@@ -296,7 +296,7 @@ Pour afficher votre tableau des indicateurs de contribution partenaire, procéde
 
 2. Sélectionnez **MPN** dans le menu de navigation, puis sélectionnez **compétences**.
 
-3. Sélectionnez les **petites et moyennes compétences en solutions Cloud** , suivies de l' **option Cloud Business applications SMB**.
+3. sélectionnez les **petites et moyennes compétences en Solutions cloud** , suivies de l' **option cloud Business Applications SMB**.
 
 4. Sous la section Résumé, affichez la progression, les réalisations et le score associé à date.
 
@@ -304,4 +304,4 @@ Pour afficher votre tableau des indicateurs de contribution partenaire, procéde
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-Consultez ces [ressources d’informations](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) pour en savoir plus sur la réalisation de l’expertise en matière de solutions Cloud de petites et moyennes entreprises en or, dans l’option Cloud Business applications SMB.
+consultez ces [ressources d’informations](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) pour en savoir plus sur la réalisation de l’expertise en matière de Solutions cloud de petites et moyennes entreprises en or, dans l’option cloud Business Applications SMB.
