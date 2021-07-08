@@ -1,7 +1,7 @@
 ---
 title: En savoir plus sur les spécialisations avancées
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Renforcez votre profil d’entreprise dans le répertoire des partenaires Microsoft. En savoir plus sur les spécialisations avancées que vous pouvez atteindre avec vos compétences Gold et Silver existantes.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125920"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489807"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Obtenez une spécialisation avancée pour présenter vos fonctionnalités validées
 
@@ -50,12 +50,15 @@ Les spécialisations avancées d' **Azure** incluent :
 - Modernisation des applications web pour Microsoft Azure
 - SAP sur Microsoft Azure
 - Migration de Windows Server et SQL Server vers Microsoft Azure
-- IA et Machine Learning dans Microsoft Azure
-- Infrastructure de Cloud hybride avec Microsoft Azure Stack HCI
-- Opérations hybrides et gestion avec Microsoft Azure arc
-- Microsoft Azure solution VMware
+- ia et Machine Learning dans Microsoft Azure
+- Infrastructure de Cloud hybride avec le HCI Microsoft Azure Stack
+- opérations hybrides et gestion avec Microsoft Azure Arc
+- Microsoft Azure Solution VMware
+- DevOps avec GitHub sur Microsoft Azure
+- Services de mise en réseau dans Microsoft Azure
 
-**Business applications** spécialisations avancées sont les suivantes :
+
+**Business Applications** spécialisations avancées sont les suivantes :
 
 - Développement d’applications à code faible
 - Gestion des petites et moyennes entreprises
