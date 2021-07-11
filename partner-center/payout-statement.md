@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: dc0c720544f4a8a3c95e5b91ec656e65dbce7c80
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
+ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276108"
+ms.lasthandoff: 07/11/2021
+ms.locfileid: "113599787"
 ---
 # <a name="payout-statements"></a>Relevés de paiements
 
@@ -48,7 +48,7 @@ Connectez-vous à l' [espace partenaires](https://partner.microsoft.com/dashboar
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustre l’icône Revenu dans l’angle supérieur droit du portail Espace partenaires.":::
 
-Vous pouvez également utiliser l' [API](https://apidocs.microsoft.com/services/partnerpayouts) de paiement de partenaire pour vous connecter et obtenir directement les données de paiement et de transaction de paiement.
+Vous pouvez également utiliser l' [API](/rest/api/partner-center/partner-payouts) de paiement de partenaire pour vous connecter et obtenir directement les données de paiement et de transaction de paiement. Pour plus d’informations, consultez [gérer les versements à l’aide de l’API de service de paiement](/partner-center/develop/manage-payouts).
 
 
 ## <a name="transaction-history"></a>Historique des transactions
@@ -227,7 +227,7 @@ Le tableau suivant répertorie les codes de raison des ajustements et leurs desc
 La page **paiements** détaille l’argent que vous avez obtenu auprès de Microsoft. Il indique également à quel moment et dans quelle mesure vous allez être payé.
 
 >[!Note]
-> Pour être éligible au paiement, votre produit doit atteindre le [seuil de paiement](payment-thresholds-methods-timeframes.md) de 50 $. Pour plus d’informations, consultez le [contrat Microsoft Publisher](/legal/marketplace/msft-publisher-agreement).
+> Pour être éligible au paiement, votre produit doit atteindre le [seuil de paiement](payment-thresholds-methods-timeframes.md) de 50 $. pour plus d’informations, consultez le [contrat de Microsoft Publisher](/legal/marketplace/msft-publisher-agreement).
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Écran de présentation des paiements.":::
 
@@ -259,7 +259,7 @@ Le tableau suivant décrit les différents États de gains.
 | À venir | Commande de paiement générée en attente de révisions internes avant le traitement du paiement. | Non |
 | Facture fiscale en attente | Votre facture fiscale est incomplète ou non valide. | Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé |
 | Rejeté pendant la vérification | Le paiement a été rejeté pendant la révision. | Contactez le Support Microsoft pour obtenir des détails |
-| Échec | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
+| Failed | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
 | En cours | Le paiement est en cours. | Non |
 | Paiement incorrect | Le remboursement est en cours. | Non |
 | Envoyé | Le paiement a été envoyé à votre banque. | Non |
