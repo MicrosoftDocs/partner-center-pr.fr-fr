@@ -1,0 +1,229 @@
+### YamlMime:FAQ
+metadata:
+  title: Questions fréquentes (FAQ) sur les paiements et les profils fiscaux
+  description: Obtenir des réponses aux questions courantes sur les paiements et les détails des taxes dans l’espace partenaires. Comprend des réponses sur la raison pour laquelle vos revenus sont différents de ceux attendus.
+  ms.service: marketplace
+  ms.subservice: partnercenter-marketplace-publisher
+  ms.topic: article
+  author: eunjkim520
+  ms.author: eunjkim
+  ms.date: 05/06/2021
+  ms.openlocfilehash: 30524899a85cff7439268d569e93810034109474
+  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113686477"
+title: Questions courantes sur les paiements et les taxes
+summary: >
+  **Rôles appropriés**: administrateur de compte | Administrateur général | Administrateur d’incentives
+
+
+  Cet article répond aux questions fréquemment posées sur les paiements et les détails fiscaux dans l’espace partenaires. Les sujets traités incluent le minutage des paiements, la vérification de l’admissibilité de vos bénéfices et l’importance de la configuration correcte de vos profils de paiement et de taxe.
+sections:
+- name: Gestion des profils
+  questions:
+  - question: >
+      Pourquoi ai-je besoin de fournir ou de mettre à jour mes informations de paiement et/ou taxes ?
+    answer: >
+      Tous les partenaires inscrits dans un nouveau programme doivent fournir des détails de paiement et de taxe valides pour terminer leur inscription et recevoir des paiements. Une inscription est considérée comme terminée uniquement après que Microsoft a validé votre profil de paiement et de taxe.
+
+
+      Vous devrez peut-être également mettre à jour vos informations si les règles de votre programme changent ou si les aspects de votre profil expirent ou deviennent obsolètes. Dans ce cas, votre page de vue d’ensemble indique l’état **action obligatoire-mettre à jour la Banque et/ou le profil fiscal**.
+  - question: >
+      Comment faire Rechercher, configurer ou mettre à jour les détails du paiement et des taxes ?
+    answer: >
+      Pour plus d’informations sur la mise à jour des détails des paiements et des taxes dans l’espace partenaires, consultez [configurer votre compte de paiement et vos formulaires fiscaux](set-up-your-payout-account.md).
+  - question: >
+      Pourquoi mes inscriptions ne sont-elles pas présentes quand je cherche à affecter mon profil de paiement et fiscal ?
+    answer: >
+      Vous n’avez peut-être pas les autorisations appropriées, ou vous êtes connecté avec un compte qui ne dispose pas de ces autorisations. Par exemple, seuls les administrateurs d’incentives pour votre emplacement MPN peuvent créer ou gérer les profils de paiement et de taxes. Contactez l’administrateur de votre organisation en charge de la gestion des autorisations d’accès aux informations bancaires et fiscales.
+  - question: >
+      Je peux me connecter uniquement avec mon @onmicrosoft.com domaine. Que dois-je faire ?
+    answer: >
+      Contactez votre administrateur de compte pour ajouter d’autres domaines au compte AAD.
+  - question: >
+      Mon organisation participe à plusieurs programmes. Dois-je fournir plusieurs fois mon paiement et mon profil fiscal ?
+    answer: >
+      Cela dépend des besoins de votre organisation. Les profils de paiement sont créés au niveau de l’organisation, ce qui permet au même profil bancaire d’être attribué à plusieurs programmes et ID MPN au sein d’une organisation. Dans la plupart des cas, vous pouvez réutiliser un profil existant ou en créer un nouveau.
+
+
+      Il peut toutefois y avoir des exceptions lors de l’application de votre profil bancaire à différents pays ou à différentes régions, car des règles bancaires ou fiscales locales peuvent s’appliquer.
+
+
+      Les profils fiscaux créés pour un emplacement MPN sont réutilisés et automatiquement renseignés lorsque le même emplacement MPN participe à un autre programme. Mais il peut y avoir des exceptions. Par exemple, les règles de paiement d’un nouveau programme d’incentives peuvent nécessiter des détails supplémentaires pour le profil fiscal.
+  - question: >
+      Puis-je utiliser les mêmes informations bancaires et fiscales pour tous les programmes d’incentives de Microsoft ?
+    answer: >
+      Si votre entreprise est invitée à utiliser plusieurs programmes, vous pouvez utiliser le même compte de paiement pour tous vos programmes ou choisir d’avoir différents comptes de paiement pour les différents programmes.
+  - question: >
+      Comment Microsoft s’assure-t-il que les informations bancaires sont effectivement celles de l’entreprise et qu’il ne s’agit pas d’un compte bancaire personnel pour un employé ?
+    answer: >
+      Il incombe à l’entreprise de s’assurer que le rôle d’administrateur d’incentives, qui dispose des autorisations nécessaires pour modifier ces informations, est donné uniquement aux employés appropriés.
+  - question: >
+      Mon profil fiscal a expiré. Comment faire corriger la mise à jour ?
+    answer: >
+      Si un profil fiscal est arrivé à expiration ou sur le lieu d’expirer, cela signifie que le formulaire d’imposition que vous avez fourni à Microsoft doit être mis à jour. Pour mettre à jour votre profil fiscal, procédez comme suit :
+
+
+      1. connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home)de l’espace partenaires, puis sélectionnez l’icône d’engrenage pour ouvrir le menu **Paramètres** .
+
+      2. Sélectionnez **paramètres du compte**, développez la section **paiement et taxes** , puis sélectionnez **paiement et profil fiscal** .
+
+      3. Sélectionner un profil **fiscal**
+
+      4. Vérifiez la **Date d’expiration** de la colonne, puis accédez au profil fiscal qui a expiré ou qui arrive à expiration.
+
+      5. Sélectionnez **modifier** pour lancer le processus de modification du profil fiscal.
+
+      6. Dans la section formulaire fiscal, fournissez les informations mises à jour.
+- name: Résultats incorrects ou manquants
+  questions:
+  - question: >
+      Pourquoi mes revenus sont-ils manquants ?
+    answer: >
+      - La commande client n’est peut-être pas encore éligible au paiement. Pour les commandes client autres que les commandes d’entreprise, Microsoft doit recevoir le paiement du client avant que le revenu de l’éditeur ne soit éligible. Pour les commandes des clients d’entreprise, vos revenus seront disponibles un à deux jours après la date du bon de commande. Vérifiez l’état de la commande dans les [rapports sur les commandes](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+
+      - Les revenus des transactions antérieures à juillet 2019 peuvent ne pas figurer dans le rapport historique des transactions. Consultez les relevés historiques dans [Téléchargement des revenus](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport).
+
+      - Vérifiez le [laps de temps du cycle de paiement](payment-thresholds-methods-timeframes.md) et comprenez quand vos revenus doivent apparaître dans le relevé de paiement.
+  - question: >
+      Pourquoi le montant de mes revenus est-il différent de ce que je pensais ?
+    answer: "- Si la commande a été payée partiellement par votre client, le montant acquis sera basé sur le montant partiellement payé après déduction des frais et taxes appropriées.\n- Vérifiez la responsabilité du paiement de la taxe par pays. Dans les pays où la taxe est responsable de Microsoft, Microsoft collecte et déduire les taxes des revenus de l’éditeur. Le montant de la transaction indiqué dans le relevé est le montant après paiement des taxes. Consultez [Détails des taxes](tax-details-marketplace.md).\n- Les offres SaaS et IaaS ont un tarif réduit de 10% au lieu de la valeur standard de 20%, ce qui laisse un taux de bénéfices de 90%. Il s’agit d’une exigence d' Co-Sell IP. Cette promotion est valable jusqu’au 30 juin 2021. \n\n**en savoir plus** sur le [contrat de Publisher Marketplace Commercial](/legal/marketplace/msft-publisher-agreement), les détails de la [stratégie](payout-policy-details.md)de paiement, le [seuil de paiement, la méthode et le laps de temps](payment-thresholds-methods-timeframes.md), obtenir le [paiement](marketplace-get-paid.md), les [détails fiscaux](tax-details-marketplace.md), les [instructions](payout-statement.md) de paiement\n"
+- name: Rapprochement des bénéfices
+  questions:
+  - question: >
+      Comment faire pour rapprocher les relevés de paiement avec les rapports de commande ou d’utilisation dans Analytics ?
+    answer: >
+      Utilisez AssetID, orderID et l’ID d’article de ligne figurant dans le rapport historique des transactions de paiement avec les commandes analytiques et les rapports d’utilisation. Utilisez ce mappage :
+
+
+      - History.AssetID de transaction de paiement = order.OrderID
+
+      - History.OrderID & LineItem de transaction de paiement = Usage.UsageReferenceID [OrderID:LineItemID]
+  - question: >
+      Comment faire pour connaître la date de paiement pour mes commandes client ?
+    answer: >
+      - Tout d’abord, à l’aide de votre assetID, vérifiez les commandes des clients dans les [rapports de commandes](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+
+      - Vérifiez le canal client pour votre abonnement client dans le [rapport clients](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
+
+      - Pour les clients d’entreprise, les revenus de l’éditeur s’affichent dans le relevé 1-2 jours après la date du bon de commande.
+
+      - Pour les clients n’appartenant pas à l’entreprise, les revenus de l’éditeur s’affichent dans le relevé 1-2 jours après la réception du paiement du client.
+
+
+      En **savoir plus** sur les [instructions de paiement](payout-statement.md), le [tableau de bord Orders dans commercial Marketplace Analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
+- name: Paiements et ajustements
+  questions:
+  - question: >
+      Pourquoi mon paiement est-il manquant ?
+    answer: >
+      - Vérifiez que l’état de paiement et l’état du profil fiscal sont indiqués comme étant *valides* sur la [page vue d’ensemble](https://partner.microsoft.com/dashboard/commercial-marketplace/overview).
+
+      - Vous n’avez peut-être pas atteint le seuil minimal pour un paiement. Les bénéfices doivent être d’au moins $50 USD pour que vous puissiez recevoir un paiement.
+  - question: >
+      Comment faire définir mon compte pour ne pas recevoir le paiement ?
+    answer: >
+      Vous pouvez conserver les paiements dans le [profil de paiement](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Pour ce faire, cochez la case **Hold** et Microsoft vous contiendra le paiement jusqu’à ce que vous relâchiez le blocage.
+  - question: >
+      Pourquoi est-ce que je reçois un paiement dans une devise différente de celle de l’achat ?
+    answer: >
+      La devise du paiement est basée sur la devise que vous avez sélectionnée dans le profil de paiement. La devise de l’achat est basée sur la devise payée par le client.
+  - question: >
+      Comment faire pour rapprocher les ajustements ?
+    answer: >
+      Les ajustements de paiement sont des corrections de paiement afin de tenir compte des ajustements compensatoires, tels que les problèmes système. Dans l’instruction de paiement, ReasonCode spécifie la raison de l’ajustement. Ils ne sont pas destinés à être réconcilier directement en transactions individuelles.
+
+
+      **informations supplémentaires**: contrat de Publisher de la place de [marché Commercial](/legal/marketplace/msft-publisher-agreement), détails de la [stratégie](payout-policy-details.md)de paiement, [détails des taxes](tax-details-marketplace.md), seuil de [paiement, méthode et période](payment-thresholds-methods-timeframes.md)
+- name: Taxes
+  questions:
+  - question: >
+      Comment identifier la responsabilité du paiement de la taxe (Microsoft ou l’éditeur) dans le relevé de paiements ?
+    answer: >
+      Dans le téléchargement de l’historique des transactions, recherchez la colonne indiquant le modèle des taxes. Cela indique si elles sont gérées par Microsoft ou par l’ISV. Consultez les règles fiscales propres aux pays et les implications en matière de paiement dans [Détails des taxes](tax-details-marketplace.md).
+  - question: >
+      Comment faire pour télécharger les formulaires fiscaux relatifs aux frais de service ?
+    answer: >
+      Accédez à la page **Payout Payment**, puis à la section **List of Payment**. Un lien vers le formulaire fiscal sur les frais de service s’affiche pour un paiement dont les frais de service sont facturés.
+  - question: >
+      Où puis-je trouver des formulaires fiscaux de fin d’exercice ?
+    answer: >
+      Accédez à la [page de profil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) pour afficher les formulaires fiscaux de fin d’exercice.
+  - question: >
+      Comment faire pour trouver la retenue à la source pour une transaction ?
+    answer: >
+      La retenue à la source s’applique aux éditeurs américains qui ont rempli un formulaire W-9. La retenue à la source est calculée sur un paiement mensuel.
+
+
+      pour plus d’informations, **consultez** contrat de Publisher de la place de [marché Commercial](/legal/marketplace/msft-publisher-agreement), détails de la [stratégie de paiement](payout-policy-details.md)
+- name: Accès aux relevés de paiement
+  questions:
+  - question: >
+      Comment faire pour accéder à un relevé de paiements ?
+    answer: "1. Vérifiez vos rôles. Pour accéder au relevé de paiements, vous devez avoir le rôle de *contributeur financier* ou *propriétaire du compte*.\n2. Dans la barre de navigation en haut à droite, sélectionnez l’icône **paiement** pour afficher votre relevé de paiement. Choisissez entre **l’historique des transactions**, le **paiement** et le **Téléchargement**.\n\nInformations **supplémentaires**: [rôles et autorisations de paiement](payout-statement.md#roles-and-permissions), [instructions de paiement](payout-statement.md) \n"
+- name: Rapport de déclaration de paiement
+  questions:
+  - question: >
+      Que signifie chaque champ du téléchargement de transaction ?
+    answer: >
+      Consultez les [instructions de paiement](payout-statement.md) pour obtenir une liste détaillée des attributs et de leurs significations.
+  - question: >
+      Qu’est-ce que l’état « earning » ?
+    answer: >
+      Vous pouvez ainsi afficher vos revenus comme non traités, traités ou envoyés.
+
+
+      - Non **traité** : le bénéfice se trouve dans une période de dépôt jusqu’à la date d’échéance.
+
+      - **Traité** : les bénéfices ont évolué et sont préparés dans le paiement mensuel. Les paiements sont libérés du 15 de chaque mois.
+
+      - **Envoyé** : le paiement a été remis à votre banque en fonction de votre profil de paiement.
+  - question: >
+      Comment faire pour télécharger les formulaires fiscaux relatifs aux frais de service ?
+    answer: >
+      Accédez à la page **Payout Payment**, puis à la section **List of Payment**. Un lien vers le formulaire fiscal sur les frais de service s’affiche pour un paiement dont les frais de service sont facturés.
+  - question: >
+      Comment faire télécharger un formulaire d’impôt à la retenue au format PDF ?
+    answer: >
+      Accédez à la page **Payout Payment**, puis à la section **List of Payment**. Un lien vers un formulaire fiscal de retenue à la source s’affiche à côté d’un paiement. Un formulaire d’impôt à la retenue s’applique uniquement aux programmes d’incentives sélectionnés, et non au paiement de la place de marché commercial.
+  - question: >
+      Où puis-je trouver des formulaires fiscaux de fin d’exercice ?
+    answer: >
+      Accédez à la [page de profil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) pour afficher les formulaires fiscaux de fin d’exercice.
+
+
+      Informations **supplémentaires**: [instructions de paiement](payout-statement.md), [téléchargement de l’historique des transactions](payout-statement.md#transaction-history-download)
+- name: Instructions historiques
+  questions:
+  - question: >
+      Comment faire afficher les informations d’historique ?
+    answer: >
+      Le relevé historique affiche l’instantané des données de paiement à compter d’octobre 2019. Malheureusement, les informations de paiement ici ne sont pas actualisées. Pour recevoir les informations les plus récentes, envoyez un ticket de support pour les données les plus récentes.
+
+
+      Informations **supplémentaires**: [instructions de paiement](payout-statement.md), [téléchargement de l’historique des transactions](payout-statement.md#transaction-history-download)
+- name: API d’exportation de paiement
+  questions:
+  - question: >
+      Comment faire pour télécharger des données de paiement ?
+    answer: >
+      Utilisez l' [API de paiement de partenaire](https://apidocs.microsoft.com/services/partnerpayouts).
+- name: Stratégies de paiement de la place de marché commercial
+  questions:
+  - question: >
+      Comment faire pour trouver les frais d’agence actuels et le taux de paiement ?
+    answer: >
+      - Consultez le Contrat des éditeurs de la Place de marché commerciale. Les frais d’agence standard s’élèvent à 20 %. Les transactions éligibles de covente SaaS bénéficient d’un tarif réduit de 10%. Vérifiez si des annonces signalant des promotions applicables aux frais d’agence ont été publiées.
+
+      - Dans votre relevé de paiement, le taux d’obtention spécifie le taux de paiement réel pour une transaction donnée.
+  - question: >
+      Quand puis-je m’attendre à recevoir un paiement de la part de Microsoft une fois que les revenus apparaissent sur mon relevé ?
+    answer: >
+      - Une fois que vos revenus sont à l’état Non traité, vous pouvez vérifier la date d’échéance afin de connaître le mois durant lequel le paiement de vos revenus sera traité. Une fois votre paiement préparé, l’état de votre obtention passe à « traité ».  Microsoft effectue les paiements le 15 du mois de l’échéance.
+
+      - Pour les commandes payées par carte de crédit, Microsoft conserve les paiements 30 jours jusqu’à ce que l’obtention soit mature.
+
+       **informations supplémentaires**: contrat de Publisher de la place de [marché Commercial](/legal/marketplace/msft-publisher-agreement), détails de la [stratégie](payout-policy-details.md)de paiement, [détails des taxes](tax-details-marketplace.md), seuil de [paiement, méthode et période](payment-thresholds-methods-timeframes.md)
+additionalContent: "\n## <a name=\"next-steps\"></a>Étapes suivantes\n\n- [Rémunération](marketplace-get-paid.md)\n- [Configurer votre compte de paiement et vos déclarations de taxe](set-up-your-payout-account.md)"
