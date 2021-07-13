@@ -1,7 +1,7 @@
 ---
 title: Facturation du plan Azure – Fichiers de facturation et de rapprochement
 ms.topic: article
-ms.date: 01/20/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment accéder à la structure des fichiers de facturation et de rapprochement liée à la facturation pour le plan Azure et comment la comprendre.
@@ -9,20 +9,16 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924993"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551518"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nouvelle expérience de commerce pour les fournisseurs de solutions Cloud - Facturation Azure 
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur de la facturation
-- Administrateur général
+**Rôles appropriés** : Agent d’administration | Administrateur de facturation | Administrateur général
 
 Cet article explique comment accéder à la structure des fichiers de facturation et de rapprochement liée à la facturation pour le plan Azure et comment la comprendre. La facturation dans le plan Azure est une expérience simplifiée qui utilise une date de facturation unique et une période de facturation par mois civil.
 
@@ -52,7 +48,7 @@ Pour accéder à la facture et au fichier de rapprochement :
 
 3. Sélectionnez l’onglet correspondant à **Recurring** (Périodique) et **One-time** (Ponctuelle) ainsi qu’à la devise qui vous intéresse.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="facturation":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="facturation.":::
 
 4. Sélectionnez **Facture** ou **Fichier de rapprochement**.  
 
@@ -106,7 +102,7 @@ Pour accéder à la facture et au fichier de rapprochement :
 
 5. Consultez le fichier de rapprochement et le fichier d’utilisation quotidienne estimée pour obtenir d’autres informations sur la facturation.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="facture":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="facture.":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Lire le fichier de rapprochement des factures
 
@@ -117,6 +113,9 @@ Pour accéder à la facture et au fichier de rapprochement :
 3. Si aucune ressource d’un compteur particulier n’est éligible à une remise ou au crédit Partenaires, le fichier de rapprochement ne contient qu’une seule ligne de facturation et le prix unitaire effectif correspond au prix de vente au détail (à savoir, le prix unitaire).
 
 4. Si le compteur, ou n’importe quelle ressource émettant ce compteur, est éligible au **crédit Partenaires pour les services managés** pendant une partie du mois, le fichier de rapprochement contient deux lignes de facturation. Une ligne représente les jours pendant lesquels le compteur est éligible et la seconde ligne représente les jours où il n’est pas éligible.
+
+>[!NOTE]
+>Vous pouvez rapprocher votre consommation Azure dans votre fichier de rapprochement d’achat ponctuel. Pour ce faire, accédez à votre fichier de rapprochement d’utilisation quotidienne estimée et recherchez votre SubscriptionID. Cela permet d’afficher tous les coûts associés à votre ID de plan Azure. Votre SubscriptionID Azure est affiché comme EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Lire le fichier d’utilisation quotidienne
 
@@ -134,13 +133,15 @@ Pour accéder à la facture et au fichier de rapprochement :
 
   - Le compteur est éligible au **crédit Partenaires pour les services managés** du 08/07 au 31/07. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
 ## <a name="invoice-in-customer-currency"></a>Facture dans la devise du client
 
 Les services Azure fournis par l’intermédiaire d’un plan Azure sont facturés en USD et facturés dans la devise officielle du pays du client. Si la devise de facturation n’est pas USD, le taux de change utilisé est indiqué à la dernière page de la facture. Les taux de change sont déterminés tous les mois et appliqués à la facture suivante. Pour obtenir la liste complète des devises des pays, consultez la [grille des devises client et la disponibilité des offres de nouveau commerce par pays](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft suit les cours de la Bourse de Londres pour la conversion. Nous utilisons le taux de change, qui est le taux de change capturé à la dernière seconde du dernier jour ouvrable du mois à la Bourse de Londres. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
+Microsoft applique un taux de change prédéterminé aux prix en USD de base pour obtenir le total des frais engagés pour les services Azure achetés ou consommés chaque mois calendaire. Le taux de change mensuel est le taux moyen publié par Thomson Reuters (en général) deux jours ouvrés avant la fin du mois précédent, à 16h (GMT). 
+
+**Par exemple,** le taux de change de Microsoft en décembre correspondrait au taux moyen Thomson Reuters vers le 29 novembre pour une devise donnée. Ce taux sera appliqué à tous les achats dans cette devise du 1er décembre au 31 décembre. 
 
 ## <a name="azure-reservations"></a>Réservations Azure
 
@@ -158,7 +159,7 @@ L’expérience des dépenses Azure existante est mise à jour pour prendre en c
 
 Étant donné que le modèle de facturation des services Azure par le biais d’un plan Azure correspond à une consommation après paiement, pour éviter une facture plus importante que prévu, les partenaires peuvent appliquer un budget mensuel et suivre le pourcentage d’utilisation. Un budget peut être appliqué à un seul client ou à plusieurs clients à la fois. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="Dépenses Azure":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="dépenses Azure.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

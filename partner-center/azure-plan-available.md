@@ -9,23 +9,16 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: da97dded531b6792a4468d9be9b63367f818b352
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534962"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149738"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Services Azure disponibles dans le programme Fournisseur de solutions Cloud (CSP) Azure
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur de la facturation
-- Administrateur général
-- Agent du support technique
-- Agent commercial
-- Administrateur de la gestion des utilisateurs
+**Rôles appropriés** : Agent d’administration | Administrateur de facturation | Administrateur général | Agent du support technique | Commercial | Administrateur de la gestion des utilisateurs
 
 ## <a name="available-azure-services-in-azure-csp"></a>Services Azure disponibles dans Azure CSP
 

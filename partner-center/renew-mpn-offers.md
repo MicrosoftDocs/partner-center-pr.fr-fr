@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855673"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551671"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renouveler vos offres MPN pour les compétences et les spécialisations avancées au cours de la fenêtre de renouvellement
 
@@ -40,7 +40,7 @@ Lorsque vous effectuez le renouvellement au cours de la fenêtre prévue à cet 
 
 4. Pour profiter de cette offre, accédez à **Offres d’abonnement**. Vous devrez peut-être payer les frais de compétence pour terminer le processus, en fonction de l’état d’achat ou de renouvellement de votre compétence.
 
-Pour tirer parti de l’extension, vous devez avoir déplacé votre abonnement entre le Partner Membership Center (PMC) et l’Espace partenaires afin de renouveler votre compétence et de payer les frais. Si vous n’avez pas déplacé votre appartenance, [découvrez-en plus](prepare-pmc-pc-migration.md) et [effectuez la transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) dès aujourd’hui.  
+Pour tirer parti de l’extension, vous devez avoir déplacé votre abonnement entre le Partner Membership Center (PMC) et l’Espace partenaires afin de renouveler votre compétence et de payer les frais. Si vous n’avez pas déplacé votre appartenance, [découvrez-en plus](partner-membership-center-retirement-faq.md) et [effectuez la transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) dès aujourd’hui.  
 
 ## <a name="next-steps"></a>Étapes suivantes
 

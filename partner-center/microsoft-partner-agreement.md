@@ -9,18 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: fc263c617a6a26872604970a42eb100708062fed
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441266"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276618"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Découvrir le Contrat Partenaire Microsoft (MPA) pour les partenaires du programme Fournisseur de solutions Cloud
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés** : administrateur général
 
 Le Contrat Partenaire Microsoft offre aux partenaires Microsoft un contrat de partenariat unifié et accepté numériquement. Le Contrat Partenaire Microsoft contient un ensemble de termes perpétuels permettant à Microsoft, aux partenaires et aux clients de prendre en charge la confidentialité et la sécurité des données, de promouvoir la conformité et d’encourager des pratiques professionnelles.
 
@@ -77,12 +75,12 @@ N’oubliez pas d’accepter la demande de relation CSP avec votre fournisseur i
 
 1. Pour visualiser et télécharger le **Contrat Partenaire Microsoft** avant de le signer, sélectionnez le lien Contrat Partenaire Microsoft comme indiqué ci-dessous.
 
-:::image type="content" source="images/agreement-three.png" alt-text="Nouvel emplacement du Contrat Partenaire Microsoft":::
+:::image type="content" source="images/agreement-three.png" alt-text="Emplacement du nouveau Contrat Partenaire Microsoft.":::
 
 >[!NOTE]
 >Si vous ne voyez pas le lien **Contrat Partenaire Microsoft**, vérifiez votre rôle dans l’Espace partenaires. Seuls les administrateurs généraux du locataire CSP peuvent visualiser et signer le Contrat Partenaire Microsoft dans l’Espace partenaires. Pour vérifier votre rôle, accédez à **Gestion des utilisateurs** et vérifiez que **Administrateur général** est indiqué pour le compte connecté. Si ce n’est pas le cas, ce compte ne peut pas être utilisé pour signer le Contrat Partenaire Microsoft. Vous pouvez rechercher les administrateurs généraux de votre entreprise sur la page Gestion des utilisateurs.
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Comment trouver votre rôle":::
+:::image type="content" source="images/user-management-clean.png" alt-text="Comment trouver votre rôle.":::
 
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Vérifier que vous avez signé le Contrat Partenaire Microsoft
 
@@ -91,14 +89,14 @@ Pour voir si vous avez signé le Contrat Partenaire Microsoft :
  En tant qu’administrateur général de votre entreprise, accédez à votre [vue d’ensemble CSP](https://partner.microsoft.com/pcv/dashboard/overview) et vérifiez la présence de la bannière verte, qui indique que vous avez accepté le Contrat Partenaire Microsoft.
 
  
-:::image type="content" source="images/banner-boxed.png" alt-text="Bannière verte montrant l’acceptation du Contrat Partenaire Microsoft":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Bannière verte montrant l’acceptation du Contrat Partenaire Microsoft.":::
 
 >[!NOTE]
 >Seul l’administrateur général de votre entreprise peut voir et signer le Contrat Partenaire Microsoft. Si vous n’êtes pas l’administrateur général, vous devez demander à votre administrateur général de vérifier le Contrat Partenaire Microsoft.
 
 Vous pouvez également voir si vous avez signé le contrat en sélectionnant **Contrats** dans **Paramètres du compte**.
 
-:::image type="content" source="images/agreement-new.png" alt-text="Indique que le Contrat Partenaire Microsoft est signé":::
+:::image type="content" source="images/agreement-new.png" alt-text="Indique que le Contrat Partenaire Microsoft est signé.":::
 
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Télécharger le guide pas à pas correspondant à votre situation dans le processus de signature du Contrat Partenaire Microsoft

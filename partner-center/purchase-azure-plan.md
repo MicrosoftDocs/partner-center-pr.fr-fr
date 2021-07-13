@@ -9,18 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854959"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013333"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acheter le plan Azure pour les clients et accéder aux services Azure les plus récents au tarif du paiement à l’utilisation
 
+**S’applique à** : Espace partenaires 
+
 **Rôles appropriés** : Administrateur général | Administrateur de la gestion des utilisateurs | Commercial
 
-Quand vous achetez un plan Azure pour vos clients liés dans le cadre du Contrat client Microsoft, vous avez accès à l’ensemble du catalogue des services Azure les plus récents au tarif du paiement à l’utilisation. Les partenaires Fournisseur de solutions Cloud (CSP) peuvent alors accéder à n’importe quel service Azure dès lors qu’il est mis à la disposition générale. Un partenaire peut avoir plusieurs abonnements Azure dans un plan Azure. 
+Quand vous achetez un plan Azure pour vos clients liés dans le cadre du Contrat client Microsoft, vous avez accès à l’ensemble du catalogue des services Azure les plus récents au tarif du paiement à l’utilisation. Les partenaires Fournisseur de solutions cloud (CSP) peuvent maintenant accéder à n’importe quel service Azure dès lors qu’il est mis à la disposition générale. Un partenaire peut avoir plusieurs abonnements Azure dans un plan Azure. 
 
 ## <a name="countryregion-availability"></a>Disponibilité en fonction des pays/régions
 
@@ -31,9 +33,9 @@ La nouvelle expérience de commerce du programme CSP pour Azure est actuellement
 Un plan Azure s’achète de la même façon que tout autre abonnement. La principale différence est qu’avant de passer à proprement parler votre commande, vous devez vérifier que votre client a signé le Contrat client Microsoft.
 
 1. Sélectionnez **Segment Commercial** et tapez **Microsoft Azure** 
-2. En dessous de Plan Azure, sélectionnez **Ajouter au panier**
+2. Sous Plan Azure, sélectionnez **Ajouter au panier**
 
-:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Acheter":::
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Achat.":::
 
 Le partenaire doit vérifier que le client a examiné et accepté les termes du Contrat client Microsoft. Pour plus d’informations sur cette procédure, consultez [Confirmer l’acceptation du Contrat client Microsoft par le client](confirm-customer-agreement.md). D’autres ressources sont disponibles dans la [bibliothèque des ressources](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
@@ -78,7 +80,7 @@ Les réservations Azure doivent être associées à un plan Azure actif. Choisis
 >[!Note]
 >Notez que l’étendue de la réservation peut uniquement être définie sur **Partagé** dans l’Espace partenaires. Pour sélectionner une étendue d’abonnement unique ou passer d’une étendue d’abonnement partagé à une étendue unique, accédez au **portail de gestion Microsoft Azure**, puis suivez les instructions ci-dessous. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Valeur Partagé pour l’étendue de la réservation":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Valeur Partagé pour l’étendue de la réservation.":::
 
 Pour gérer la réservation du client sur le portail Azure : 
 
@@ -90,12 +92,12 @@ Pour gérer la réservation du client sur le portail Azure :
 
 Dans la page **Abonnements**, dans la section Basé sur l’utilisation, développez **Plan Azure** pour afficher les abonnements Azure relevant du plan Azure.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Afficher la liste des abonnements Azure"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Afficher la liste des abonnements Azure."::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Ajouter des abonnements et configurer les ressources
 
-Vous devez ajouter les abonnements et configurer les ressources pour votre client sur le portail Azure. Vous pouvez aussi séparer l’environnement de votre client par charge de travail ou par projet. Il est possible de gérer les abonnements via [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) ou le portail Azure. 
+Vous devez ajouter les abonnements et configurer les ressources pour votre client sur le portail Azure. Vous pouvez aussi séparer l’environnement de votre client par charge de travail ou par projet. Il est possible de gérer les abonnements via [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) et le portail Azure. 
 
 Pour gérer les ressources et les abonnements de votre client, vous avez besoin de privilèges **Administrateur au nom de** (AOBO). Pour savoir comment gérer votre accès, consultez [Gérer les abonnements et les ressources dans le cadre du plan Azure](azure-plan-manage.md).
 

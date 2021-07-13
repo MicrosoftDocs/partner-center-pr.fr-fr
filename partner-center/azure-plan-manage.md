@@ -9,18 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534928"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277145"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gérer les abonnements et les ressources dans le cadre du plan Azure
 
-**Rôles appropriés**
-
-- Agent d’administration
+**Rôles appropriés** : Agent d’administration
 
 
 Cet article explique comment les partenaires fournisseurs de solutions Cloud (CSP) peuvent utiliser différentes options de contrôle d’accès basé sur les rôles (RBAC) pour bénéficier d’une gestion et d’un contrôle opérationnels sur les ressources Azure d’un client. Quand vous opérez la transition d’un client vers le plan Azure, des droits d’administrateur privilégié vous sont attribués par défaut dans Azure (droits de propriétaire d’abonnement via les privilèges Administrateur au nom de).
@@ -38,7 +36,7 @@ Cet article explique comment les partenaires fournisseurs de solutions Cloud (CS
 
 À des fins de sécurité, Microsoft recommande d’attribuer aux utilisateurs des autorisations minimales pour effectuer leur travail. Consultez [Ressources Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Lier votre ID partenaire (ID MPN) à vos informations d’identification pour gérer les ressources Azure du client
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Associer votre ID partenaire (ID MPN) à vos informations d’identification pour gérer les ressources Azure du client
 
 Le tableau suivant présente les différentes méthodes permettant d’associer votre ID partenaire à différentes options d’accès RBAC.
 
@@ -61,11 +59,11 @@ Vous avez besoin d’un accès administrateur pour gérer les services de votre 
 
 1. Créez une alerte.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="alerte Azure":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="alerte Azure.":::
 
-2. Sélectionnez le type d’action que vous souhaitez appliquer à l’alerte. Par exemple, si vous indiquez vouloir recevoir un e-mail, vous recevrez un message électronique pour vous informer de la suppression d’une attribution de rôle.
+2. Sélectionnez le type d’action que vous souhaitez appliquer à l’alerte. Par exemple, si vous indiquez vouloir recevoir un e-mail, vous recevrez un e-mail pour vous informer de la suppression d’une attribution de rôle.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="configurer l’alerte":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="configurer l’alerte.":::
 
 ### <a name="aobo-removal"></a>Suppression des privilèges AOBO
 

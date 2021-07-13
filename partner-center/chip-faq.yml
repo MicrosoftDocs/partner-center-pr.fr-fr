@@ -1,0 +1,69 @@
+### YamlMime:FAQ
+metadata:
+  title: FAQ sur Solution Assessment Incentives
+  ms.topic: how-to
+  ms.date: 11/09/2020
+  description: Découvrez les réponses aux questions fréquemment posées sur l’évaluation de la solution dans la plateforme d’incentives du canal (CHIP).
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: Karthic83
+  ms.author: kashanum
+  ms.localizationpriority: medium
+  ms.custom: SEOMAY.20
+  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
+  ms.sourcegitcommit: 0b6e24e54faf9ccd05d11e673bbd9add27c82567
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113657376"
+title: FAQ sur l’évaluation de la solution pour la plateforme d’incentives du canal (CHIP)
+summary: >
+  **Rôles appropriés**: contact principal ou administrateur de programme
+
+
+  Trouvez les réponses aux questions fréquemment posées ci-dessous.
+sections:
+- name: Ignoré
+  questions:
+  - question: >
+      Quelles sont les conditions d’éligibilité pour le programme d’incentives d’évaluation de solution ?
+    answer: "Les partenaires ayant un état actif et inscrit dans le programme d’incentives d’évaluation de la solution dans FY20 pourront continuer à bénéficier d’incentives dans FY21 s’ils ont une adhésion MPN active et une compétence MPN active en Silver ou Gold. Les qualifications des partenaires seront examinées pour l’éligibilité annuelle.  Si des partenaires établis n’effectuent pas de conditions d’éligibilité et de participation pendant l’année en cours, elles seront supprimées lors du prochain examen annuel.  Tous les nouveaux partenaires sont intégrés au spécialiste de l’évaluation de la solution locale (SAS) dans leur région.  La SAP identifie les partenaires à intégrer en fonction de la correspondance des compétences et de l’expertise dans la société partenaire et des besoins de l’entreprise des filiales prises en charge par la SAP.\nAvant de commencer le processus d’intégration, les partenaires devront discuter avec la SAP des fonctionnalités de leur entreprise pour prendre en charge les évaluations dans leurs locaux. \n\nLes partenaires qui ne sont actuellement pas inscrits dans le programme d’incentives doivent respecter les critères d’incentives FY21 ci-dessous pour être éligibles à l’intégration des incentives d’évaluation de la solution. Pour plus d’informations, consultez éligibilité de l’évaluation de la [solution](chip-solutions-assessment-eligible.md).\n"
+  - question: >
+      Comment faire Inscrivez-vous au programme d’incentives évaluation de la solution ?
+    answer: >
+      Contactez votre spécialiste de l’évaluation de la solution locale pour initier le processus.
+  - question: >
+      Comment faire envoyer mes informations bancaires et fiscales ?
+    answer: >
+      Pour obtenir des instructions pas à pas sur la façon de soumettre votre banque et vos profils fiscaux, consultez [navigation dans la puce](chip-intro.md) .
+  - question: >
+      Mon statut de transaction a été approuvé dans une puce. Pourquoi n’a pas encore été payé ?
+    answer: >
+      En plus de l’état de la transaction, l’État POE doit également être approuvé dans la puce pour que l’opportunité puisse être soumise au paiement. Veuillez passer en revue votre opportunité dans puce pour vous assurer que la POE a été chargée et approuvée par l’équipe de validation POE dans la puce. Pour afficher l’état de la POE, connectez-vous à la puce et sélectionnez Rechercher dans les **affaires** à effectuer **.** .. . Entrez l' **ID d’opportunité** , puis sélectionnez **Rechercher**. Dans les résultats de la recherche, sélectionnez le lien hypertexte « Edit » sous POE. Dans la page qui s’affiche, faites défiler jusqu’à la section « révision » pour afficher l’état de POE. Examinez également le champ « commentaires » au cas où l’équipe POE a demandé des informations supplémentaires sur la POE.
+  - question: >
+      Pourquoi ne puis-je pas recevoir de paiement pour le jalon 1 pour mon opportunité ?
+    answer: >
+      À partir du 15 août, 2020, le jalon 1 est payé à 0% du niveau d’incentives approuvé et le jalon 2 est payé à 100% du niveau d’incentives approuvé. Tous les contrats enregistrés pour les CHIPSETs ouverts avant le 15 août 2020 seront toujours payés dans le cadre de l’aide FY20. Consultez le [Forum aux questions](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) sur les partenaires pour obtenir des conseils sur les modifications du processus de jalon.
+  - question: >
+      Comment faire pour contester une opportunité ou un paiement que j’ai reçu ?
+    answer: >
+      Veuillez contacter votre SAS qui peut vous fournir des conseils sur cette demande.
+  - question: >
+      L’opportunité est fermée dans une puce qui empêche le chargement de POE. Que puis-je faire pour que l’opportunité soit payée ?
+    answer: >
+      Une fois qu’une opportunité est fermée, elle n’est plus éligible aux incentives. Pour plus d’informations, contactez votre SAP.
+  - question: >
+      Comment faire ajouter un nouvel administrateur/utilisateur à la puce ?
+    answer: >
+      Le contact partenaire principal (administrateur) a la responsabilité d’inviter tous les autres utilisateurs de l’entreprise à s’inscrire dans une puce. Ils sont également responsables de l’accès utilisateur, y compris la désactivation de tous les utilisateurs qui sortent de l’entreprise. Veuillez lire le [Guide de la plateforme des incentives Channel](chip-intro.md).
+  - question: >
+      L’administrateur principal a quitté notre entreprise. Comment modifier mon administrateur principal dans CHIP ?
+    answer: >
+      L’administrateur principal de la puce doit être le contact principal du partenaire dans MPN. Vérifiez que MPN est mis à jour avec le nouveau contact et contactez l’équipe de support régional pour demander la modification de la puce.
+
+
+      Dans le tableau de bord de l’espace partenaires, sélectionnez **support** dans le menu de gauche. Sélectionnez **incentives** comme catégorie ou recherchez le nom de votre programme dans la zone « parcourir les rubriques ».
+
+
+      Après avoir affiché l’aide spécifique à la rubrique disponible, si vous avez encore besoin d’aide, vous pouvez créer un ticket directement à partir de l’option documents recommandés – **créer un ticket de support** .
+additionalContent: "\n## <a name=\"next-steps\"></a>Étapes suivantes\n\n- [Naviguer la puce](chip-intro.md)"

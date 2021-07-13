@@ -9,21 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132942"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152220"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Établir un partenariat avec Microsoft et découvrir les avantages de l’abonnement
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
+**Rôles appropriés** : Administrateur général | Administrateur partenaire MPN | Administrateur de la gestion des utilisateurs | Agent d’administration
 
 Le Microsoft Partner Network (MPN) vous offre la gamme de produits la plus vaste du secteur et des options de programme pour différencier votre entreprise, accéder au marché et vendre vos solutions. Inscrivez-vous gratuitement, puis choisissez comment investir dans votre partenariat avec un action pack, un starter kit ou une compétence Microsoft.
 

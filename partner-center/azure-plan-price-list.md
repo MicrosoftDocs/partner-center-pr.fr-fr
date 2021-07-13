@@ -9,23 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 1bc7973c3970d7c7258ab8645c72570b09d698e1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924956"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277112"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur de la facturation
-- Administrateur général
-- Agent du support technique
-- Agent commercial
-- Administrateur de la gestion des utilisateurs
+**Rôles appropriés** : Agent d’administration | Administrateur de facturation | Administrateur général | Agent du support technique | Commercial | Administrateur de la gestion des utilisateurs
 
 Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur de solutions cloud sont publiés dans l’Espace partenaires. Les tarifs sont délivrés de façon dynamique dans un fichier précis en temps réel et les prix sont affichés en USD uniquement. À compter du 28 janvier 2021, les partenaires de la région UE/AELE et Royaume-Uni qui ont de nouveaux clients et des clients CSP existants achetant de nouvelles offres commerciales pour la première fois et dont les locataires ont été créés avant le 11 mai 2020, seront facturés pour ces achats dans la devise de l’emplacement du partenaire.  Les partenaires situés en dehors de la région UE/AELE et Royaume-Uni continuent d’être facturés dans la devise de l’emplacement du partenaire. Consultez [Plan Azure - Facturation](azure-plan-billing.md).
 
@@ -42,7 +35,7 @@ Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur
 
 4. En regard de **Tarification pour la date**, sélectionnez la date de votre choix, par exemple, **Actuelle**.
 
-   :::image type="content" source="images/azure/pricingnew.png" alt-text="spécifique au pays":::
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="spécifique au pays.":::
 
 >[!NOTE] 
 >Vous pouvez exporter deux tarifs différents : les tarifs de plan Azure et les tarifs tiers de la Place de marché.

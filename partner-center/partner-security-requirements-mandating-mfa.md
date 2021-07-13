@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9fe1d894ec933072a64f2abdfbb795b6ef046168
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086360"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276006"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Imposer l’authentification multifacteur (MFA) à votre locataire partenaire
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Agent commercial
-- Agent du support technique
-- Administrateur de la facturation
-- Administrateur général
+**Rôles appropriés** : Agent d’administration | Commercial | Agent du support technique | Administrateur de facturation | Administrateur général
 
 Cet article donne des exemples et des conseils détaillés pour imposer l’authentification multifacteur (MFA) dans l’Espace partenaires. L’objectif de cette fonctionnalité est d’aider les partenaires à sécuriser leur accès aux ressources client contre toute compromission des informations d’identification. Les partenaires sont tenus d’appliquer MFA à tous les comptes d’utilisateur de leur locataire partenaire, y compris les utilisateurs invités. Les utilisateurs seront chargés d’effectuer la vérification MFA pour les domaines suivants :
 
@@ -184,11 +178,11 @@ Toutes les applications de partenaire intégrées à ces API à l’aide de priv
 
 Pendant la vérification MFA, si le compte de partenaire n’a pas encore effectué l’inscription MFA, Azure AD invite l’utilisateur à effectuer d’abord l’inscription MFA :
 
-:::image type="content" source="images/MfaRegistration1.png" alt-text="Inscription MFA – Étape 1":::
+:::image type="content" source="images/MfaRegistration1.png" alt-text="Inscription MFA – Étape 1.":::
 
 Après avoir cliqué sur **Suivant**, l’utilisateur est invité à choisir parmi une liste de méthodes de vérification.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="Inscription MFA – Étape 2":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="Inscription MFA – Étape 2.":::
 
 Une fois l’inscription réussie, l’utilisateur est tenu d’effectuer la vérification MFA en fonction de la méthode choisie par l’utilisateur.
  

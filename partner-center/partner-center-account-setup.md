@@ -9,19 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740384"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277706"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gérer votre compte Espace partenaires : profil de société, informations bancaires, rôles, autorisations, etc.
 
-**Rôles appropriés** 
-
-- Administrateur général
-- Administrateur des comptes
+**Rôles appropriés** : Administrateur général | Administrateur de compte
 
 Le compte que vous créez dans l’Espace partenaires lors de votre inscription inclut votre adresse e-mail professionnelle et vos données d’entreprise. Une fois que vous avez créé un compte dans l’Espace partenaires, vous devez achever la configuration du profil complet de votre société en incluant les détails du support, les exonérations fiscales le cas échéant ainsi que les informations de l’interlocuteur principal. Le compte de votre entreprise inclut également des comptes d’utilisateur pour toute personne de votre équipe qui utilisera l’Espace partenaires. Le travail qu’ils peuvent effectuer comprend l’ajout ou la gestion de clients, la vente d’abonnements, l’utilisation de la tarification et de la facturation, la création de profils d’entreprise, la gestion des références, l’utilisation de programmes de primes incitatives, la fourniture de support et bien plus encore.
 
@@ -34,7 +31,7 @@ Consultez également les articles [Inviter des employés à rejoindre l’Espace
 
 Tous les partenaires commerciaux et de développement accèdent à la **gestion des comptes** dans l’Espace partenaires en se connectant au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires et en sélectionnant **Paramètres** (icône d’engrenage) dans le coin supérieur droit de l’écran, puis **Paramètres du compte**. Vous n’avez plus à choisir entre les paramètres Partenaire et Développeur. Tous les profils et paramètres sont maintenant combinés.
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="Icône des paramètres":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="icône des paramètres.":::
 
 La page Paramètres du compte s’affiche.
 
@@ -48,7 +45,7 @@ Que vous soyez partenaire ou développeur, utilisez votre ID MPN pour, par exemp
 
 Si votre entreprise fait partie du programme Fournisseur de solutions Cloud, lorsque vous sélectionnerez l’icône **Paramètres** et que vous ouvrirez le menu **Paramètres du compte**, l’affichage par défaut sera **Informations légales** avec les deux onglets **Partenaire** et **Revendeur**. Chaque onglet comprend des informations sur votre entreprise.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Le menu montre les onglets Partenaire et Revendeur":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Le menu affiche les onglets Partenaires et Revendeurs.":::
 
 L’onglet Partenaire inclut toutes les informations juridiques relatives à l’entreprise, telles que la dénomination sociale et l’adresse légale de la société, ainsi que l’interlocuteur principal et les différents sites de l’entreprise. Pour les partenaires qui sont fournisseurs de solutions Cloud, l’onglet Revendeur comprend le **profil Support client**.
 
@@ -58,7 +55,7 @@ Si votre entreprise ne fait pas partie du programme Fournisseur de solutions Clo
 
 Vous pouvez faire partie de plusieurs comptes. Pour savoir si vous faites partie de plusieurs comptes, vérifiez la présence du « sélecteur de compte » dans le menu de navigation de gauche.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifier le sélecteur de compte":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifier le sélecteur de compte.":::
 
 Si vous ne voyez pas le sélecteur de compte, vous ne faites partie que d’un seul compte. 
 
@@ -66,7 +63,7 @@ Lorsque vous sélectionnez ce sélecteur, tous les comptes dont vous faites part
 
 Dans l’exemple ci-dessous, l’utilisateur connecté fait partie des trois comptes en surbrillance. L’utilisateur peut passer de l’un à l’autre en cliquant sur un compte.
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Les comptes dont vous faites partie":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Les comptes dont vous faites partie.":::
 
 ## <a name="organization-profile"></a>Profil de l’organisation
 

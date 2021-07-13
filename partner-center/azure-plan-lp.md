@@ -9,20 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 74595843e4aaf2fe0e92fb92d417343dd7e4b81d
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534741"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013299"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Introduction : Le plan Azure permet aux partenaires d’acheter Azure au tarif du paiement à l’utilisation pour les clients
 
-**Rôles appropriés**
+**S’applique à** : Espace partenaires
 
-- Agent d’administration
-- Agent commercial
-- Administrateur général
+**Rôles appropriés** : Agent d’administration | Commercial | Administrateur général
 
 Microsoft a introduit une nouvelle expérience commerciale dans l’Espace partenaires : le plan Azure.  Cette nouvelle expérience de commerce donne aux partenaires l’accès aux services Azure à un tarif de paiement à l’utilisation pour les clients dans le cadre du Contrat client Microsoft.
 

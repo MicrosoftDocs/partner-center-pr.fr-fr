@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 52db2c8ee7652633ee5d73a534e8c73daead867e
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702873"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896813"
 ---
 # <a name="march-2021-announcements"></a>Annonces de mars 2021
 
 Cette page contient les annonces de l’Espace partenaires Microsoft de mars 2021.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Préparation : Les modifications apportées à l’API de validation des adresses client CSP deviendront officielles en juin. La fonctionnalité de test est d’ores et déjà disponible.
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Préparation : Les modifications apportées à l’API de validation des adresses client CSP deviendront officielles en juin. La fonctionnalité de test est d’ores et déjà disponible.
 
 ### <a name="categories"></a>Catégories
 
@@ -139,7 +139,7 @@ Si vous avez besoin d’aide pour vos opérations Microsoft, contactez le groupe
 - 30 avril 2021 : mises à jour de l’exemple de réponse et du code postal
 
 ________________
-## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Nouvelle expérience du centre d’administration Exchange (EAC)
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>Nouvelle expérience du centre d’administration Exchange (EAC)
 
 ### <a name="categories"></a>Catégories
 
@@ -182,7 +182,7 @@ Pour vous aider à naviguer dans la nouvelle expérience, des vidéos sont dispo
 Pour toute question sur ces changements, consultez vos communautés Yammer appropriées.
 
 ________________
-## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations : Présentation du calendrier de lancement des produits
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft Operations : Présentation du calendrier de lancement des produits
 
 ### <a name="categories"></a>Catégories
 
@@ -230,7 +230,7 @@ Passez en revue les ressources sur ce sujet et partagez ces informations avec le
 Si vous avez d’autres questions sur ces offres, consultez vos communautés Yammer appropriées.
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Changements des conditions d’intégration des clients CSP
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Changements des conditions d’intégration des clients CSP
 
 ### <a name="categories"></a>Catégories
 
@@ -304,7 +304,7 @@ Si vous avez des questions liées à l’identificateur légal (également appel
 Si vous avez besoin de support pour vos opérations avec Microsoft, [ouvrez une demande de service](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Corrections apportées à la liste de prix des logiciels sous licence perpétuelle du 1er mars 2021
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>Corrections apportées à la liste de prix des logiciels sous licence perpétuelle du 1er mars 2021
 
 ### <a name="categories"></a>Catégories
 
@@ -328,9 +328,9 @@ Ces modifications s’appliquent uniquement au produit ci-dessus. Les autres pro
 ### <a name="next-steps-and-resources"></a>Étapes suivantes et ressources
 
 - Les partenaires qui réalisent des transactions liées à des logiciels perpétuels doivent télécharger la dernière liste de prix pour les logiciels perpétuels.
-- Consultez les [codes pays/région](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries) pour un mappage convivial de l’abréviation de deux lettres aux pays.
+- Consultez les [codes pays/région](/azure/marketplace/commercial-marketplace-co-sell-countries) pour un mappage convivial de l’abréviation de deux lettres aux pays.
 ________________
-## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> Mise en production du kit SDK sur .NET Standard (v1.17.0)
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="14"></a> Mise en production du kit SDK sur .NET Standard (v1.17.0)
 
 ### <a name="categories"></a>Catégories
 
@@ -348,7 +348,7 @@ Les partenaires de facturation directe et les fournisseurs indirects participant
 
 #### <a name="audit-updated-new-operation-types"></a>Audit mis à jour : nouveaux types d’opérations
 
-Ajout de nouveaux [types d’opération](https://docs.microsoft.com/partner-center/develop/auditing-resources) pour savoir quand le client a approuvé et mis fin à la relation avec le DAP.
+Ajout de nouveaux [types d’opération](/partner-center/develop/auditing-resources) pour savoir quand le client a approuvé et mis fin à la relation avec le DAP.
 
 - DapAdminRelationshipApproved
 
@@ -356,7 +356,7 @@ Ajout de nouveaux [types d’opération](https://docs.microsoft.com/partner-cent
 
 #### <a name="audit-updated-new-resource-and-operation-types"></a>Audit mis à jour : nouvelle ressource et nouveaux types d’opérations
 
-Ajout de nouveaux [types de ressources et d’opérations](https://docs.microsoft.com/partner-center/develop/auditing-resources) pour la prise en charge du scénario de rôle d’annuaire client.
+Ajout de nouveaux [types de ressources et d’opérations](/partner-center/develop/auditing-resources) pour la prise en charge du scénario de rôle d’annuaire client.
 
 - Nouveau type de ressource « CustomerDirectoryRole »
 
@@ -392,7 +392,7 @@ Les modifications suivantes sont introduites dans le cadre de New Commerce et so
 - Télécharger et passer en revue les [exemples GitHub](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ________________
-## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Offre de place de marché commerciale et primes incitatives pour fournisseurs de solutions cloud pour 2021 pour les offres éligibles
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>Offre de place de marché commerciale et primes incitatives pour fournisseurs de solutions cloud pour 2021 pour les offres éligibles
 
 ### <a name="categories"></a>Catégories
 
@@ -421,24 +421,24 @@ Nous travaillons en partenariat avec des éditeurs de logiciels indépendants po
 - [Ressources de primes incitatives pour les partenaires de facturation directe - Fournisseur de solutions cloud](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
 - [Ressources de primes incitatives pour les fournisseurs indirects -Fournisseur de solutions cloud](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
 - Consultez cette [Présentation](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) pour en savoir plus sur la vente des applications de la place de marché commerciale. Consultez les ressources supplémentaires [ici](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/). 
-- Explorez le catalogue de la place de marché commerciale dans l’[Espace partenaires](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover) ou sur le [portail Azure](https://ms.portal.azure.com/#home)
-- Utilisez des [API](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) pour intégrer des applications dans la place de marché de votre entreprise
+- Explorez le catalogue de la place de marché commerciale dans l’[Espace partenaires](../csp-commercial-marketplace-discover.md) ou sur le [portail Azure](https://ms.portal.azure.com/#home)
+- Utilisez des [API](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) pour intégrer des applications dans la place de marché de votre entreprise
 - Contactez les éditeurs de logiciels indépendants qui vous intéressent
 - Les fournisseurs indirects doivent s’intégrer à l’aide d’API et guider les revendeurs sur les applications à vendre
 
 ### <a name="questions"></a>Des questions ?  
 
-Consultez [cet article](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview) pour obtenir une vue d’ensemble de la place de marché commerciale dans l’Espace partenaires.
+Consultez [cet article](../csp-commercial-marketplace-overview.md) pour obtenir une vue d’ensemble de la place de marché commerciale dans l’Espace partenaires.
 
 Pour obtenir une assistance supplémentaire, vous pouvez créer une demande de support dans l’Espace partenaires. Pour en savoir plus, rendez-vous sur [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1).
 
 ________________
-## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Mise à jour des prérequis et des noms de l’offre Power BI Premium
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="12"></a>Mise à jour des prérequis et des noms de l’offre Power BI Premium
 
 ### <a name="categories"></a>Catégories
 
 - Date : 18/03/2021
-- Fonctions
+- Fonctionnalités
 
 ### <a name="summary"></a>Résumé
 
@@ -490,7 +490,7 @@ Passez en revue les ressources sur ce sujet et partagez ces informations avec le
 
 Pour les questions sur ces offres, consultez vos communautés Yammer appropriées. 
 
-## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Mises à jour des prix de mars de Microsoft 365 F3
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a> Mises à jour des prix de mars de Microsoft 365 F3
 
 ### <a name="categories"></a>Catégories
 
@@ -527,7 +527,7 @@ Pour toute autre question, consultez les communautés Yammer CSP appropriées.
 
 ________________
 
-## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Mettre à jour un nom de société légal dans l’Espace partenaires
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a> Mettre à jour un nom de société légal dans l’Espace partenaires
 
 ### <a name="categories"></a>Catégories
 
@@ -555,12 +555,12 @@ Pour plus d’informations, consultez [Mettre à jour le profil de l’entrepris
 
 Partagez ces informations dans votre organisation pour permettre à l’équipe compétente de passer en revue et de mettre à jour ses processus.
 
-### <a name="questions"></a>Des questions ?
+### <a name="questions"></a>Vous avez des questions ?
 
 Pour toute autre question, consultez les communautés Yammer CSP appropriées.
 
 ________________
-## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Mise à jour de l’évolution du programme Fournisseur de solutions cloud (CSP) et changements du programme Open License
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a> Mise à jour de l’évolution du programme Fournisseur de solutions cloud (CSP) et changements du programme Open License
 
 ### <a name="categories"></a>Catégories
 
@@ -598,7 +598,7 @@ Pour obtenir des informations complètes sur l’évolution du programme CSP et 
 Pour toute autre question, consultez les communautés Yammer CSP appropriées.
 
 _______________
-## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>Mise à jour d’une annonce précédente : évaluations Premium, extension du Gestionnaire de conformité
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="8"></a>Mise à jour d’une annonce précédente : évaluations Premium, extension du Gestionnaire de conformité
 
 ### <a name="categories"></a>Catégories
 
@@ -634,7 +634,7 @@ Passez en revue les ressources sur ce sujet et partagez ces informations avec le
 Si vous avez des questions sur ces offres, consultez les communautés Yammer appropriées.
 
 ________________
-## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migrer vos solutions depuis One Commercial Partner (OCP) go-to market (GTM) vers la place de marché commerciale Microsoft
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="7"></a> Migrer vos solutions depuis One Commercial Partner (OCP) go-to market (GTM) vers la place de marché commerciale Microsoft
 
 ### <a name="categories"></a>Catégories
 
@@ -653,7 +653,7 @@ Organisations qui co-vendent des solutions dans OCP GTM
 
 En décembre 2020, nous avons commencé notre migration de l’outil Microsoft OCP GTM vers la place de marché commerciale Microsoft dans l’Espace partenaires. Cette transition étend les capacités de la place de marché commerciale où vous pouvez présenter vos solutions à des millions de clients, partager de manière bidirectionnelle des opportunités avec d’autres vendeurs Microsoft et partenaires, et co-vendre des solutions innovantes.
 
-L’étape suivante de la transition aura lieu le 29 mars 2021. C’est à ce moment-là que vous allez découvrir des fonctionnalités OCP GTM limitées, avec des champs qui seront désormais en lecture seule. Si vous co-vendez actuellement des solutions dans OCP GTM, nous vous encourageons à migrer vos solutions vers la place de marché commerciale pour tirer parti de ses fonctionnalités et simplifier votre expérience de publication. 
+L’étape suivante de la transition aura lieu le 29 mars 2021. C’est à ce moment-là que vous allez découvrir des fonctionnalités OCP GTM limitées, avec des champs qui seront désormais en lecture seule. Si vous co-vendez actuellement des solutions dans OCP GTM, nous vous encourageons à migrer vos solutions vers la place de marché commerciale pour tirer parti de ses fonctionnalités et simplifier votre expérience de publication.
 
 La migration vers la place de marché commerciale fait de l’Espace partenaires la destination principale de l’expérience de publication pour la co-vente. C’est là que vous pouvez continuer à développer votre activité en connectant vos solutions à nos clients partagés via les mêmes canaux et expériences dans les produits que ce que nous utilisons pour les produits Microsoft. [En savoir plus sur la place de marché commerciale](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
 
@@ -666,6 +666,36 @@ La migration vers la place de marché commerciale fait de l’Espace partenaires
 ### <a name="questions"></a>Vous avez des questions ?
 
 Contactez le [support](https://partner.microsoft.com/support/?stage=1) si vous avez des questions ou si vous avez besoin de plus d’informations.
+
+________________
+## <a name="programmatic-access-to-commercial-marketplace-analytics"></a><a name="6"></a>Accès programmatique à l’analytique de la place de marché commerciale
+
+### <a name="categories"></a>Catégories
+
+- Date : 10/03/2021
+- Fonctions
+
+### <a name="summary"></a>Résumé
+
+Désormais, les partenaires peuvent accéder programmatiquement aux rapports analytiques pour superviser les ventes, évaluer les performances et optimiser les offres sur la place de marché commerciale.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires qui ont des offres sur la place de marché commerciale.
+
+### <a name="details"></a>Détails
+
+Grâce à l’API permettant d’accéder aux rapports de la place de marché commerciale, vous pouvez planifier des rapports personnalisés de vos données d’analyse de manière asynchrone.
+
+Cette fonctionnalité vous permet de définir des requêtes et des modèles de création de rapports en fonction de vos besoins, de définir une planification et d’obtenir des rapports opportuns et fiables à des intervalles planifiés.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Pour plus d’informations, consultez [Prise en main de l’accès programmatique à l’analytique](/azure/marketplace/analytics-get-started).
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Contactez le [support](https://go.microsoft.com/fwlink/?linkid=2165533) pour toute autre question.
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Développement de la nouvelle expérience commerciale dans le programme CSP pour Azure en Russie

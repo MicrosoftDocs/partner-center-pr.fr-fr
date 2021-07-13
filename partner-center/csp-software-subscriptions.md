@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 309a3578edcd06770c818722f2164a4d10a945da
+ms.sourcegitcommit: 32ef8d43902357a85df420b48b0ec1d63ad073e4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502550"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "110754475"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendre des abonnements logiciels via le programme Fournisseur de solutions Cloud (CSP)
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
+**Rôles appropriés** : Agent d’administration | Administrateur général
 
 Les réservations Azure et les abonnements Server (abonnements Windows Server et SQL Server) permettent aux partenaires du programme CSP de mieux répondre aux besoins croissants de leurs clients, qui souhaitent bénéficier de solutions plus rentables pour gérer des charges de travail cloud prévisibles et durables. 
 
@@ -84,7 +81,7 @@ Pour acheter des abonnements logiciels pour le compte d’un client :
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-3. Dans la page de détails du client, sélectionnez **Ajouter des produits**, puis suivez les instructions à l’écran pour créer et payer votre commande. Tous les tarifs commerciaux excluent les taxes, à l’exception de l’Australie et du Brésil. Pour l’Australie et le Brésil, le prix inclut les taxes.
+3. Dans la page de détails du client, sélectionnez **Ajouter des produits**, puis suivez les instructions à l’écran pour créer et payer votre commande. Tous les tarifs commerciaux excluent les taxes, sauf pour l’Australie et le Brésil. Pour l’Australie et le Brésil, le prix inclut les taxes.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
@@ -103,7 +100,7 @@ Une fois que vous avez acheté votre logiciel, vous ou vos clients devez le tél
 
 5. Choisissez **Copier le lien** si vous voulez envoyer au client le lien vers le téléchargement du fichier binaire. 
 
-6. Vous pouvez également **Annuler** la commande du logiciel et recevoir un crédit de 100 % (si vous le faites dans la période correspondant à la stratégie d’annulation de 60 jours).
+6. Vous pouvez également **Annuler** la commande du logiciel et recevoir un crédit de 100 % (si vous le faites dans la période correspondant à la politique d’annulation de 30 jours).
 
 >[!NOTE]
 >Seuls les clients disposent d’un accès permettant de voir les clés de produit et les informations de téléchargement dans le Centre d’administration Microsoft 365 (rôle d’administrateur général nécessaire). Les partenaires doivent utiliser l’Espace partenaires pour voir ces informations.
@@ -129,22 +126,20 @@ Vos clients seront en mesure d’obtenir des clés de licence et des télécharg
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
 
-Vous pouvez annuler un achat de logiciel dans les 60 jours qui suivent la date d’achat. Si vous effectuez l’annulation pendant cette première période de 60 jours, aucun frais de résiliation anticipée ne vous sera facturé. Après 60 jours, vous ne pouvez plus annuler un achat. (Consultez la remarque relative aux restrictions de clés sur cette règle d’annulation. Pour en savoir plus sur ce qui se passe après l’annulation d’un achat de logiciel, consultez aussi Remarque importante, après ces étapes.) 
+Vous pouvez annuler un achat de logiciel dans les 30 jours qui suivent la date d’achat. Si vous effectuez l’annulation pendant cette première période de 30 jours, aucun frais de résiliation anticipée ne vous sera facturé. Après 30 jours, vous ne pouvez plus annuler un achat. (Consultez la remarque relative aux restrictions de clés sur cette règle d’annulation. Pour en savoir plus sur ce qui se passe après l’annulation d’un achat de logiciel, consultez aussi Remarque importante, après ces étapes.) 
 
 >[!NOTE]
->Les étapes suivantes permettant d’annuler un achat s’appliquent uniquement aux logiciels qui sont éligibles à l’annulation dans une fenêtre d’annulation spécifique, par exemple dans les 60 premiers jours après l’achat. Ces étapes ne s’appliquent pas non plus à un abonnement logiciel SUSE Linux ou RedHat dans Azure. Pour le moment, vous ne pouvez pas annuler ou échanger un abonnement logiciel SUSE ou RedHat. [Découvrez-en plus](/azure/virtual-machines/linux/prepay-suse-software-charges) sur l’utilisation d’abonnement SUSE Linux ou RedHat.
+>Les étapes suivantes permettant d’annuler un achat s’appliquent uniquement aux logiciels qui sont éligibles à l’annulation dans une fenêtre d’annulation spécifique, par exemple dans les 30 premiers jours après l’achat. Ces étapes ne s’appliquent pas non plus à un abonnement logiciel SUSE Linux ou RedHat dans Azure. Pour le moment, vous ne pouvez pas annuler ou échanger un abonnement logiciel SUSE ou RedHat. [Découvrez-en plus](/azure/virtual-machines/linux/prepay-suse-software-charges) sur l’utilisation d’abonnement SUSE Linux ou RedHat.
 
 Suivez les étapes ci-dessous pour annuler un achat :
 
 >[!NOTE]
 >Vous devez être Agent d’administration pour pouvoir annuler un achat. Les étapes suivantes expliquent comment annuler un achat dans le tableau de bord de l’Espace partenaires. Vous pouvez également effectuer cette opération à l’aide de l’[API de l’Espace partenaires](/partner-center/develop/cancel-software-purchases).
 
-1. Avant de commencer le processus d’annulation, vérifiez que vous disposez des éléments suivants :
+1. Avant de commencer le processus d’annulation, vérifiez que vous disposez des informations suivantes :
 
     - Nom, GUID de locataire ou nom de domaine du client
-
     - Nom du produit que vous voulez annuler
-    
     - ID de la commande
 
 2. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
@@ -176,7 +171,7 @@ Quand vous essayez d’annuler une commande, l’Espace partenaires peut égalem
 
 Après avoir annulé un achat :
 
-- Toutes les clés logicielles associées et tous les liens de téléchargement sont révoqués. Autrement dit, ni vous ni votre client ne pouvez plus utiliser les clés logicielles et télécharger des liens associés à cet achat. Il vous incombe, à vous et votre client, de s’assurer que tous les logiciels annulés ne sont plus utilisés. Il vous appartient également de désinstaller les logiciels annulés et de supprimer les téléchargements des logiciels et les liens associés.
+- Toutes les clés logicielles associées et tous les liens de téléchargement sont révoqués. Cette révocation signifie que ni vous ni votre client ne pouvez plus utiliser les clés logicielles et les liens de téléchargement associés à cet achat. Il vous incombe, à vous et votre client, de s’assurer que tous les logiciels annulés ne sont plus utilisés. Il vous appartient également de désinstaller les logiciels annulés et de supprimer les téléchargements des logiciels et les liens associés.
 
 - L’élément annulé s’affichera toujours dans la page Détails du logiciel du client, mais la clé d’activation ne sera pas disponible.
 
@@ -195,11 +190,8 @@ Si vous avez essayé d’annuler un achat de logiciel par le biais de l’Espace
 4. Dans le champ Description, indiquez les informations suivantes :
 
     - GUID de locataire ou nom de domaine du client
-    
     - ID de commande ou ID d’abonnement
-    
     - Motif du remboursement
-
     - Montant demandé
 
 5. Dans le champ Contact, entrez vos nom, adresse e-mail et numéro de téléphone.

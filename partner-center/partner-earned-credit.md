@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: dad2a3a8f60135093c632466577a3e884daea715
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086530"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152611"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Crédit Partenaires : vue d’ensemble de son fonctionnement dans la nouvelle expérience commerciale du fournisseur de solutions Cloud
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
-- Administrateur de la facturation
-- Agent commercial
+**Rôles appropriés** : Administrateur général | Administrateur de la gestion des utilisateurs | Agent d’administration | Administrateur de facturation | Commercial
 
 Dans la nouvelle expérience utilisateur commerciale du programme Fournisseur de solutions Cloud, le crédit Partenaires est un modèle métier qui permet d’appliquer une tarification Azure uniforme simplifiée à l’ensemble des véhicules de commercialisation de Microsoft, tout en soutenant un écosystème de partenaires qui fournit des services managés à valeur ajoutée. Le crédit Partenaires favorise également l’élimination de toute concurrence sur les marges.
 

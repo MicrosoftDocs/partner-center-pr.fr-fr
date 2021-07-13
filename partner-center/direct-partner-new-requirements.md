@@ -9,18 +9,16 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 9fd4156c25cbdbdfa86cabf9f3bb805d95481e17
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 7ceba7e72b78b5bedb89209105c3819f90cf8153
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740316"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147154"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Exigences pour s’inscrire en tant que partenaire à facturation directe du programme Fournisseur de solutions Cloud (CSP)
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés** : administrateur général
 
 ## <a name="enroll-as-a-direct-partner"></a>S’inscrire en tant que partenaire direct
 

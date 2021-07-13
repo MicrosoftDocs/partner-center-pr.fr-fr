@@ -8,20 +8,17 @@ author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534792"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318059"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Créer un compte professionnel qui lie votre entreprise à votre compte Espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
+**Rôles appropriés** : Administrateur général | Administrateur de la gestion des utilisateurs
 
 ## <a name="why-you-need-a-work-account"></a>Pourquoi un compte professionnel est-il nécessaire ?
 
@@ -34,7 +31,7 @@ Votre adresse e-mail professionnelle (ou adresse e-mail de compte professionnel)
 Si vous disposez de plusieurs adresses e-mail professionnelles valides, utilisez celle qui est associée à votre siège social plutôt qu’à une succursale régionale. Par exemple, utilisez votre adresse `contoso.com` plutôt que l’adresse `contoso.uk`.
 
 > [!NOTE]  
-> Avant de décider d’utiliser un compte professionnel existant, déterminez le nombre d’utilisateurs du compte devant travailler dans l’Espace partenaires. Si certains utilisateurs du compte n’ont pas besoin de travailler dans l’Espace partenaires, envisagez de créer un compte dédié aux utilisateurs appelés à travailler dans l’Espace partenaires.
+> Avant d’utiliser un compte professionnel existant, déterminez le nombre d’utilisateurs du compte professionnel devant accéder à l’Espace partenaires. Si certains utilisateurs du compte professionnel n’ont pas besoin d’accéder à l’Espace partenaires, envisagez de créer un compte dédié aux utilisateurs qui ont besoin d’accéder à l’Espace partenaires.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Vous ne savez pas si votre entreprise a déjà un compte professionnel ?
 
@@ -42,7 +39,7 @@ Si vous ignorez si votre entreprise dispose d’un compte professionnel, effectu
 
 1. Connectez-vous au [portail Azure](https://portal.azure.com).
 
-2. Dans le menu, sélectionnez Azure Active Directory, puis Noms de domaine.
+2. Sélectionnez Azure Active Directory dans le menu de navigation et **Noms de domaines personnalisés**.
 
 3. Si vous disposez déjà d’un compte professionnel, votre nom de domaine figure dans la liste.
 

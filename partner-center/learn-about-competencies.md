@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
+ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178865"
+ms.lasthandoff: 06/28/2021
+ms.locfileid: "112989340"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Différencier votre entreprise en atteignant les compétences Microsoft
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
+**Rôles appropriés** : Administrateur général | Administrateur de la gestion des utilisateurs
 
 Mettez en évidence votre expertise éprouvée en solutions de qualité dans un ou plusieurs domaines d’activités spécialisés. Les compétences Microsoft visent à vous préparer à répondre aux besoins de vos clients et à contribuer à attirer de nouveaux clients en quête de fournisseurs de solutions Microsoft certifiés. Rejoignez le niveau élite des partenaires Microsoft et démarquez-vous de vos homologues.
 
@@ -74,4 +71,4 @@ Pour en savoir plus sur les exigences liées à l’obtention de compétences de
 
 - Affichez un [rapport de compétences](pci-competencies-report.md) d’Insights d’Espace partenaires qui indique l’état actuel de vos compétences.
 
-- Obtenez des réponses aux [questions les plus fréquemment posées](competencies-faq.md) sur les compétences.
+- Obtenez des réponses aux [questions les plus fréquemment posées](competencies-faq.yml) sur les compétences.
