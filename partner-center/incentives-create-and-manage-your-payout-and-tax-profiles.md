@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: b167b0e65f3339a29f0227f6135ed70931300d8e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a6d578c2ad09e1f8bb03f520d659f1a9b1e199a9
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152152"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684251"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer le paiement et les profils fiscaux des incentives dans l’espace partenaires
 
@@ -29,7 +29,7 @@ Il est important de comprendre les informations ci-dessous avant de commencer à
 
 Vous devez être un administrateur d’incentives pour entrer les informations bancaires et fiscales relatives aux paiements d’incentives. Si vous êtes un administrateur MPN/de compte, vous pouvez vous assigner et/ou un collègue pour être l’administrateur des incentives.
 
-Si vous devez demander des autorisations d’administrateur incitatives, contactez votre administrateur MPN ou votre administrateur général. Vous pouvez identifier les personnes de votre entreprise qui possèdent ces rôles en vous connectant au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/). À partir de l’icône des **paramètres** en haut à droite, sélectionnez **gestion des utilisateurs** , puis filtrez sur administrateur général.
+Si vous devez demander des autorisations d’administrateur incitatives, contactez votre administrateur MPN ou votre administrateur général. Vous pouvez identifier les personnes de votre entreprise qui possèdent ces rôles en vous connectant au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/). à partir de l’icône **Paramètres** en haut à droite, sélectionnez **gestion des utilisateurs** , puis filtrez sur administrateur général.
 
 Les utilisateurs incitants peuvent consulter les résultats des incentives et les rapports et les détails de paiement, mais ne peuvent pas modifier les détails des banques et des taxes.
 
@@ -50,19 +50,19 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Accéder à la section paiement et taxes dans l’espace partenaires
 
-1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) à l’aide de votre compte de Azure Active Directory (Azure AD) ou de l’adresse de messagerie appropriée, le cas échéant.
+1. connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) à l’aide de votre compte de Azure Active Directory (Azure AD) ou de l’adresse de messagerie appropriée, le cas échéant.
 
    - Plusieurs domaines peuvent être inscrits dans un compte Azure AD. Contactez votre administrateur général pour déterminer les domaines associés.
    - Si vous êtes uniquement en mesure de vous connecter au @onmicrosoft.com domaine et que vous avez besoin de domaines supplémentaires, contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte Azure ad.
    - Si vous êtes invité à sélectionner un compte **professionnel ou scolaire** ou un compte **personnel**, sélectionnez **compte professionnel ou scolaire**.
 
-2. Sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** , puis sélectionnez **paramètres du compte**.
+2. sélectionnez l’icône d’engrenage pour ouvrir le menu **Paramètres** , puis sélectionnez **paramètres du compte**.
 
 3. Dans le menu **paramètres du compte** , sélectionnez **paiement et taxes**.
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Affecter des profils de paiement et de taxe à des programmes individuels
 
-1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** . 
+1. connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **Paramètres** . 
 
 2. Sélectionnez **paramètres du compte**, développez la **section paiement et taxes**, puis sélectionnez **attribution du profil de paiement et de taxe**. 
    
@@ -99,9 +99,9 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
 ## <a name="set-up-a-default-bank-profile"></a>Configurer un profil bancaire par défaut
 
-Vous pouvez configurer des profils bancaires par défaut et les affecter à des emplacements MPN. Ces profils par défaut seront utilisés par Microsoft pour les inscriptions ultérieures de cet emplacement MPN. 
+Vous pouvez configurer des profils bancaires par défaut et les associer à des localisations MPN. Ces profils par défaut seront utilisés par Microsoft pour les inscriptions ultérieures à ces localisations MPN. 
 
-1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres**   . 
+1. connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **Paramètres**   . 
 
 2. Sélectionnez **paramètres du compte**, développez la section **paiement et taxes** , puis sélectionnez **profils de paiement et de taxes**. 
 
@@ -166,7 +166,7 @@ Pour les sociétés partenaires en Amérique, si vous avez besoin d’informatio
 
 5. Dans la page **documentation supplémentaire** , sélectionnez les champs requis, puis cliquez sur **suivant**. 
 
-6. Sélectionnez **Parcourir** pour télécharger les documents requis par votre pays ou votre région. Lorsque le nom du document s’affiche, sélectionnez **Télécharger**. 
+6. Sélectionnez **Parcourir** pour télécharger les documents requis par votre pays ou votre région. lorsque le nom du document s’affiche, sélectionnez **Télécharger**. 
 
 7. Si vous devez supprimer le document, sélectionnez **supprimer**.
 
@@ -176,7 +176,7 @@ Pour les sociétés partenaires en Amérique, si vous avez besoin d’informatio
  
 ## <a name="update-expired-tax-profiles"></a>Mettre à jour les profils de taxes expirés
 
-1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** .
+1. connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **Paramètres** .
 
 1. Sélectionnez **paramètres du compte**, développez la section **paiement et taxes** , puis sélectionnez **paiement et profil fiscal**.
 
@@ -184,10 +184,10 @@ Pour les sociétés partenaires en Amérique, si vous avez besoin d’informatio
 
 1. Vérifiez la **Date d’expiration** de la colonne, puis accédez au profil fiscal qui a expiré ou qui arrive à expiration.
 
-1. Sélectionnez **Edit** (Modifier).
+1. Sélectionnez **Modifier**.
 
 1. Dans la section formulaire fiscal, mettez à jour les formulaires fiscaux en fournissant les nouvelles informations. 
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Questions courantes sur les paiements et les taxes](payout-faq.md)
+- [Questions courantes sur les paiements et les taxes](payout-faq.yml)

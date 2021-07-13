@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599787"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684013"
 ---
 # <a name="payout-statements"></a>Relevés de paiements
 
@@ -83,7 +83,7 @@ Cet affichage présente les détails de l’offre, y compris l’origine des don
     - **Envoyé** : les revenus ont été payés.
 - **Mois de paiement estimé** : le mois auquel les bénéfices sont payés. Pour plus d’informations, consultez la [section suivante](#estimated-payment-month) .
 
-Les transactions en gain sont affichées une fois que la transaction respecte le droit au paiement. Pour comprendre la raison pour laquelle vous pouvez avoir des revenus manquants ou inattendus, consultez les [questions courantes sur le paiement](payout-faq.md#why-are-my-earnings-missing)de la place de marché commercial.
+Les transactions en gain sont affichées une fois que la transaction respecte le droit au paiement. Pour comprendre la raison pour laquelle vous pouvez avoir des revenus manquants ou inattendus, consultez les [questions courantes sur le paiement](payout-faq.yml#why-are-my-earnings-missing-)de la place de marché commercial.
 
 #### <a name="estimated-payment-month"></a>Mois de paiement estimé
 
@@ -247,7 +247,7 @@ La table **de la liste des paiements** affiche les paiements payés et en attent
 - **Taxe sur les frais de service (formulaire PDF)** : disponible pour les paiements soumis à un impôt sur les frais de service. Les taxes sur les frais de service sont indiquées dans d' **autres taxes**.
 - **Afficher** : redirige vers l’historique des transactions avec une liste des revenus inclus dans le paiement.
 
-Pour comprendre la raison pour laquelle vous pouvez avoir des revenus manquants ou inattendus, consultez les [questions courantes sur le paiement](payout-faq.md#why-are-my-earnings-missing)de la place de marché commercial.
+Pour comprendre la raison pour laquelle vous pouvez avoir des revenus manquants ou inattendus, consultez les [questions courantes sur le paiement](payout-faq.yml#why-are-my-earnings-missing-)de la place de marché commercial.
 
 ### <a name="payment-status"></a>État du paiement
 
@@ -259,7 +259,7 @@ Le tableau suivant décrit les différents États de gains.
 | À venir | Commande de paiement générée en attente de révisions internes avant le traitement du paiement. | Non |
 | Facture fiscale en attente | Votre facture fiscale est incomplète ou non valide. | Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé |
 | Rejeté pendant la vérification | Le paiement a été rejeté pendant la révision. | Contactez le Support Microsoft pour obtenir des détails |
-| Failed | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
+| Échec | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
 | En cours | Le paiement est en cours. | Non |
 | Paiement incorrect | Le remboursement est en cours. | Non |
 | Envoyé | Le paiement a été envoyé à votre banque. | Non |
