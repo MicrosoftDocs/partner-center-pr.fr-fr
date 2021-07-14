@@ -1,0 +1,81 @@
+### YamlMime:FAQ
+metadata:
+  title: FAQ sur les incentives
+  ms.topic: how-to
+  ms.date: 02/05/2021
+  description: Forum aux questions pour les incentives Microsoft. Cet article comprend des questions sur les rôles d’utilisateur, l’inscription ou la marche à suivre pour les messages d’erreur.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: mseamons
+  ms.author: mseamons
+  ms.localizationpriority: medium
+  ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
+  ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 07/14/2021
+  ms.locfileid: "113753538"
+title: Forum aux questions sur les incentives
+summary: >
+  **Rôles appropriés**: administrateur d’incentives | Utilisateur d’incentives
+sections:
+- name: Ignoré
+  questions:
+  - question: >
+      Ai-je besoin d’être l’administrateur général pour s’inscrire à des incentives ?
+    answer: >
+      Non. L’administrateur général et l’administrateur de compte peuvent affecter des utilisateurs comme administrateurs d’incentives. Les administrateurs des incentives gèrent les programmes d’incentives de l’entreprise via l’espace partenaires. Pour plus d’informations, consultez [vue d’ensemble des autorisations](permissions-overview.md).
+  - question: >
+      Que dois-je faire si je trouve que ma société est déjà membre du Microsoft Partner Network (MPN) ?
+    answer: >
+      Si vous essayez de rejoindre MPN et que votre entreprise est déjà membre, MPN reconnaît le domaine et vous associe au compte existant. Le compte existant peut être la même société ou une société associée utilisant le même domaine de messagerie, ou le même répertoire d’activité Azure (Azure AD) pour gérer plusieurs domaines.
+
+
+      Vous pouvez identifier le contact principal à partir de la page profil juridique. Si votre emplacement est l’emplacement MPNHQ, vous devez simplement être configuré avec les autorisations nécessaires pour gérer les incentives. Pour plus d’informations sur les rôles et les autorisations, consultez [vue d’ensemble des autorisations](permissions-overview.md).
+
+
+      Si vous n’êtes pas situé dans le même pays que l’emplacement MPNHQ, reportez-vous aux [instructions pour les comptes multinationaux](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) pour plus d’informations sur ce scénario.
+  - question: >
+      Quels rôles d’utilisateur sont disponibles ?
+    answer: >
+      La personne qui inscrit l’entreprise dans l’espace partenaires devient le contact principal et l’administrateur général par défaut. L’administrateur peut inviter et gérer des utilisateurs sur le portail.
+
+
+      Les principaux rôles pour les incentives sont l’administrateur des incentives et l’utilisateur des incentives. L’administrateur des incentives peut s’inscrire dans des programmes d’incentives et gérer les informations bancaires et fiscales du partenaire. L’utilisateur incitants peut consulter les rapports dans l’outil pour voir ce qui a été versé et la répartition de chaque paiement, mais ne peut pas afficher ou modifier les détails de la Banque. Les deux rôles peuvent s’appliquer à tous les emplacements sous le compte global du partenaire.
+
+
+      Pour plus d’informations, consultez [vue d’ensemble des autorisations](permissions-overview.md).
+  - question: >
+      Comment puis-je savoir qui dispose de droits d’administrateur de compte ou globaux pour mon entreprise ?
+    answer: "Pour rechercher un administrateur général ou un administrateur de compte qui peut apporter des modifications de rôle ou attribuer des rôles à un nouvel utilisateur :\n\n1. À partir de l’icône des paramètres de compte en haut à droite de l’espace partenaires, sélectionnez **gestion des utilisateurs**.\n2. Filtrez l’administrateur **général** ou l' **administrateur de compte**.\n3. Vous pouvez également accéder à **mon profil**, sélectionner des **rôles et des autorisations** et afficher une liste des différents administrateurs qui peuvent vous aider à élever vos autorisations.\n \nPour plus d’informations, consultez [Rechercher votre rôle](find-your-role.md).  \n"
+  - question: >
+      Je ne peux pas accéder aux Incentives à l’aide de mes informations d’identification.
+    answer: >
+      La raison probable pour laquelle vous ne pouvez pas voir les incentives est que vous n’avez pas les autorisations appropriées. Utilisez la procédure suivante pour résoudre ce problème.
+
+
+      1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) à l’aide de vos informations d’identification de locataire Azure ad (vos informations d’identification professionnelles). Si vous ne parvenez pas à vous connecter, contactez l’administrateur général de votre entreprise.
+
+
+      2. Quand vous vous connectez, si vous êtes invité à effectuer une sélection à partir de votre compte **professionnel** ou **personnel**, sélectionnez **compte professionnel**.
+
+
+      3. Dans le menu espace partenaires, sélectionnez **incentives**, puis sélectionnez **vue d’ensemble**. Si vous ne disposez pas d’autorisations d’administrateur ou d’incentives incitatives, vous verrez les informations de contact pour tous les administrateurs de comptes et globaux de votre entreprise. Contactez l’un de ces administrateurs pour obtenir le rôle d’incentive pour les ID MPN et les programmes d’incentives requis.
+
+
+      4. Si vous disposez déjà d’un rôle d’administrateur d’incentives, vous verrez les inscriptions de votre société pour les ID MPN et les programmes d’incentives auxquels vous avez accès.
+  - question: >
+      Certaines inscriptions sont absentes de la page de présentation des incentives.
+    answer: >
+      Si vous avez reçu une invitation ou si vous avez inscrit un programme d’incentives qui n’est plus visible dans le tableau de bord, vous devez vérifier que vous disposez de l’accès approprié. Seuls les utilisateurs disposant d’un rôle d’administrateur d’incentives ou d’utilisateurs incitatives sont en mesure de voir le programme. Consultez [Rechercher votre rôle](./find-your-role.md).
+
+
+      Si vous avez besoin de modifier votre rôle ou vos autorisations, contactez l’administrateur général ou l’administrateur de compte de votre entreprise. Pour en savoir plus sur ces personnes, consultez [Rechercher un administrateur général](./find-your-role.md#find-your-global-admin).
+
+
+      La page vue d’ensemble affiche uniquement les inscriptions associées au compte global du partenaire (PGA) associé au locataire Azure AD. Si votre entreprise possède plusieurs PGA, vous devez disposer d’informations d’identification différentes pour chacune d’elles.
+  - question: >
+      Qui dois-je contacter si j’obtiens un message d’erreur ou si j’ai besoin d’aide pendant le processus d’inscription ?
+    answer: >
+      Si vous rencontrez un problème dans la section incentives du tableau de bord, contactez le support technique en ligne. pour plus d’options, consultez l’option de support ( ? En haut à droite de l’icône).
+additionalContent: "\n## <a name=\"next-steps\"></a>Étapes suivantes\n\n- [Bien commencer avec les incentives](incentives-get-started-intro.md)"

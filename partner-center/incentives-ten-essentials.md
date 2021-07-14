@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32b7575e0110eba8c04e971845f54ca71bfb45c5
+ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146712"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113753355"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Les 10 éléments essentiels pour l’utilisation des incentives
 
@@ -37,11 +37,11 @@ Presque tous les retards de paiement ou d’autres interruptions dans le process
 
 ## <a name="4-learn-about-roles-and-permissions"></a>4. en savoir plus sur les rôles et les autorisations
 
-Il est important d’avoir une compréhension approfondie des rôles et des autorisations impliqués dans le programme d’incentives. Une fois que vous avez effectué cette opération, vous pouvez décider quels rôles doivent être affectés aux personnes de votre entreprise. Pour plus d’informations, consultez [Quels rôles d’utilisateur sont disponibles ?](incentives-faq.md#what-user-roles-are-available)
+Il est important d’avoir une compréhension approfondie des rôles et des autorisations impliqués dans le programme d’incentives. Une fois que vous avez effectué cette opération, vous pouvez décider quels rôles doivent être affectés aux personnes de votre entreprise. Pour plus d’informations, consultez [Quels rôles d’utilisateur sont disponibles ?](incentives-faq.yml#what-user-roles-are-available-)
 
 ## <a name="5-review-the-incentives-faq"></a>5. passez en revue le FAQ sur les incentives
 
-Recevez des réponses aux questions les plus fréquentes avant même de les demander. Nous mettons fréquemment à jour le FAQ sur les Incentives à l’aide des informations de Support Microsoft et de la communication directe avec les partenaires. Vous pouvez consulter le Forum aux questions [ici](incentives-faq.md).
+Recevez des réponses aux questions les plus fréquentes avant même de les demander. Nous mettons fréquemment à jour le FAQ sur les Incentives à l’aide des informations de Support Microsoft et de la communication directe avec les partenaires. Vous pouvez consulter le Forum aux questions [ici](incentives-faq.yml).
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Confirmez l’éligibilité de votre programme
 
