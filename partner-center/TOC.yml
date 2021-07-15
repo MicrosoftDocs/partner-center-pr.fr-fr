@@ -273,7 +273,7 @@
     - name: Bien commencer avec les incentives
       items:
         - name: Questions fréquentes (FAQ) sur les incentives
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: Bien démarrer avec les incentives
           href: incentives-get-started-intro.md
@@ -454,7 +454,7 @@
       href: payment-thresholds-methods-timeframes.md
       displayName: invoice
     - name: Questions fréquentes (FAQ) sur les paiements et les profils fiscaux
-      href: payout-faq.md
+      href: payout-faq.yml
 - name: Entrer en contact avec les clients
   items:
     - name: Se connecter à vos clients
