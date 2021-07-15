@@ -4,15 +4,15 @@ description: en savoir plus sur la réception de paiements pour les revenus en t
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 11/25/2020
+ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: cc01a1aada6c6665d3fd8f6efc6e5ef873736bdc
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
+ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684387"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113798134"
 ---
 # <a name="getting-paid-in-partner-center"></a>Obtenir le paiement dans l’espace partenaires
 
@@ -27,7 +27,7 @@ L’obtention du paiement vous oblige à respecter les contrats et la politique 
 - [Microsoft Azure Marketplace Publisher contrat](/legal/marketplace/msft-publisher-agreement): avant d’être payé, vous devez accepter ce contrat d’éditeur. Le présent contrat explique la relation entre vous et Microsoft en ce qui concerne les offres de vendeur dans la place de marché commercial, y compris les frais de stockage facturés par Microsoft pour chaque vente.
 - La [stratégie](payout-policy-details.md) de paiement montre les stratégies de paiement de paiement, notamment le calendrier de paiement et les modes de paiement. La stratégie explique également le processus de non-paiement des clients.
 - les [détails des taxes](tax-details-marketplace.md) décrivent les taxes relatives à la sélection des prix et à la responsabilité fiscale dans le cadre du contrat de [Publisher](/legal/marketplace/msft-publisher-agreement)Microsoft.
-- les **frais de stockage** sont officiellement définis dans le contrat de Publisher. Les frais de stockage sont appliqués à toutes les ventes d’offres collectées par le Marketplace commercial, y compris les modules complémentaires.
+- Les **frais de stockage** sont officiellement fournis dans les [frais commerciaux](/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations)de la place de marché.
 - Les **paiements** sont effectués chaque mois (à condition que le seuil de paiement soit respecté). En règle générale, nous envoyons tout paiement dû pendant un mois donné, le 15 du mois. Les paiements prennent généralement entre 3 et 10 jours ouvrables supplémentaires pour atteindre votre compte de paiement. Pour plus d’informations, consultez [Seuils, modes et délais de paiement](payment-thresholds-methods-timeframes.md).
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Étapes préalables avant le paiement

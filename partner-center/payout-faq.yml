@@ -8,12 +8,12 @@ metadata:
   author: eunjkim520
   ms.author: eunjkim
   ms.date: 05/06/2021
-  ms.openlocfilehash: 30524899a85cff7439268d569e93810034109474
-  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+  ms.openlocfilehash: 350c726467c3ba4342159a56b8ccfe77610c6b63
+  ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
   ms.translationtype: MT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 07/13/2021
-  ms.locfileid: "113686477"
+  ms.lasthandoff: 07/14/2021
+  ms.locfileid: "113798334"
 title: Questions courantes sur les paiements et les taxes
 summary: >
   **Rôles appropriés**: administrateur de compte | Administrateur général | Administrateur d’incentives
@@ -89,7 +89,7 @@ sections:
       - Vérifiez le [laps de temps du cycle de paiement](payment-thresholds-methods-timeframes.md) et comprenez quand vos revenus doivent apparaître dans le relevé de paiement.
   - question: >
       Pourquoi le montant de mes revenus est-il différent de ce que je pensais ?
-    answer: "- Si la commande a été payée partiellement par votre client, le montant acquis sera basé sur le montant partiellement payé après déduction des frais et taxes appropriées.\n- Vérifiez la responsabilité du paiement de la taxe par pays. Dans les pays où la taxe est responsable de Microsoft, Microsoft collecte et déduire les taxes des revenus de l’éditeur. Le montant de la transaction indiqué dans le relevé est le montant après paiement des taxes. Consultez [Détails des taxes](tax-details-marketplace.md).\n- Les offres SaaS et IaaS ont un tarif réduit de 10% au lieu de la valeur standard de 20%, ce qui laisse un taux de bénéfices de 90%. Il s’agit d’une exigence d' Co-Sell IP. Cette promotion est valable jusqu’au 30 juin 2021. \n\n**en savoir plus** sur le [contrat de Publisher Marketplace Commercial](/legal/marketplace/msft-publisher-agreement), les détails de la [stratégie](payout-policy-details.md)de paiement, le [seuil de paiement, la méthode et le laps de temps](payment-thresholds-methods-timeframes.md), obtenir le [paiement](marketplace-get-paid.md), les [détails fiscaux](tax-details-marketplace.md), les [instructions](payout-statement.md) de paiement\n"
+    answer: "- Si la commande a été payée partiellement par votre client, le montant acquis sera basé sur le montant partiellement payé après déduction des frais et taxes appropriées.\n- Vérifiez la responsabilité du paiement de la taxe par pays. Dans les pays où la taxe est responsable de Microsoft, Microsoft collecte et déduire les taxes des revenus de l’éditeur. Le montant de la transaction indiqué dans le relevé est le montant après paiement des taxes. Consultez [Détails des taxes](tax-details-marketplace.md).\n- Les offres ont un coût de service de magasin de 3%, ce qui laisse un taux de bénéfices de 97%. \n\n**en savoir plus** sur le [contrat de Publisher Marketplace Commercial](/legal/marketplace/msft-publisher-agreement), les détails de la [stratégie](payout-policy-details.md)de paiement, le [seuil de paiement, la méthode et le laps de temps](payment-thresholds-methods-timeframes.md), obtenir le [paiement](marketplace-get-paid.md), les [détails fiscaux](tax-details-marketplace.md), les [instructions](payout-statement.md) de paiement\n"
 - name: Rapprochement des bénéfices
   questions:
   - question: >
@@ -213,9 +213,9 @@ sections:
 - name: Stratégies de paiement de la place de marché commercial
   questions:
   - question: >
-      Comment faire pour trouver les frais d’agence actuels et le taux de paiement ?
+      Comment faire trouver les frais de service du magasin actuel et le taux de paiement ?
     answer: >
-      - Consultez le Contrat des éditeurs de la Place de marché commerciale. Les frais d’agence standard s’élèvent à 20 %. Les transactions éligibles de covente SaaS bénéficient d’un tarif réduit de 10%. Vérifiez si des annonces signalant des promotions applicables aux frais d’agence ont été publiées.
+      - Les frais du service de magasin sont de 3%.
 
       - Dans votre relevé de paiement, le taux d’obtention spécifie le taux de paiement réel pour une transaction donnée.
   - question: >

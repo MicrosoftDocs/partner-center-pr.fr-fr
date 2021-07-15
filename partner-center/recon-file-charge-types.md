@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 10438ba30c6eb5ba5b1daef1ad16521f1f8e77c6
+ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855877"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113989772"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Comprendre les différents types de frais dans les fichiers de rapprochement de l’espace partenaires
 
-**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
+**S’applique à** : Espace partenaires | Espace partenaires de Microsoft Cloud for US Government
 
-**Rôles appropriés**: agent admin | Administrateur de facturation | Administrateur général
+**Rôles appropriés** : Agent d’administration | Administrateur de facturation | Administrateur général
 
 Cet article décrit les mappages entre une section de facture et les types de frais associés qui peuvent se trouver dans votre fichier de rapprochement. Votre facture fournit un résumé des frais. Votre fichier de réconciliation fournit une répartition détaillée des transactions d’éléments de ligne, y compris les types de frais. Pour plus d’informations sur les fichiers de rapprochement, voir [How to use Reconciliation Files](use-the-reconciliation-files.md).
 
@@ -58,11 +58,13 @@ Pour mapper ces frais à la fois sur votre facture, faites la somme de la colonn
 
 | Description des frais (colonne ChargeType dans le fichier de rapprochement) | Explication des frais |
 | ------------------------------------------------------------- | ------------------ |
-| Nouveau | Utilisé lors de la création d’un nouvel achat. |
+| new | Utilisé lors de la création d’un nouvel achat. |
+| renouveler | Utilisé lorsqu’un abonnement est renouvelé après la fin du terme. |
 | addQuantity | Utilisé dans le remboursement de l’achat d’origine et la nouvelle quantité après une augmentation. |
 | removeQuantity | Utilisé dans le remboursement de l’achat d’origine et la nouvelle quantité après une diminution. |
-| Annuler | Utilisé lorsqu’un abonnement est annulé. |
-| Convertir | Utilisé lors de la mise à niveau d’une licence, mais le nombre de licences reste inchangé. |
+| cancelImmediate | Utilisé lorsqu’un abonnement est annulé. |
+| passer | Utilisé lors de la mise à niveau d’une licence. |
+| customerCredit | Utilisé lorsque des crédits (par exemple, Azure, SLA, etc.) sont fournis par rapport à une transaction. |
 
 ## <a name="usage-charges"></a>Frais d'utilisation
 
