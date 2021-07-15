@@ -14,22 +14,8 @@
       displayName: mpn
     - name: Résoudre les problèmes de configuration de compte
       href: troubleshoot-account-sign-n.md
-    - name: Migrations à partir de PMC
-      items:
-        - name: Préparer la migration à partir de PMC
-          href: prepare-pmc-pc-migration.md
-          displayName: 'role, roles, ro, mpn'
-        - name: Guide pour migrer à partir de PMC
-          href: guide-to-migration.md
-        - name: Comparer PMC et l’Espace partenaires
-          href: move-pmc-pc-map.md
-        - name: Migrer de nombreuses entreprises
-          href: move-multiple-companies.md
-        - name: Regrouper des entreprises
-          href: consolidate-accounts.md
-        - name: Activer les avantages pour PMC
-          href: partner-membership-center-tech-benefits-activate.md
-          displayName: mpn
+    - name: Suppression du Partner Membership Center
+      href: partner-membership-center-retirement-faq.md
     - name: Avantages des adhésions
       items:
         - name: Vue d’ensemble des avantages
@@ -48,9 +34,9 @@
           href: mpn-find-benefits.md
           displayName: mpn
         - name: Stratégie et utilisation des avantages - FAQ
-          href: benefits-faq-new.md
+          href: benefits-faq-new.yml
         - name: Questions fréquentes (FAQ) sur les avantages
-          href: benefits-faq.md
+          href: benefits-faq.yml
           displayName: 'renew, license,'
         - name: Afficher ou télécharger votre facture MPN
           href: mpn-view-print-maps-invoice.md
@@ -101,7 +87,7 @@
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Questions fréquentes (FAQ) sur les compétences
-          href: competencies-faq.md
+          href: competencies-faq.yml
           displayName: 'renew, mpn'
         - name: Payer les frais de compétence
           href: mpn-pay-fee-silver-gold-competency.md
@@ -114,9 +100,10 @@
       items:
         - name: Montrer votre expertise
           href: advanced-specializations.md
+          displayName: Advanced specializations
         - name: Appliquer ou vérifier l’état
           href: advanced-specializations-apply.md
-          displayName: mpn
+          displayName: 'mpn, Advanced specializations'
     - name: Devenir Azure Expert MSP
       href: azure-expert-msp.md
 - name: Programme Fournisseur de solutions cloud (CSP)
@@ -161,7 +148,7 @@
         - name: Espace partenaires de Microsoft Cloud for US Government
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: FAQ - Microsoft Cloud pour le gouvernement des États-Unis
-          href: faq-for-us-govt-cloud.md
+          href: faq-for-us-govt-cloud.yml
           displayName: csp
         - name: Espace partenaires de Microsoft Cloud Germany
           href: partner-center-for-microsoft-cloud-germany.md
@@ -204,6 +191,8 @@
         - name: Mettre à jour votre profil de partenaire
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Certification des annonces dans l’outil de recherche de partenaires
+          href: partner-finder-certification.md
         - name: Informations sur les numéros d’identification des inscriptions
           href: reg-number-id.md
         - name: Être fournisseur de panneau de contrôle
@@ -263,12 +252,12 @@
           href: bulk-operations.md
         - name: Utiliser les connecteurs CRM de covente
           items:
-            - name: "Pour Dynamics\_365"
+            - name: Connecteur pour Dynamics 365
               href: connector-dynamics.md
-            - name: Pour Salesforce
+            - name: Connecteur pour Salesforce
               href: connector-salesforce.md
-        - name: Résoudre les problèmes des connecteurs
-          href: connectors-troubleshoot.md
+            - name: Résoudre les problèmes des connecteurs
+              href: connectors-troubleshoot.md
         - name: Covente - Migration de PSC vers PC
           href: psc-to-pc.md
           displayName: mpn
@@ -365,7 +354,7 @@
         - name: État du paiement de l’évaluation de solution
           href: chip-solution-assessment-payment.md
         - name: FAQ sur l’évaluation de solution
-          href: chip-faq.md
+          href: chip-faq.yml
         - name: Problème d’accès à la plateforme CHIP
           href: chip-access-trouble.md
 - name: Facturation et taxes
@@ -787,5 +776,5 @@
       href: partner-security-compliance.md
       displayName: csp
     - name: Forum aux questions
-      href: partner-security-requirements-faq.md
+      href: partner-security-requirements-faq.yml
       displayName: 'sandbox, csp'
