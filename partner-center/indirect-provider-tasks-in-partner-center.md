@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ec673f7dcf620f055be58dc3a333575addcd6cd1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: d72b7de4d1411b602e8a4c9ab69da5e643d3a560
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277842"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224698"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -22,13 +22,13 @@ ms.locfileid: "112277842"
 
 Avec un marché technologique de ce type, complexe et évoluant rapidement, les clients veulent bénéficier de l’avantage compétitif que les solutions technologiques peuvent leur fournir. Dans un tel climat, il est judicieux pour les partenaires d’investir dans l’engagement partenaire-partenaire pour étendre les offres et permettre aux clients d’en faire encore davantage.
 
-Les nouveaux revendeurs entrent sur le marché et recherchent des moyens d’offrir leurs solutions aux clients en dehors de leurs marchés et de leurs locaux. En tant que fournisseur de technologie établi, vous êtes bien positionné pour être son itinéraire sur le marché. Un partenaire avec des revendeurs indirects dans le programme fournisseur de solutions Cloud (CSP) pour se connecter à d’autres partenaires, apporter de nouvelles solutions au marché et faire progresser l’adoption des services Cloud par les clients.
+Les nouveaux revendeurs entrent sur le marché et recherchent des moyens d’offrir leurs solutions aux clients en dehors de leurs marchés et de leurs locaux. En tant que fournisseur de technologie établi, vous êtes bien positionné pour être son itinéraire sur le marché. collaborez avec des revendeurs indirects dans le programme fournisseur de solutions Cloud (CSP) pour communiquer avec d’autres partenaires, mettre de nouvelles solutions sur le marché et faire progresser l’adoption des services Cloud par les clients.
 
 Dans le modèle indirect Provider-Reseller (à deux niveaux), vous associez des revendeurs indirects pour offrir des solutions Cloud Microsoft aux clients. Vous achetez des produits et des abonnements directement auprès de Microsoft, puis vous offrez ces solutions aux clients par le biais de vos revendeurs.
 
 En tant que fournisseur indirect, vous utilisez l’espace partenaires pour :
 
-- Connectez-vous à des revendeurs indirects qui peuvent vous aider à étendre votre portée et vos clients
+- Connecter avec des revendeurs indirects qui peuvent vous aider à étendre votre portée et vos clients
 
 - Établissez des partenariats avec des revendeurs indirects qui vous permettent de servir des clients communs
 
@@ -46,7 +46,7 @@ Effectuez les étapes suivantes pour établir et gérer votre partenariat avec l
 
    - Pour apporter des modifications au profil de fournisseur indirect de votre entreprise, contactez votre représentant Microsoft.
 
-2. Se connecter avec des revendeurs indirects
+2. Connecter avec des revendeurs indirects
 
    - Avant de pouvoir interagir avec les revendeurs et les utiliser, vous devez établir des partenariats avec eux dans l’espace partenaires.
 
@@ -61,7 +61,7 @@ Une fois ces étapes terminées, vous pouvez gérer vos partenariats de revendeu
 > [!IMPORTANT]
 > Avant de pouvoir commencer à travailler avec des revendeurs, vous devez les inscrire en tant que revendeurs indirects dans le programme CSP et disposer de comptes de l’espace partenaires. Faites pointer vos revendeurs vers [partenaires avec des fournisseurs indirects dans CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) pour obtenir des informations sur l’inscription dans CSP.
 
-## <a name="connect-with-indirect-resellers"></a>Se connecter avec des revendeurs indirects
+## <a name="connect-with-indirect-resellers"></a>Connecter avec des revendeurs indirects
 
 Pour interagir avec des revendeurs indirects dans l’espace partenaires et en effectuer des transactions, vous devez établir un partenariat avec eux. Le fait d’avoir un partenariat avec un revendeur indirect vous permet, à vous et au revendeur, de servir des clients courants.
 
@@ -96,7 +96,7 @@ Pour les abonnements existants, si vous décidez d’utiliser un revendeur indir
 | **Pour ce faire** | **Action** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Permettre au revendeur de gérer le compte d’un client et disposer des autorisations d’administrateur pour gérer ses abonnements | Associer un revendeur à un compte client lors de l’ajout d’un nouveau client | Sur la page **nouveau client** |
-| Permettre au revendeur de gérer le compte d’un client Azure|Associer un revendeur à un compte client Azure lors de l’ajout d’un nouveau client|Dans le **portail Azure Service**, sélectionnez [paramètres utilisateur](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) pour octroyer les autorisations de **propriétaire du locataire** du revendeur indirect.|
+| Permettre au revendeur de gérer le compte d’un client Azure|Associer un revendeur à un compte client Azure lors de l’ajout d’un nouveau client|dans le **portail Azure service**, sélectionnez [utilisateur Paramètres](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) pour accorder les autorisations du propriétaire du **locataire** du revendeur indirect|
 | Fournir le crédit du revendeur pour les incentives | Associer le revendeur à l’abonnement (nouveau ou existant) | Sur la page **nouvel abonnement** |
 | Déléguer le support client pour des abonnements spécifiques au revendeur | Sélectionnez le revendeur dans la liste des **contacts de support désignés** | Sur la page de détails de l’abonnement : sélectionnez le client dans la page des **clients** , puis sélectionnez l’abonnement dans la page **abonnements** du client. |
 
@@ -146,7 +146,7 @@ Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez 
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Ajouter de nouveaux abonnements aux comptes client
 
-Lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau des abonnements existants ou acheter des licences supplémentaires, vous apportez ces modifications au compte du client via le portail Microsoft 365. Vous ne pouvez pas le faire dans le Portail Azure.
+lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau des abonnements existants ou acheter des licences supplémentaires, vous apportez ces modifications au compte du client via le portail Microsoft 365. Vous ne pouvez pas le faire dans le Portail Azure.
 
 1. Sélectionnez **clients** dans le menu de l' **espace partenaires** .
 
@@ -166,7 +166,7 @@ Lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau
 
 Trouvez les réponses à vos questions sur l’accord de partenariat Microsoft
 
-- [Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter le Contrat Partenaire Microsoft - FAQ](mpa-indirect-provider-faq.md)
+- [Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter le Contrat Partenaire Microsoft - FAQ](mpa-indirect-provider-faq.yml)
 
 Pour plus d’informations sur la gestion des comptes client et des abonnements, consultez :
 

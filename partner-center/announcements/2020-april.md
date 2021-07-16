@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2020
-ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.date: 05/21/2021
+ms.openlocfilehash: fedc0b348d2e5e7e9e1ea90b43e8c510fb2b5376
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439133"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915607"
 ---
 # <a name="april-2020-announcements"></a>Annonces d’avril 2020
 
@@ -48,7 +48,7 @@ Le 4 mai 2020, Microsoft introduira de nouvelles promotions avec remise pour O
 
 Ces promotions remplaceront l’offre d’essai Office 365 E1 en cours et diffèrent selon les méthodes suivantes :
 
-- Les partenaires vendront des références SKU annuelles Office 365 E1 ou Microsoft 365 Business Basic en tirant parti d’une promotion CSP qui applique une remise de 100 % pour les 6 premiers mois, plutôt qu’une référence SKU avec un essai unique de 6 mois. [En savoir plus sur les promotions Fournisseur de solutions Cloud](../promotions.md).
+- Les partenaires vendront des références SKU annuelles Office 365 E1 ou Microsoft 365 Business Basic en tirant parti d’une promotion du programme Fournisseur de solutions Cloud qui applique une remise de 100 % pendant les 6 premiers mois, plutôt qu’une référence SKU unique avec essai de 6 mois. [En savoir plus sur les promotions Fournisseur de solutions Cloud](../promotions.md).
 - Les commandes seront techniquement limitées aux « nouveaux clients uniquement », plutôt qu’à l’essai Office 365 E1, qui était limité aux nouveaux clients au moyen d’une stratégie écrite uniquement. 
 - Pour les clients PME/TPE, Microsoft 365 Business Basic sera inclus dans cette promotion. Cela permet de garantir que les partenaires peuvent accepter des clients ayant moins de 300 postes dans la famille de produits appropriée avec Microsoft 365 pour les PME.
 Les clients qui disposent actuellement d’une licence d’utilisation de la version d’essai d’Office 365 E1 (disponible jusqu’au 4 mai 2020) resteront sur le plan actuel. Ce changement affecte uniquement les nouveaux clients.
@@ -70,7 +70,7 @@ Les nouveaux clients éligibles pour cette promotion sont les suivants :
 
 Familiarisez-vous avec les modifications ci-dessus et la liste de prix de mai 2020 et partagez ces informations avec tous les contacts appropriés de votre organisation.
 
-### <a name="questions"></a>Des questions ?
+### <a name="questions"></a>Vous avez des questions ?
 
 Pour toute question supplémentaire sur ces offres, consultez vos communautés Yammer appropriées et contactez votre représentant de l’équipe des comptes Microsoft.
 
@@ -173,17 +173,17 @@ Pour contribuer davantage à la protection des partenaires et des clients, **à 
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-- **Si vous n’avez pas activé les exigences de sécurité recommandées pour protéger votre locataire et vos utilisateurs**, veuillez le faire immédiatement pour rester conforme et éviter toute interruption de l’activité de gestion des clients ou de réalisation des transactions au sein du programme Fournisseur de solutions cloud. Les partenaires qui n’implémentent pas les exigences de sécurité peuvent mettre en péril leur participation au programme Fournisseur de solutions cloud.
+- **Si vous n’avez pas activé les exigences de sécurité recommandées pour protéger votre locataire et vos utilisateurs**, vous devez le faire immédiatement pour rester conforme et éviter toute interruption de l’activité de gestion des clients ou de réalisation des transactions au sein du programme Fournisseur de solutions cloud. Les partenaires qui n’implémentent pas les exigences de sécurité peuvent mettre en péril leur participation au programme Fournisseur de solutions cloud.
 - Les fournisseurs indirects doivent implémenter ces exigences de sécurité pour leurs propres entreprises et collaborer avec les revendeurs pour s’assurer qu’ils implémentent également les exigences et utilisent ce modèle d’e-mail. Nous contacterons également directement vos revendeurs par e-mail.
 - Consultez la [page sur le statut des exigences de sécurité de l’Espace partenaires](https://partner.microsoft.com/commerce/security/compliance) pour identifier votre progression et les actions clés à entreprendre. Collaborez avec votre administrateur général pour vérifier régulièrement la progression de vos exigences de sécurité pour chacun de vos locataires.
-- Si vous utilisez une solution de fournisseur de panneau de contrôle CPV, consultez le fournisseur concerné.
+- Si vous utilisez une solution de fournisseur de panneau de contrôle (CPV), consultez le fournisseur concerné.
 
 ### <a name="additional-resources"></a>Ressources supplémentaires
 
 Passez en revue ces ressources pour implémenter les exigences de sécurité.
 
 - Consultez le [guide pas à pas](../partner-security-requirements.md) pour implémenter les exigences de sécurité des partenaires.
-- Consultez les [questions fréquentes](../partner-security-requirements-faq.md) et les réponses relatives aux exigences de sécurité des partenaires.
+- Consultez les [questions fréquentes](../partner-security-requirements-faq.yml) et les réponses relatives aux exigences de sécurité des partenaires.
 - Consultez le [guide de vérification du statut des exigences de sécurité](../partner-security-compliance.md).
 - Accédez à des ressources supplémentaires sur la page sur l’[implémentation des exigences de sécurité des partenaires](https://partner.microsoft.com/resources/collection/partner-security-requirements#/).
 - Mettez en favoris le [Groupe communautaire d’aide sur la sécurité dans l’Espace partenaires](https://aka.ms/MPCSecurityGuidance).
@@ -236,7 +236,7 @@ Pour accéder aux Avenants, procédez comme suit :
 - Étape 3 : Sélectionnez-la, puis cliquez sur « Consulter les solutions »
 - Étape 4 : Cliquez sur l’avenant dont vous avez besoin
 
-Vous pouvez également vous connecter à l’Espace partenaires et accéder à [cette URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c007d538-f817-84e3-06b5-ff4005c1a6bb).
+Vous pouvez également vous connecter à l’Espace partenaires et accéder à [cette URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5).
 
 ### <a name="additional-resources"></a>Ressources supplémentaires
 
@@ -277,7 +277,7 @@ MDATP pour serveurs 350158a2-f253-4ea3-988e-eef9d1b828cf
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-Veuillez communiquer ces informations aux contacts concernés de votre organisation. Ce partage peut faire l’objet d’une conversation privée avec les clients, le cas échéant.
+Partagez ces informations avec les contacts concernés de votre organisation. Ce partage peut faire l’objet d’une conversation privée avec les clients, le cas échéant.
 
 Plus tard dans l’année, nous aurons plus d’informations publiques à partager avec vos clients.
 
@@ -288,7 +288,7 @@ Plus tard dans l’année, nous aurons plus d’informations publiques à partag
 
 ### <a name="questions"></a>Des questions ?
 
-Pour toute question concernant vos opérations avec Microsoft, [contactez le support via le tableau de bord de l'Espace partenaires](https://partner.microsoft.com/pcv/servicerequests/create).
+Pour toute question concernant vos opérations avec Microsoft, [contactez le support via le tableau de bord de l’Espace partenaires](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>Journal des modifications
 
@@ -320,7 +320,7 @@ Toute personne communiquant et utilisant le centre Americas Operations Center
 
 Tout matériel existant comportant l'adresse Reno actuelle devra être mis à jour. Tous les partenaires, clients et fournisseurs doivent immédiatement mettre à jour leurs systèmes avec la nouvelle adresse et veiller à ce que toutes les mises à jour soient terminées d'ici mai 2020.
 
-Voir ci-dessous pour plus de détails sur le changement d'adresse.
+Voir ci-dessous pour plus de détails sur le changement d’adresse.
 
 |**Informations de contact actuelles**|**Nouvelles informations de contact**|
 |-------------------|:------|
@@ -330,11 +330,11 @@ Il s'agit uniquement d'un changement d'adresse, et il n'est pas nécessaire de r
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-Veillez à ce que tous les systèmes, la correspondance et la documentation soient mis à jour avec les nouvelles coordonnées d'ici le 15 mai 2020. D'autres actions pourraient s'avérer nécessaires à l'approche de cette date.
+Veillez à ce que tous les systèmes, la correspondance et la documentation soient mis à jour avec les nouvelles coordonnées d’ici le 15 mai 2020. D'autres actions pourraient s'avérer nécessaires à l'approche de cette date.
 
 ### <a name="questions"></a>Des questions ?
 
-Veuillez [contacter le Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) si vous avez des questions ou des requêtes ou si vous avez besoin de plus d’informations.
+Si vous avez des questions ou des requêtes ou si vous avez besoin de plus d’informations, [contactez le support technique](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 _________________
 
@@ -365,7 +365,7 @@ Nous prévoyons également d'étendre cette offre aux clients du secteur de l'é
 
 L'ID d'offre initialement créé pour ce lancement était le suivant : Microsoft 365 E3 - Licence sans assistance : ec3ac2d1-dd66-475a-95c8-59c32c472778
 
-Veuillez consulter nos annonces de mai et notre liste de prix de production du 1er mai 2020 pour trouver l'ID d'offre mis à jour.
+Veuillez consulter nos annonces de mai et notre liste de prix de production du 1er mai 2020 pour trouver l’ID d’offre mis à jour.
 
 ### <a name="additional-background-on-unattended-license"></a>Informations complémentaires sur la licence sans assistance
 
@@ -375,11 +375,11 @@ Cette nouvelle licence peut fournir une nouvelle option d'utilisation des donné
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-Veuillez communiquer ces informations à toutes les personnes appropriées au sein de votre organisation, et n'hésitez pas à consulter les annonces disponibles sur [partner.microsoft.com](https://partner.microsoft.com) pour être informé des futures mises à jour.
+Veuillez communiquer ces informations à toutes les personnes appropriées au sein de votre organisation, et n’hésitez pas à consulter les annonces disponibles sur [partner.microsoft.com](https://partner.microsoft.com) pour être informé des futures mises à jour.
 
-### <a name="questions"></a>Des questions ?
+### <a name="questions"></a>Vous avez des questions ?
 
-Pour toute autre question sur ces offres, contactez votre représentant au sein de l'équipe des comptes Microsoft ou consultez les communautés Yammer concernées.
+Pour toute autre question sur ces offres, contactez votre représentant au sein de l’équipe des comptes Microsoft ou consultez les communautés Yammer concernées.
 
 _________________
 
@@ -412,7 +412,7 @@ Le 1er avril 2020, Microsoft a amélioré les offres Microsoft 365 A5 Compli
 - Gestion des enregistrements
 - Microsoft Cloud App Security (MCAS)
 
-Veuillez vous reporter aux ID d'offre suivants dans la liste de prix préliminaire :
+Veuillez vous reporter aux ID d’offre suivants dans la liste de prix :
 
 - Microsoft 365 A5 Compliance pour le corps enseignant| 9f8f1756-f56f-421e-901a-e80e857cadb8
 - Microsoft 365 A5 Compliance pour les étudiants | f0f9f37a-539f-4f44-aef6-e37070149499
@@ -425,7 +425,7 @@ Depuis le 1er avril 2020, les partenaires Microsoft peuvent également propose
 - Microsoft 365 A5 Insider Risk Management
 - Microsoft 365 A5 eDiscovery and Audit
 
-Veuillez vous reporter aux ID d'offre suivants dans la liste de prix préliminaire :
+Veuillez vous reporter aux ID d’offre suivants dans la liste de prix :
 
 - Microsoft 365 A5 Information Protection and Governance pour le corps enseignant | 0514821c-f7d8-41fc-8c94-59e59d3d6034
 - Microsoft 365 A5 Information Protection and Governance pour les étudiants | a91941ff-79a2-4476-a064-c5a6922e0bbd
@@ -453,11 +453,11 @@ Vous trouverez ci-dessous la liste des ID d'offre concernés :
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-Familiarisez-vous avec la liste de prix et partagez ces informations avec tous les contacts appropriés de votre organisation.
+Familiarisez-vous avec le tarif et partagez ces informations avec tous les contacts appropriés de votre organisation.
 
-### <a name="questions"></a>Des questions ?
+### <a name="questions"></a>Vous avez des questions ?
 
-Pour toute autre question concernant ces offres, contactez votre représentant au sein de l'équipe des comptes Microsoft. Si vous rencontrez des problèmes lors de vos opérations Microsoft, veuillez [ouvrir une demande de service](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Pour toute autre question concernant ces offres, contactez votre représentant au sein de l’équipe des comptes Microsoft. Si vous rencontrez des problèmes lors de vos opérations Microsoft, veuillez [ouvrir une demande de service](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 _________________
 
@@ -483,7 +483,7 @@ Les personnes et les équipes du monde entier passent au télétravail. Les part
 
 Nous sommes ravis d’annoncer une nouvelle version d’évaluation d’Office 365 E1 au sein du programme Fournisseurs de solutions cloud, créée spécifiquement pour prendre en charge la réponse des partenaires aux besoins croissants en matière de télétravail intelligent. Cette version d’évaluation est disponible à partir du 1er avril 2020 jusqu’à nouvel ordre.
 
-La version d’évaluation d’Office 365 E1 au sein du programme Fournisseur de solutions cloud est présent disponible, en plus de la version d’évaluation actuelle de Microsoft Teams (qui n’a pas Exchange et inclut 2 Go de stockage). La nouvelle version d’évaluation a des fonctionnalités équivalentes à la version d’évaluation d’Office 365 E1. Elle fournit 6 mois d’utilisation gratuite pour 3 000 utilisateurs au maximum. Disponible au sein du programme Fournisseur de solutions cloud, cette offre permet aux partenaires de lancer et de gérer l’expérience d’évaluation.
+La version d’évaluation d’Office 365 E1 au sein du programme Fournisseur de solutions cloud est présent disponible, en plus de la version d’évaluation actuelle de Microsoft Teams (qui n’a pas Exchange et inclut 2 Go de stockage). La nouvelle version d’essai a des fonctionnalités équivalentes à la version d’essai d’Office 365 E1. Elle fournit 6 mois d’utilisation gratuite pour 3 000 utilisateurs au maximum. Disponible au sein du programme Fournisseur de solutions cloud, cette offre permet aux partenaires de lancer et de gérer l’expérience d’évaluation.
 
 ### <a name="offer-id"></a>ID de l’offre
 
@@ -577,9 +577,9 @@ Depuis le 1er avril 2020, les offres eCommerce ont eu des modifications de nom
 
 Veuillez communiquer ces informations aux contacts concernés de votre organisation. Pour en savoir plus sur les mises à jour des licences et la proposition de valeur, familiarisez-vous avec le contenu de préparation disponible dans la section « Ressources supplémentaires » et sur PartnerSource.
 
-### <a name="questions"></a>Des questions ?
+### <a name="questions"></a>Vous avez des questions ?
 
-Pour obtenir une aide strictement liée à vos opérations avec Microsoft, veuillez [contacter le Support](https://partner.microsoft.com/pcv/servicerequests/create).
+Si vous avez besoin d’une aide strictement liée à vos opérations avec Microsoft, [contactez le support](https://partner.microsoft.com/pcv/servicerequests/create).
 
 _________________
 
@@ -626,7 +626,7 @@ Que devez-vous faire pour vous préparer ?
 
 ### <a name="questions"></a>Des questions ?
 
-Veuillez [contacter le Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) si vous avez des questions ou des requêtes ou si vous avez besoin de plus d’informations.
+Si vous avez des questions ou des requêtes ou si vous avez besoin de plus d’informations, [contactez le support technique](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 ### <a name="change-log"></a>Journal des modifications
 
@@ -698,11 +698,11 @@ En guise d’alternative, à compter du 1er avril 2020, vous pouvez acheter l�
 - **États-Unis uniquement :** Microsoft 365 Business Voice sans forfait d’appels : 39d77d0f-eb8f-4ebc-b618-692e1cc59c8f
 - **Reste du monde :** Microsoft 365 Business Voice sans forfait d’appels : cc69a07c-8c51-457f-bb2a-f21a62d6bede
 
-Veuillez contacter votre filiale locale pour comprendre comment profiter de cette offre.
+Contactez votre filiale locale pour comprendre comment profiter de cette offre.
 
 ### <a name="additional-guidance-for-partners-in-the-united-states-and-puerto-rico"></a>Conseils supplémentaires pour les partenaires aux États-Unis et à Porto Rico
 
-Aux États-Unis et à Porto Rico, le tarif de Business Voice inclut les taxes. Le prix facturé aux partenaires et payé par les partenaires à Microsoft inclut les taxes et frais de télécommunications applicables aux États-Unis. Sur d’autres marchés, les taxes seront appliquées selon le processus de facturation normal. Veuillez contacter votre conseiller juridique en ce qui concerne le versement des taxes, avant de décider de majorer le prix de Business Voice. Si Business Voice fait l’objet d’une majoration, le partenaire a besoin d’un moyen de verser les taxes de télécommunication. Sans quoi, le partenaire ne paiera pas la taxe incrémentielle sur la majoration, ce qui entraînera une violation des règles fiscales. Microsoft fournit des incentives supplémentaires aux partenaires Business Voice aux États-Unis, afin de compenser les manques de marge potentiels.
+Aux États-Unis et à Porto Rico, le tarif de Business Voice inclut les taxes. Le prix facturé aux partenaires et payé par les partenaires à Microsoft inclut les taxes et frais de télécommunications applicables aux États-Unis. Sur d’autres marchés, les taxes seront appliquées selon le processus de facturation normal. Contactez votre conseiller juridique en ce qui concerne le versement des taxes, avant de décider de majorer le prix de Business Voice. Si Business Voice fait l’objet d’une majoration, le partenaire a besoin d’un moyen de verser les taxes de télécommunication. Sans quoi, le partenaire ne paiera pas la taxe incrémentielle sur la majoration, ce qui entraînera une violation des règles fiscales. Microsoft fournit des incentives supplémentaires aux partenaires Business Voice aux États-Unis, afin de compenser les manques de marge potentiels.
 
 ### <a name="guidance-for-partners-in-australia"></a>Instructions pour les partenaires en Australie
 
@@ -718,7 +718,7 @@ Au fil du temps, nous espérons proposer Microsoft 365 Business Voice à tous l
 - Familiarisez-vous avec la liste de prix préliminaire et partagez ces informations avec tous les contacts appropriés de votre organisation.
 - Contactez votre équipe One Commercial Partner locale pour en savoir plus sur cette offre et comment vendre de façon efficace
 
-### <a name="questions"></a>Des questions ?
+### <a name="questions"></a>Vous avez des questions ?
 
 Pour toute question supplémentaire sur ces offres, contactez votre représentant de l’équipe Microsoft One Commercial Partner.
 
@@ -751,7 +751,7 @@ Depuis le 31 janvier 2020, tous les partenaires du programme Fournisseurs de sol
 - Les partenaires de facturation directe et les fournisseurs indirects qui n'auront pas accepté le Contrat Partenaire Microsoft ne seront pas en mesure de passer de nouvelles commandes et seront limités à la gestion des abonnements existants.
 - Les Revendeurs indirects qui n'auront pas accepté le Contrat Partenaire Microsoft ne seront plus autorisés à agir en tant que partenaire de référence sur les nouvelles commandes.
 
-**Si ce n'est déjà fait, effectuez immédiatement les actions suivantes.**
+**Si ce n’est déjà fait, effectuez immédiatement les actions suivantes.**
 
 ### <a name="actions-for-direct-bill-partners"></a>Actions pour les partenaires de facturation directe :
 1. Invitez les principales parties prenantes de votre organisation à lire le Contrat Partenaire Microsoft.

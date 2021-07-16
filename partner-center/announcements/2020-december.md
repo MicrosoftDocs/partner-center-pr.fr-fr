@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 06/18/2021
+ms.openlocfilehash: 101d67e42970e0aab4b2ea8bf0bc230cf57109d1
+ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740350"
+ms.lasthandoff: 06/21/2021
+ms.locfileid: "112424990"
 ---
 # <a name="december-2020-announcements"></a>Annonces de décembre 2020
 
@@ -397,8 +397,7 @@ Les détails de cette offre ci-après se trouvent dans la matrice de la liste de
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-- L’offre promotionnelle est disponible dans la matrice de la liste des offres et dans le tarif des licences officiels du centre des partenaires fournisseurs de solutions Cloud du 1er janvier 2021. 
-- Les questions relatives à cette promotion peuvent être publiées dans l’[annonce de la communauté Microsoft](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
+- L’offre promotionnelle est disponible dans le tableau des offres et dans la tarification des licences officiels de l’Espace partenaires des fournisseurs de solutions Cloud du 1er janvier 2021.
 
 ______________
 

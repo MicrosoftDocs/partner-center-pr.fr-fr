@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f8da6e1d1ff80776c71b3f3795ff19fbbab6f112
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132432"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151336"
 ---
 # <a name="using-the-skills-report"></a>Utilisation du rapport des qualifications
 
-**Rôles appropriés**
-
-- Administrateur partenaire MPN
-- Administrateur général
+**Rôles appropriés** : Administrateur partenaire MPN | Administrateur général
 
 Le rapport des qualifications permet aux partenaires du Microsoft Partner Network d’évaluer les qualifications acquises par les utilisateurs de leur société partenaire. Les qualifications du rapport peuvent inclure des évaluations, des certifications ou des examens effectués par les utilisateurs techniques du partenaire. 
 

@@ -9,19 +9,16 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ff61b34a9154cf305efbb42147e99b9579a17f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a429706848a469aace2704d4eaf3d57898ae578f
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686277"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915624"
 ---
 # <a name="security-requirements-status-report"></a>Rapport sur l’état des exigences de sécurité
 
-**Rôles appropriés**
-
-- Administrateur CPV
-- Administrateur général
+**Rôles appropriés** : Administrateur CPV | Administrateur général
 
 Cet article explique le rapport sur l’état des exigences de sécurité dans l’Espace partenaires. Ce rapport fournit des métriques sur la conformité des utilisateurs de votre locataire partenaire aux [exigences de sécurité des partenaires](partner-security-requirements.md) en matière d’authentification multifacteur (MFA).
 
@@ -115,4 +112,4 @@ Il peut s’avérer utile d’identifier les utilisateurs qui se connectent à l
 
 - [Communauté du groupe d’aide sur la sécurité de l’Espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Exigences de sécurité de l’Espace partenaires](partner-security-requirements.md)
-- [Questions fréquentes (FAQ) sur les exigences de sécurité de l’Espace partenaires](partner-security-requirements-faq.md)
+- [Questions fréquentes (FAQ) sur les exigences de sécurité de l’Espace partenaires](partner-security-requirements-faq.yml)

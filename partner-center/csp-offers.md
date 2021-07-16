@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 57cddcaf13431b0e61ef1573a4dd54b229c7e097
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964338"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147630"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Vue d’ensemble des offres pour les partenaires du programme Fournisseur de solutions Cloud
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
-- Agent commercial
+**Rôles appropriés** : Agent d’administration | Administrateur général | Commercial
 
 Les partenaires Microsoft du programme Fournisseur de solutions Cloud (CSP) ont un catalogue croissant d’offres à leur disposition. Vous pouvez vendre la gamme complète de [services cloud Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services) et diverses autres offres qui changent fréquemment. Pour vérifier les offres disponibles pour le mois en cours dans le cadre du programme Fournisseur de solutions Cloud, connectez-vous à l’Espace partenaires et accédez à la page [**Prix et offres**](https://partnercenter.microsoft.com/pcv/sales).  
 

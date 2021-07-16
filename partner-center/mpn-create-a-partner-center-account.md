@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8177222d2c39732ac36543e523f268313fb8c4e
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795055"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353735"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Créer un compte MPN dans l’Espace partenaires pour gérer les revenus et les compétences du réseau
 
-**Rôles appropriés**
-
-- Administrateur partenaire MPN
+**Rôles appropriés** : Administrateur partenaire MPN
 
 Si vous débutez avec Microsoft Partner Network (MPN) et que vous n’avez pas d’ID MPN, vous pouvez commencer votre inscription en suivant les [instructions d’inscription](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
@@ -38,8 +36,8 @@ Quand vous êtes prêt à créer un compte dans l’Espace partenaires, vous dev
 
 - Pour obtenir des informations sur le processus de vérification, consultez [Vérification de compte](verification-responses.md).
 
->[!NOTE]
->Si votre appartenance au Microsoft Partner Network est toujours dans le Partner Membership Center (PMC), vous devez migrer votre compte immédiatement vers l’Espace partenaires. Téléchargez le [Guide pas à pas pour migrer](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
+> [!NOTE]
+> Si vous avez un compte dans le Partner Membership Center (PMC), il a été migré vers l’Espace partenaires. Cliquez pour plus d’informations sur la [suppression du Partner Membership Center](partner-membership-center-retirement-faq.md).
 
 ## <a name="get-started"></a>Bien démarrer
 
@@ -112,7 +110,7 @@ Connectez-vous à l’Espace partenaires avec vos informations d’identificatio
 
 Vous pouvez également consulter d’autres informations importantes comme les ID MPN, gérer les emplacements MPN et visualiser le Contrat Partenaire Microsoft en utilisant les liens du menu de gauche, comme illustré dans la capture d’écran suivante.
 
-:::image type="content" source="images/mpn-new.png" alt-text="Profil de partenaire":::
+:::image type="content" source="images/mpn-new.png" alt-text="Profil de partenaire.":::
 
 
 ## <a name="next-steps"></a>Étapes suivantes

@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 779e76d6bb3e8df679a5ca6fa8ce441e42529161
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502495"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147290"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtenir les autorisations pour gérer le service ou l’abonnement d’un client
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés** : Agent d’administration | Commercial
 
 Pour gérer le service ou l’abonnement d’un client pour son compte, le client doit vous accorder des autorisations d’administrateur pour ce service. Pour obtenir des autorisations d’administrateur de la part d’un client, envoyez-lui une demande de relation de revendeur par e-mail. Une fois que le client a approuvé votre demande, vous êtes en mesure de vous connecter au portail d’administration du service et de gérer le service pour le compte du client. 
 

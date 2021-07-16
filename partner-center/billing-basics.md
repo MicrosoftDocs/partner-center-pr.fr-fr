@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964372"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149228"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Vue d’ensemble de la facturation pour les partenaires du programme Fournisseur de solutions Cloud utilisant l’Espace partenaires 
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur de la facturation
-- Administrateur général
-- Agent du support technique
-- Agent commercial
+**Rôles appropriés** : Agent d’administration | Administrateur de facturation | Administrateur général | Agent du support technique | Commercial
 
 Cet article fournit des informations de base sur la facturation et les factures à l’intention des partenaires CSP dans l’Espace partenaires, avec notamment des informations sur la manière de facturer les clients, de trouver votre facture et de la consulter.
 

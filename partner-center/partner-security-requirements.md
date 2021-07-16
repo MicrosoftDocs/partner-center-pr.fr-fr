@@ -9,18 +9,16 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 201ea34d30814974936da032805f1ee7dfa590be
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087057"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145845"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Exigences de sécurité concernant l’utilisation de l’Espace partenaires ou des API de l’Espace partenaires
 
-**Rôles appropriés**
-
-- Tous les utilisateurs de l’Espace partenaires
+**Rôles appropriés** : Tous les utilisateurs de l’Espace partenaires
 
 Cet article explique les exigences de sécurité obligatoires pour les conseillers Advisor, les fournisseurs de panneau de contrôle et les partenaires qui participent au programme Fournisseur de solutions Cloud, ainsi que les options d’authentification et d’autres considérations relatives à la sécurité. La sécurité et la protection de la confidentialité font partie de nos priorités. Nous savons que la meilleure défense est la prévention et que nous ne sommes pas plus solides que notre maillon le plus faible. C’est pourquoi nous avons besoin que tous les membres de notre écosystème puissent agir et vérifier que les protections de sécurité appropriées sont en place.
 

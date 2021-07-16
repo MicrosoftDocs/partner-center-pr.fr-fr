@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d73582d3cfe0aa19483526d9b77e55a4c7e0a0
-ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
+ms.openlocfilehash: d9f9ce631fe667030638e1a9167809e3dae69830
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113989755"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373871"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Utiliser les rapports Microsoft Learn Analytics
 
@@ -108,7 +108,7 @@ Pour obtenir les détails d’un apprenant à l’aide de l’ID d’objet utili
 
 2. copiez l’ID d’objet utilisateur dans la [zone mise en surbrillance](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) dans l’explorateur de Graph. 
 
-## <a name="frequently-asked-questions-faq"></a>Foire aux questions (FAQ)
+## <a name="frequently-asked-questions-faq"></a>Forum Aux Questions (FAQ)
 
 1. Je ne parviens pas à consulter les détails de l’apprentissage de mon entreprise.
 
@@ -140,4 +140,4 @@ Pour obtenir les détails d’un apprenant à l’aide de l’ID d’objet utili
 pour obtenir d’autres rapports, consultez l' [espace partenaires Informations](partner-center-insights.md).
 
 >[!NOTE] 
-> vous pouvez télécharger les données brutes qui alimentent ce rapport à partir de la section télécharger les rapports dans le tableau de bord Informations. [En savoir plus](pci-download-reports.md) 
+> vous pouvez télécharger les données brutes qui alimentent ce rapport à partir de la section télécharger les rapports dans le tableau de bord Informations. [En savoir plus](insights-download-reports.md) 

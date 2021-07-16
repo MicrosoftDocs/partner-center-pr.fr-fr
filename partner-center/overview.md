@@ -5,21 +5,19 @@ ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Utiliser l’Espace partenaires pour traiter avec Microsoft et vos clients
-author: laurabrenner
-ms.author: labrenne
+author: jasongroce
+ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132245"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353718"
 ---
 # <a name="what-is-partner-center"></a>Qu’est-ce que l’Espace partenaires ?
 
-**Rôles appropriés**
-
-- Tous les partenaires intéressés par l’Espace partenaires
+**Rôles appropriés** : tous les partenaires intéressés dans l’Espace partenaires
 
 L’[Espace partenaires](https://partner.microsoft.com/dashboard/home) permet de simplifier plusieurs processus métier afin de rendre plus facile, pour les partenaires Microsoft, la gestion de leur relation avec Microsoft et avec leurs clients. L’Espace partenaires vous permet d’accéder facilement aux outils dont vous avez besoin pour effectuer votre travail. Utilisez l’Espace partenaires pour :
 
@@ -33,7 +31,7 @@ L’[Espace partenaires](https://partner.microsoft.com/dashboard/home) permet de
 - Contacter le support technique
 - Publiez ou explorez des offres dans la [Place de marché commerciale de Microsoft](/azure/marketplace). Ce catalogue regroupe des milliers de services et applications commercialisables et à destination des clients, conçus et proposés par nos partenaires ISV (éditeurs de logiciels indépendants).
 
-:::image type="content" source="images/home.png" alt-text="Présentation de l’Espace partenaires":::
+:::image type="content" source="images/home.png" alt-text="Présentation de l’Espace partenaires":::.
 
 ## <a name="manage-your-account"></a>Gérer votre compte
 
@@ -70,7 +68,7 @@ Dans le tableau de bord de l’Espace partenaires, vous pouvez accéder à diff�
 - Les indicateurs de contribution des partenaires montrent l’impact des partenaires sur sept mesures clés de la réussite des clients.
 - Les rapports de données Insights des partenaires identifient vos meilleures ventes, vous aident à déterminer quels clients ont déployé leurs abonnements ou ont besoin de support, et indiquent les performances de vente de vos produits.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Déterminer où sont vos licences":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Déterminer où sont vos licences":::.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

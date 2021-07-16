@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 07/02/2021
+ms.openlocfilehash: d0cf7815a38f5f98349cc67aecd2567cef906d43
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740299"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297684"
 ---
 # <a name="january-2021-announcements"></a>Annonces de janvier 2021
 
@@ -541,9 +541,7 @@ Tous partenaires fournisseurs de solutions Cloud effectuant des transactions en 
 
 ### <a name="details"></a>Détails 
 
-Microsoft apporte des modifications à la liste des prix en roupies indiennes pour aligner les prix des logiciels commerciaux et des services en ligne en Inde et dans la région asiatique.
-
-L’annonce complète est disponible seulement pour les partenaires Microsoft. [Connectez-vous pour accéder à l’annonce complète](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
+Microsoft apporte des modifications à la liste des prix en roupies indiennes pour aligner les prix des logiciels commerciaux et des services en ligne en Inde et dans la région asiatique. Nous publierons plus de détails dès qu’ils seront disponibles. Si vous avez besoin d’aide en attendant, contactez le support de l’[Espace partenaires](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 

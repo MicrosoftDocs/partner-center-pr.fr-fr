@@ -9,22 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 366114cd78e96f95cd1ac649573a0164f6d062a9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474221"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150520"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Ajouter des licences ou des services supplémentaires à l’abonnement d’un client
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
-- Agent commercial
-- Agent du support technique
+**Rôles appropriés** : Administrateur général | Administrateur de la gestion des utilisateurs | Agent d’administration | Commercial | Agent du support technique
 
 Si votre client a besoin de plus de licences que dans son abonnement actuel ou d’une autre version offrant davantage de services, vous pouvez mettre à niveau l’abonnement. Pour plus d’informations, consultez [Basculer vers un autre plan Microsoft 365 Apps for business](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 

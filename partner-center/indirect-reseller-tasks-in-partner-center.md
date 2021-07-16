@@ -1,21 +1,20 @@
 ---
 title: Coopérer avec des fournisseurs indirects dans le programme CSP
+description: Découvrez comment les revendeurs indirects peuvent coopérer avec des fournisseurs indirects Microsoft (ou distributeurs) afin d’obtenir de l’aide pour le support technique et la facturation.
 ms.topic: how-to
-ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment les revendeurs indirects peuvent coopérer avec des fournisseurs indirects Microsoft (ou distributeurs) afin d’obtenir de l’aide pour le support technique et la facturation.
-ms.prod: ''
 ms.custom: contperf-fy21q2
+ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
-ms.localizationpriority: high
-ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 01/27/2021
+ms.openlocfilehash: f460ab4a692c9e8b515e361f3a18c4c240177b62
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880784"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450835"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Découvrir comment devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -67,7 +66,6 @@ Pour plus d’informations sur les conditions à remplir pour vendre dans le cad
 2. Lisez la **page Bienvenue** afin d’être sûr d’avoir les informations nécessaires pour vous inscrire, puis sélectionnez **Suivant**.
 
 3. Connectez-vous à l’aide de votre compte professionnel, c’est-à-dire le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter en tant qu’administrateur général à Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Si vous n’avez pas de compte professionnel, sélectionnez **Créer** pour en créer un maintenant. Après avoir créé votre compte professionnel, connectez-vous en utilisant les informations d’identification d’administrateur général de votre nouveau compte.
-  
 
 4. Indiquez ou mettez à jour le profil commercial, les informations juridiques, les coordonnées du contact principal et les coordonnées du service clientèle de votre entreprise. Pour accéder aux informations légales concernant votre entreprise, sélectionnez **Profil de l’organisation**, puis **Informations légales**. Sélectionnez **S’inscrire maintenant**.
 
@@ -78,30 +76,26 @@ Pour plus d’informations sur les conditions à remplir pour vendre dans le cad
 
 5. Associez votre ID MPN à votre compte CSP. Votre compte CSP et l’ID MPN associé doivent se trouver dans le même pays et votre ID MPN doit être dans l’Espace partenaires.
   
+   1. Connectez-vous à l’Espace partenaires avec les informations d’identification de votre compte « MPN » (vos informations d’identification MPN peuvent être différentes de vos informations d’identification du programme Fournisseur de solutions Cloud).
 
-   a. Connectez-vous à l’Espace partenaires avec les informations d’identification de votre compte « MPN » (vos informations d’identification MPN peuvent être différentes de vos informations d’identification CSP).
-   
-   b. Accédez à **Paramètres** -> **Paramètres du compte** -> **Profil de l’organisation** -> **Identificateurs**.
- 
-    c. Recherchez l’ID MPN avec le type « Localisation » correspondant au pays de ce compte CSP. 
+   2. Accédez à **Paramètres** -> **Paramètres du compte** -> **Profil de l’organisation** -> **Identificateurs**.
 
-    d. Si vous ne trouvez pas l’ID MPN de localisation correspondant au compte CSP que vous souhaitez utiliser, vous pouvez ajouter une nouvelle localisation qui créera un nouvel ID MPN. Pour en savoir plus, consultez [Gérer les emplacements](manage-locations.md).
+   3. Recherchez l’ID MPN avec le type « Localisation » correspondant au pays de ce compte CSP.
 
-    e. Vous pouvez différer cette étape pour l’instant. Cependant, vous ne pourrez pas signer le Contrat Partenaire Microsoft (MPA) ou effectuer des transactions dans CSP tant que vous n’aurez pas terminé le processus d’association de votre ID MPN à votre compte CSP.
+   4. Si vous ne trouvez pas l’ID MPN de localisation correspondant au compte Fournisseur de solutions Cloud que vous souhaitez utiliser, vous pouvez ajouter une nouvelle localisation qui créera un nouvel ID MPN. Pour en savoir plus, consultez [Gérer les emplacements](manage-locations.md).
 
- > [!IMPORTANT]  
- > Sélectionnez l’ID MPN disponible dans l’Espace partenaires et qui est dans le même pays que votre compte CSP, et vérifiez que votre ID MPN se trouve dans l’Espace partenaires.
+   5. Vous pouvez différer cette étape pour l’instant. Cependant, vous ne pourrez pas signer le Contrat Partenaire Microsoft (MPA) ni effectuer des transactions dans le programme Fournisseur de solutions Cloud tant que vous n’aurez pas terminé le processus d’association de votre ID MPN à votre compte Fournisseur de solutions Cloud.
+
+   > [!IMPORTANT]
+   > Sélectionnez l’ID MPN disponible dans l’Espace partenaires et qui est dans le même pays que votre compte CSP, et vérifiez que votre ID MPN se trouve dans l’Espace partenaires.
 
 6. Une fois que Microsoft a effectué la vérification de votre inscription, ce qui demande de 3 à 5 jours ouvrables, signez le Contrat Partenaire Microsoft sur la [vue d’ensemble du tableau de bord de l’Espace partenaires](https://partner.microsoft.com/pcv/dashboard/overview) en utilisant des informations d’identification d’administrateur général. Pour visualiser et télécharger le **Contrat Partenaire Microsoft** avant de le signer, cliquez sur le lien Contrat Partenaire Microsoft comme indiqué ci-dessous.  Si votre compte est bloqué sur la vérification après 5 jours ouvrables, lisez [Processus de vérification de compte](verification-responses.md).
 
+   :::image type="content" source="images/agreement-three.png" alt-text="Emplacement du nouveau Contrat Partenaire Microsoft.":::
 
-:::image type="content" source="images/agreement-three.png" alt-text="Nouvel emplacement du Contrat Partenaire Microsoft":::
+7. Vérifiez que vous avez signé le Contrat Partenaire Microsoft dans la section **Informations sur le programme** du profil de partenaire. Vous verrez également une notification de la bannière de confirmation dans la page Vue d’ensemble du fournisseur de solutions Cloud.
 
- 
-7. Vérifiez que vous avez signé le Contrat Partenaire Microsoft dans la section **Informations sur le programme** du profil de partenaire. Vous verrez également une notification de la bannière de confirmation dans la page Vue d’ensemble du fournisseur de solutions Cloud. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Bannière verte de l’acceptation":::
-
+   :::image type="content" source="images/microsoft-partner-agreement-green.png" alt-text="Bannière verte de l’acceptation.":::
 
 8. Quand votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d’agents administrateurs. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
@@ -139,7 +133,6 @@ Si un fournisseur indirect souhaite se connecter avec vous sur l’Espace parten
 
 Le lieu où vous exercez en tant que revendeur indirect CSP avec votre société légale détermine les fournisseurs indirects avec lesquels vous pouvez travailler, ainsi que les régions où vous pouvez être fournisseur de solutions Cloud. Pour plus d’informations, consultez [Marchés et devises du programme Fournisseur de solutions Cloud dans lesquels vous pouvez vendre des offres CSP](regional-authorization-overview.md).
 
-
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter le Contrat Partenaire Microsoft - FAQ](mpa-indirect-provider-faq.md)
@@ -157,4 +150,3 @@ Le lieu où vous exercez en tant que revendeur indirect CSP avec votre sociét�
 - [En savoir plus sur le processus de vérification](verification-responses.md)
 
 - [Voir les conditions pour les partenaires de facturation directs](direct-partner-new-requirements.md)
-
