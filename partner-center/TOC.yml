@@ -127,7 +127,7 @@
   href: microsoft-partner-agreement.md
   items:
     - name: Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter un contrat MPA
-      href: mpa-indirect-provider-faq.md
+      href: mpa-indirect-provider-faq.yml
       displayName: 'csp, mpa, indirect, provider'
     - name: 'Contrats, listes de prix, offres CSP'
       href: csp-documents-and-learning-resources.md
@@ -647,48 +647,90 @@
           href: partner-center-insights.md
           displayName: data
         - name: Accès basé sur les rôles Insights
-          href: pci-roles.md
+          href: insights-roles.md
         - name: Rapport Insights
           items:
             - name: Vue d'ensemble
-              href: pci-overview-report.md
+              href: insights-overview-report.md
             - name: Customer
-              href: pci-customer-report.md
+              href: insights-customer-report.md
             - name: Performances des revendeurs
-              href: pci-resellers-performance.md
+              href: insights-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Abonnements de produit
-              href: pci-product-subscriptions-report.md
+              href: insights-product-subscriptions-report.md
             - name: Utilisation d’Azure
-              href: pci-azure-usage-report.md
+              href: insights-azure-usage-report.md
             - name: Utilisation de Teams
-              href: pci-teams-usage-report.md
+              href: insights-teams-usage-report.md
             - name: "Utilisation d’Office\_365"
-              href: pci-office-365-usage-report.md
+              href: insights-office-365-usage-report.md
             - name: Utilisation de Dynamics
-              href: pci-dynamics-usage-report.md
+              href: insights-dynamics-usage-report.md
             - name: Utilisation d’Enterprise Mobility + Security
-              href: pci-enterprise-mobility-security-usage-report.md
+              href: insights-enterprise-mobility-security-usage-report.md
             - name: "Utilisation de Power\_BI"
-              href: pci-power-bi-usage-report.md
+              href: insights-power-bi-usage-report.md
             - name: Entrainement
-              href: pci-training-dashboard.md
+              href: insights-training-dashboard.md
             - name: Analytique Microsoft Learn
               href: ms-learn-analytics.md
             - name: Compétences
-              href: pci-competencies-report.md
+              href: insights-competencies-report.md
             - name: Avantages
-              href: pci-benefits-report.md
+              href: insights-benefits-report.md
             - name: Propension CloudAscent
-              href: pci-customer-opportunities.md
+              href: insights-customer-opportunities.md
             - name: Licences de produits
-              href: pci-product-licenses-report.md
+              href: insights-product-licenses-report.md
         - name: Insights - Questions fréquentes (FAQ)
-          href: pci-known-issues.md
+          href: insights-known-issues.md
         - name: Télécharger les rapports Insights
-          href: pci-download-reports.md
+          href: insights-download-reports.md
+        - name: Accès programmatique à l’analytique
+          items:
+            - name: Bien démarrer
+              href: insights-programmatic-get-started.md
+            - name: Prérequis pour l’accès programmatique
+              href: insights-programmatic-prerequisites.md
+            - name: Paradigme de l’accès programmatique
+              href: insights-programmatic-access-paradigm.md
+            - name: Effectuer votre premier appel d’API programmatique
+              href: insights-programmatic-first-api-call.md
+            - name: Liste des requêtes système
+              href: insights-programmatic-system-queries.md
+            - name: Exemples de requêtes
+              href: insights-programmatic-sample-queries.md
+            - name: Spécification de requête personnalisée
+              href: insights-programmatic-custom-query.md
+            - name: Exemple d’application
+              href: insights-programmatic-sample-application.md
+            - name: Forum aux questions
+              href: insights-programmatic-faq.md
+            - name: Informations de référence des API
+              items:
+                - name: API disponibles
+                  href: insights-programmatic-analytics-available-api.md
+                - name: Obtenir tous les jeux de données
+                  href: insights-programmatic-analytics-api-get-dataset.md
+                - name: Obtenir des requêtes de rapport
+                  href: insights-programmatic-analytics-api-get-report-queries.md
+                - name: Supprimer des requêtes de rapport
+                  href: insights-programmatic-analytics-api-delete-report-queries.md
+                - name: Essayer des requêtes de rapport
+                  href: insights-programmatic-analytics-api-try-report-queries.md
+                - name: Télécharger le rapport
+                  href: insights-programmatic-analytics-api-get-report.md
+                - name: Mettre à jour le rapport
+                  href: insights-programmatic-analytics-api-update-report.md
+                - name: Supprimer le rapport
+                  href: insights-programmatic-analytics-api-delete-report.md
+                - name: Mettre en pause les exécutions de rapport
+                  href: insights-programmatic-analytics-api-pause-report-executions.md
+                - name: Reprendre les exécutions de rapport
+                  href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: Définitions de données Insights
-          href: pci-data-definitions.md
+          href: insights-data-definitions.md
     - name: Indicateurs des contributions de partenaires
       items:
         - name: Pour la compétence Applications métier du cloud

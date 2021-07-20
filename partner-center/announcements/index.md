@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 12684ee4949102ebbae5ce3e98ea38decfd34bb7
+ms.sourcegitcommit: b347181a7dd577395b47ef2c0fc680e9cfb3711f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684268"
+ms.lasthandoff: 07/17/2021
+ms.locfileid: "114394279"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 |**Catégorie**|**Annonces de juillet 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Offres/marchés|[corrections de la liste de prix des services basés sur une licence d’août pour Enterprise Mobility & Security (EMS) E3](2021-july.md#10)| 16 juillet |
 |Fonctions|[Changement de logiciel dans les programmes CSP (Cloud Solution Provider) et Open License Microsoft China Corporation Limited (MCCL)](2021-july.md#9)| 13 juillet |
 |Préparation|[Modifications apportées à l’API de validation des adresses client des fournisseur de solutions cloud (CSP), effectives le 13 juillet 2021](2021-july.md#8)| 12 juillet |
 |Fonctions|[Mise à jour et rappels de la communauté des fournisseurs de solutions cloud (CSP) - Juillet](2021-july.md#7)| 12 juillet |
